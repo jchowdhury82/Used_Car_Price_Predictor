@@ -1,0 +1,904 @@
+vin|year|make|model|trim|pricecategory|pricevariance|price|mileage|city|state|colorexterior|colorinterior|accidenthist|owner|usage
+4JGDF6EE7KB183780|2019|Mercedes-Benz|GLS|GLS 450 4MATIC SUV|Fair Price|At or near avg. list price|45996|28537|Fort Lauderdale|FL|Black|Black|no| 1| personal
+5XXGN4A70FG352795|2015|Kia|Optima|EX|Great Price|$220 off avg. list price|11999|50028|Bellflower|CA|Black|Beige|no| 2| personal
+1HGCR2F51DA199322|2013|Honda|Accord|Sport Sedan I4 CVT|Fair Price|At or near avg. list price|10599|109932|Santa Ana|CA|Unknown|Unknown|no| 2| fleet
+2C4RDGCG8KR551301|2019|Dodge|Grand Caravan|SXT|Excellent Price|$3004 off avg. list price|12993|42070|Ocala|FL|Gray|Black|no| 1| personal
+3N1AB7AP5JL640666|2018|Nissan|Sentra|SV CVT|||10000|18430|Honolulu|HI|Silver|Black|1| 1| fleet
+3N1AB7AP2KY231948|2019|Nissan|Sentra|S CVT|Excellent Price|$1853 off avg. list price|8991|15305|Hollywood|FL|Silver|Black|no| 1| fleet
+JTDEPRAE9LJ022450|2020|Toyota|Corolla|LE CVT|Excellent Price|$1152 off avg. list price|13999|10267|Newport Beach|CA|White|Unknown|no| 1| personal
+3FA6P0CD0KR233938|2019|Ford|Fusion|SEL FWD|Excellent Price|$2523 off avg. list price|10791|24686|Hollywood|FL|Black|Black|1| 1| fleet
+KNMAT2MT9KP537567|2019|Nissan|Rogue|SV FWD|Excellent Price|$1971 off avg. list price|14804|27162|Fontana|CA|White|Black|no| 1| personal
+3N1AB7AP4KY365425|2019|Nissan|Sentra|SV CVT|Excellent Price|$1894 off avg. list price|9900|18600|Scottsdale|AZ|Gray|Black|1|| fleet
+KNDJN2A27G7831112|2016|Kia|Soul|Base Automatic|||5429|116811|Maitland|FL|Black|Black|1| 1| personal
+3N1AB7AP0KL626238|2019|Nissan|Sentra|SV CVT|Excellent Price|$1196 off avg. list price|10990|28600|Chantilly|VA|Gray|Black|no| 1| fleet
+1GAZGPFP8K1179779|2019|Chevrolet|Express Passenger|3500 LT LWB|Excellent Price|$3060 off avg. list price|19402|35210|Concord|CA|White|Gray|no| 1| personal
+1GAZGPFP5K1279130|2019|Chevrolet|Express Passenger|3500 LT LWB|Excellent Price|$3233 off avg. list price|18875|28164|Farmington|NM|White|Gray|no| 1| fleet
+2C4RDGCGXKR600336|2019|Dodge|Grand Caravan|SXT|Excellent Price|$2147 off avg. list price|18388|21902|Chehalis|WA|White|Black|no| 1| personal
+3FA6P0LU1KR187942|2019|Ford|Fusion|Hybrid SE FWD|Excellent Price|$1960 off avg. list price|15349|18378|Chatom|AL|Gray|Unknown|1| 1| personal
+KNMAT2MT0KP529843|2019|Nissan|Rogue|SV FWD|Excellent Price|$1797 off avg. list price|18552|30841|Las Cruces|NM|Gray|Black|no| 1| personal
+1GAZGPFG0K1173135|2019|Chevrolet|Express Passenger|3500 LT LWB|Excellent Price|$3999 off avg. list price|19097|33375|Overland Park|KS|Silver|Gray|no| 1| personal
+5YFEPRAE2LP040526|2020|Toyota|Corolla|LE CVT|Excellent Price||14487|12164|San Antonio|TX|White|Black|no| 1| personal
+KNMAT2MT2KP514244|2019|Nissan|Rogue|SV FWD|Excellent Price|$1706 off avg. list price|15499|40675|North Hills|CA|White|Black|no| 1| personal
+5YFEPRAE5LP065386|2020|Toyota|Corolla|LE CVT|Excellent Price|$987 off avg. list price|15579|17185|Colorado Springs|CO|Gray|Black|no| 1| personal
+4T1B11HK1KU242837|2019|Toyota|Camry|LE Automatic|Excellent Price|$1396 off avg. list price|16486|31506|Fort Dodge|IA|White|Black|no| 1| personal
+3FA6P0LU8KR256660|2019|Ford|Fusion|Hybrid SE FWD|Excellent Price||14997|25400|Dallas|TX|White|Unknown|no| 1| personal
+3FA6P0LU9KR256733|2019|Ford|Fusion|Hybrid SE FWD|Excellent Price||14997|25509|Dallas|TX|White|Unknown|no| 1| personal
+3FA6P0LU0KR180934|2019|Ford|Fusion|Hybrid SE FWD|Excellent Price|$1372 off avg. list price|15800|36159|Reno|NV|Black|Black|no| 1| personal
+KNMAT2MT4KP528954|2019|Nissan|Rogue|SV FWD|Excellent Price|$1722 off avg. list price|15097|26642|Fontana|CA|Silver|Black|no| 1| personal
+3C4PDDEG8KT784532|2019|Dodge|Journey|GT AWD|Excellent Price|$2266 off avg. list price|20597|23863|Albuquerque|NM|White|Black|no| 1| personal
+1G1PC5SB8E7102736|2014|Chevrolet|Cruze|LT with 1LT Automatic|Excellent Price|$1089 off avg. list price|5000|96954|Palm Coast|FL|White|Gray|1| 3| personal
+5YFEPRAE3LP076323|2020|Toyota|Corolla|LE CVT|Excellent Price||15499|7209|Boerne|TX|Silver|Black|no| 1| personal
+3N1AB7AP5KL608429|2019|Nissan|Sentra|SV CVT|Excellent Price|$991 off avg. list price|13030|35620|Fresno|CA|Black|Black|no| 1| personal
+2C4RDGCG6KR600687|2019|Dodge|Grand Caravan|SXT|Excellent Price|$1902 off avg. list price|15500|37605|Albany|OR|Gray|Black|1| 1| personal
+1GAZGPFP7K1277864|2019|Chevrolet|Express Passenger|3500 LT LWB|Excellent Price|$2857 off avg. list price|19190|25351|Farmington|NM|White|Gray|no| 1| fleet
+JTDEPRAE4LJ028091|2020|Toyota|Corolla|LE CVT|Excellent Price|$1079 off avg. list price|14988|17173|Oklahoma City|OK|Silver|Unknown|no| 1| personal
+3N1AB7AP0KY344121|2019|Nissan|Sentra|SR CVT|Excellent Price|$1388 off avg. list price|11900|10406|Fredericksburg|VA|Black|Black|1| 1| personal
+2C4RDGCG1KR661719|2019|Dodge|Grand Caravan|SXT|Excellent Price|$1310 off avg. list price|14350|45611|Jacksonville|NC|White|Black|no| 1| personal
+3N1AB7AP9KY324238|2019|Nissan|Sentra|S CVT|Excellent Price|$1629 off avg. list price|12000|27321|Show Low|AZ|Silver|Black|no| 1| personal
+1FADP3F24EL296319|2014|Ford|Focus|SE Sedan|||5500|98710|Kearney|MO|Red|Gray|1| 2| personal
+2C4RDGCG6KR623175|2019|Dodge|Grand Caravan|SXT|Excellent Price|$1420 off avg. list price|17450|33246|Albuquerque|NM|Black|Black|no| 1| personal
+2T1BURHE5HC784159|2017|Toyota|Corolla|L CVT|Excellent Price|$2325 off avg. list price|9900|64968|Wilson|NC|Black|Gray|no| 3| personal
+4T1B11HK5KU237334|2019|Toyota|Camry|SE Automatic|Excellent Price|$2213 off avg. list price|19950|36508|Manhattan|KS|White|Black|no| 1| fleet
+1VWCN7A32EC044701|2014|Volkswagen|Passat|TDI SEL Premium Sedan DSG|Excellent Price|$2009 off avg. list price|10495|47784|Saddle Brook|NJ|White|Black|1| 3| personal
+3N1AB7AP5KL625926|2019|Nissan|Sentra|SV CVT|Excellent Price|$943 off avg. list price|13150|33173|Fresno|CA|Black|Black|no| 1| personal
+5YFEPRAEXLP047434|2020|Toyota|Corolla|LE CVT|Excellent Price||14000|18725|Boerne|TX|White|Black|no| 1| personal
+3CZRU6H33HM713409|2017|Honda|HR-V|LX AWD CVT|||11500|46619|Richland|WA|Black|Black|1| 1| personal
+WBXPC93407WF23783|2007|BMW|X3|3.0si AWD|||4950|146988|Brooklyn|NY|Black|Brown|2| 4| fleet
+19XFB2F57CE055883|2012|Honda|Civic|LX Sedan Automatic|Excellent Price||4900|138989|San Antonio|TX|Silver|Gray|1| 2| fleet
+3C4PDDEG9KT794762|2019|Dodge|Journey|GT AWD|Excellent Price||19897|22914|Dallas|TX|Gray|Red|no| 1| personal
+2C4RDGCG6KR747379|2019|Dodge|Grand Caravan|SXT|Excellent Price|$1566 off avg. list price|18492|15767|San Leandro|CA|Silver|Black|no| 1| personal
+2HGFC1E52HH706214|2017|Honda|Civic|Si Sedan Manual|Excellent Price|$2044 off avg. list price|13999|33938|San Diego|CA|White|Gray|1| 2| fleet
+3N1AB7AP1KY310463|2019|Nissan|Sentra|SV CVT|Excellent Price|$750 off avg. list price|11188|26445|Tampa|FL|White|Black|no| 1| personal
+3FA6P0LUXKR187387|2019|Ford|Fusion|Hybrid SE FWD|Excellent Price||13995|32777|San Antonio|TX|Gray|Gray|no| 1| personal
+KMHD84LF6HU381273|2017|Hyundai|Elantra|Limited 2.0L Sedan Automatic|Excellent Price|$1946 off avg. list price|9990|49000|Lawndale|CA|Silver|Gray|2| 1| fleet
+2C4RDGCG0KR706858|2019|Dodge|Grand Caravan|SXT|Excellent Price||17991|25480|Spring|TX|Gray|Black|no| 1| personal
+WDDSJ4EBXEN062335|2014|Mercedes-Benz|CLA|CLA 250 FWD|Excellent Price||15991|3927|The Woodlands|TX|Silver|Beige|no| 3| personal
+2HGFB2F50DH516168|2013|Honda|Civic|LX Sedan Automatic|Excellent Price|$1667 off avg. list price|8351|88615|Ocala|FL|Black|Gray|1| 2| personal
+3N1AB7AP6KY425981|2019|Nissan|Sentra|SV CVT|Excellent Price|$1430 off avg. list price|12995|10707|Philadelphia|PA|Blue|Black|no| 1| fleet
+5NPD74LF9HH101234|2017|Hyundai|Elantra|SE 2.0L Sedan Automatic (alt)|Excellent Price|$1141 off avg. list price|5500|115844|Fort Pierce|FL|White|Gray|no| 2| personal
+3N1AB7AP5KY288306|2019|Nissan|Sentra|SV CVT|Excellent Price|$1447 off avg. list price|13992|12497|Huntington Beach|CA|Blue|Black|no| 1| personal
+1N4BL4EVXKC217591|2019|Nissan|Altima|SL FWD|Excellent Price|$1753 off avg. list price|14881|35225|Maple Shade|NJ|Black|Gray|no| 1| personal
+5N1AT2MT2KC742179|2019|Nissan|Rogue|S FWD|Excellent Price|$3820 off avg. list price|17998|6984|Delray Beach|FL|Silver|Unknown|no|| personal
+3N1AB7AP4KY328147|2019|Nissan|Sentra|SV CVT|Excellent Price|$1257 off avg. list price|12798|29495|Tracy|CA|Silver|Black|no| 1| personal
+5GTDN136768197244|2006|HUMMER|H3|SUV|Excellent Price|$1893 off avg. list price|7999|160422|Longmont|CO|White|Black|no| 5| personal
+4T1B11HK2KU299080|2019|Toyota|Camry|SE Automatic|Excellent Price|$1764 off avg. list price|18999|9687|Concord|NC|Blue|Gray|no| 1| personal
+1G1PC5SB5E7429093|2014|Chevrolet|Cruze|LT with 1LT Automatic|||5800|63503|Orlando|FL|White|Gray|no| 4| fleet
+5UXWX5C54BL715437|2011|BMW|X3|xDrive28i AWD|||12499|17422|Alexandria|VA|Black|Unknown|no| 1| personal
+KNMAT2MT8KP508576|2019|Nissan|Rogue|SV FWD|Excellent Price||18070|17906|Stafford|TX|Black|Black|no| 1| personal
+1HGCR2F3XHA184709|2017|Honda|Accord|LX Sedan CVT|Excellent Price|$981 off avg. list price|13800|36755|Pikeville|KY|Black|Black|no| 1| personal
+JTDEPRAE0LJ027892|2020|Toyota|Corolla|LE CVT|Excellent Price||13786|22060|Boerne|TX|White|Unknown|no| 1| personal
+JTDEPRAE1LJ036049|2020|Toyota|Corolla|LE CVT|Excellent Price|$808 off avg. list price|16297|25811|Albuquerque|NM|White|Unknown|no| 1| personal
+3FA6P0HDXER168965|2014|Ford|Fusion|SE FWD|Excellent Price|$1763 off avg. list price|8990|105010|Greensboro|NC|Black|Black|no| 2| fleet
+3FADP4EJ8FM118251|2015|Ford|Fiesta|SE Hatchback|||4995|95676|Wilmington|CA|White|Unknown|1| 1| fleet
+1GAZGPFP0K1161163|2019|Chevrolet|Express Passenger|3500 LT LWB|Excellent Price|$2006 off avg. list price|19397|34668|Orlando|FL|White|Gray|no| 1| personal
+KMHD04LB8HU352605|2017|Hyundai|Elantra|Sport 1.6T Sedan Manual|Excellent Price|$2628 off avg. list price|13599|29319|Boise|ID|Blue|Black|no| 2| personal
+1N4AL3AP8FN891309|2015|Nissan|Altima|2.5|||7995|118726|Rockford|IL|Black|Unknown|no| 2| personal
+3FA6P0LU5KR226774|2019|Ford|Fusion|Hybrid SE FWD|Excellent Price|$1236 off avg. list price|15349|18668|Chatom|AL|White|Unknown|1| 1| personal
+JM1CW2BL5F0185654|2015|Mazda|Mazda5|Sport|||7495|83277|Dallas|TX|Silver|Black|no| 2| fleet
+1N4BL4CV1KC163780|2019|Nissan|Altima|SR FWD|Excellent Price|$1910 off avg. list price|17995|32500|Philadelphia|PA|Black|Black|no| 3| fleet
+KNMAT2MT7KP516023|2019|Nissan|Rogue|SV FWD|Excellent Price|$1267 off avg. list price|16995|33014|Lexington|SC|Gray|Black|no| 1| fleet
+3KPC24A32KE058077|2019|Hyundai|Accent|SE Automatic|Excellent Price||10999|20467|Dallas|TX|Silver|Black|no| 1| personal
+KMHD84LF8HU227941|2017|Hyundai|Elantra|SE 2.0L Sedan Automatic (Ulsan)|Excellent Price|$2419 off avg. list price|11895|28807|Virginia Beach|VA|Silver|Unknown|no| 1| personal
+2C4RDGCG8KR758612|2019|Dodge|Grand Caravan|SXT|Excellent Price|$1881 off avg. list price|19927|11325|Fresno|CA|White|Black|no| 1| fleet
+KNMAT2MT9KP528030|2019|Nissan|Rogue|SV FWD|Excellent Price|$1054 off avg. list price|16897|30127|Nashville|TN|White|Black|no| 1| personal
+3FAHP0DC5BR233271|2011|Ford|Fusion|Sport AWD|||5000|120957|Shawnee|OK|Black|Unknown|no| 2| fleet
+3FADP4BJ0KM107680|2019|Ford|Fiesta|SE Sedan|Excellent Price|$1469 off avg. list price|7491|27810|Hollywood|FL|Black|Gray|1| 1| personal
+1N4AL3APXHN338311|2017|Nissan|Altima|2.5 S|||6950|54413|PORTLAND|OR|Silver|Black|1| 2| fleet
+KNMAT2MT5KP516148|2019|Nissan|Rogue|SV FWD|Excellent Price||16995|38817|Seguin|TX|Silver|Black|no| 1| personal
+JTDEPRAE1LJ007540|2020|Toyota|Corolla|LE CVT|Great Price|$583 off avg. list price|17748|9897|Tacoma|WA|White|Unknown|no| 1| personal
+4T1B11HK1KU239422|2019|Toyota|Camry|LE Automatic|Excellent Price|$1495 off avg. list price|16275|29454|Fontana|CA|Black|Unknown|no| 1| personal
+3N1AB7AP7KL606424|2019|Nissan|Sentra|SV CVT|Excellent Price|$991 off avg. list price|14491|8721|Greenville|SC|Black|Black|no| 1| personal
+5N1AT2MV5HC742574|2017|Nissan|Rogue|SV AWD|Excellent Price|$2139 off avg. list price|15500|32363|Fuquay Varina|NC|Black|Black|no| 1| personal
+YV4SZ592371264962|2007|Volvo|XC70|2.5L Turbo|||3999|195000|Easton|MD|Silver|Unknown|no| 3| personal
+1N4AL3AP2FN387113|2015|Nissan|Altima|2.5 S|Excellent Price|$1295 off avg. list price|9500|64274|Kirkland|WA|White|Black|no| 3| fleet
+JTDEPRAE7LJ019689|2020|Toyota|Corolla|LE CVT|Great Price||15444|31595|League City|TX|White|Unknown|no| 1| personal
+KNMAT2MT5KP501990|2019|Nissan|Rogue|SV FWD|Excellent Price|$1345 off avg. list price|16954|23724|Holly Springs|GA|Gray|Black|no| 1| personal
+5YFEPRAE9LP038384|2020|Toyota|Corolla|LE CVT|Great Price|$405 off avg. list price|15500|16687|Birmingham|AL|White|Black|1| 1| fleet
+2C4RDGCG8KR623047|2019|Dodge|Grand Caravan|SXT|Excellent Price|$1328 off avg. list price|16997|25418|Pasco|WA|Silver|Black|no| 1| personal
+5N1AT2MVXHC826163|2017|Nissan|Rogue|2017.5 SL AWD|||14999|20502|Greensboro|NC|White|Beige|1| 1| personal
+KNMAT2MT0KP545721|2019|Nissan|Rogue|SV FWD|Excellent Price|$1184 off avg. list price|15750|26506|Fontana|CA|White|Black|no| 1| personal
+KNMAT2MTXKP519417|2019|Nissan|Rogue|SV FWD|Excellent Price|$1200 off avg. list price|15885|26788|Fontana|CA|White|Black|no| 1| personal
+3FA6P0LU5KR180976|2019|Ford|Fusion|Hybrid SE FWD|Excellent Price|$978 off avg. list price|15999|31052|Reno|NV|White|Black|no| 1| personal
+KNMAT2MT6KP534903|2019|Nissan|Rogue|SV FWD|Excellent Price|$1201 off avg. list price|17900|18592|Orange|CA|Black|Black|no| 1| fleet
+3FA6P0LU2KR236677|2019|Ford|Fusion|Hybrid SE FWD|Excellent Price|$998 off avg. list price|15999|29476|Reno|NV|Black|Black|no| 1| personal
+2C4RDGCG2KR621147|2019|Dodge|Grand Caravan|SXT|Excellent Price|$1159 off avg. list price|14654|34088|Sarasota|FL|Black|Black|no| 2| personal
+3N1AB7AP5KY218935|2019|Nissan|Sentra|S CVT|Excellent Price||10999|39209|Garland|TX|Silver|Black|no| 1| personal
+2C4RDGCG2KR674009|2019|Dodge|Grand Caravan|SXT|Excellent Price|$1454 off avg. list price|17000|32658|Reno|NV|Red|Black|no| 1| personal
+JTDKB20U677655251|2007|Toyota|Prius|Hatchback|||3199|160409|Statesboro|GA|White|Beige|no| 4| fleet
+3N1AB7AP3JY245694|2018|Nissan|Sentra|SV CVT|Excellent Price|$1563 off avg. list price|9995|66865|Kennesaw|GA|White|Black|no| 3| personal
+4T1B11HK0KU188916|2019|Toyota|Camry|LE Automatic|Excellent Price|$1624 off avg. list price|19420|6492|Lynnwood|WA|White|Gray|no| 1| personal
+JTDEPRAE7LJ051798|2020|Toyota|Corolla|LE CVT|Excellent Price||15499|18690|Boerne|TX|Black|Black|no| 1| personal
+3FAHP0JA6CR135791|2012|Ford|Fusion|SEL FWD|||4699|147054|Williamstown|NJ|Black|Black|no| 1| personal
+JTLZE4FE7CJ003645|2012|Scion|xB|Base Automatic|||4200|139649|Houston|TX|Silver|Black|1| 1| personal
+1N4BL4CVXKC114125|2019|Nissan|Altima|SR FWD|Excellent Price|$1758 off avg. list price|16796|18371|Yonkers|NY|Black|Black|no| 1| personal
+2C4RDGCG1KR566139|2019|Dodge|Grand Caravan|SXT|Excellent Price|$962 off avg. list price|17014|41264|Fresno|CA|White|Black|no| 1| personal
+5YFEPRAE2LP010913|2020|Toyota|Corolla|LE CVT|Great Price|$552 off avg. list price|15494|10344|Gainesville|FL|White|Black|no| 1| personal
+JTDEPRAE0LJ062111|2020|Toyota|Corolla|LE CVT|Excellent Price|$820 off avg. list price|11999|64288|Miami Gardens|FL|Black|Gray|no| 1| personal
+3FA6P0LU5KR207609|2019|Ford|Fusion|Hybrid SE FWD|Excellent Price||15491|21144|Tomball|TX|Silver|Unknown|no| 1| personal
+JA3215H12CU025235|2012|Mitsubishi|i-MiEV|ES|||6500|21919|Fuquay Varina|NC|Black|Black|no| 3| fleet
+1G1ZD5ST8LF008485|2020|Chevrolet|Malibu|LT|Excellent Price|$1194 off avg. list price|20302|12071|Bossier City|LA|White|Black|no| 1| fleet
+1N4BL4EVXKC176329|2019|Nissan|Altima|SL FWD|Excellent Price|$1370 off avg. list price|17500|27720|Kirkland|WA|Gray|Black|no| 1| personal
+3N1AB7AP8KL623698|2019|Nissan|Sentra|SV CVT|Excellent Price|$572 off avg. list price|10978|29778|Tampa|FL|White|Black|no| 1| personal
+2C4RDGCG6KR690276|2019|Dodge|Grand Caravan|SXT|Excellent Price|$1066 off avg. list price|17097|28836|Oakbrook|IL|White|Black|no| 1| personal
+3N1AB7AP7JY240711|2018|Nissan|Sentra|S CVT|Excellent Price|$1827 off avg. list price|13995|38182|Albuquerque|NM|Black|Black|no| 2| fleet
+JTDEPRAE4LJ024672|2020|Toyota|Corolla|LE CVT|Excellent Price||15499|26268|Boerne|TX|Black|Black|no| 1| personal
+2C4RDGCG7KR671901|2019|Dodge|Grand Caravan|SXT|Excellent Price|$1263 off avg. list price|16995|14532|Lynnwood|WA|White|Black|1| 1| personal
+1G1PG5SC8C7185272|2012|Chevrolet|Cruze|LT with 2LT|||4993|135147|Fox Lake|IL|Red|Brown|no| 3| fleet
+2C4RDGCG8KR618723|2019|Dodge|Grand Caravan|SXT|Excellent Price|$1314 off avg. list price|17097|28875|Minneapolis|MN|White|Black|no| 1| personal
+1G1ZD5ST0LF040976|2020|Chevrolet|Malibu|LT|Excellent Price|$1471 off avg. list price|17995|7466|Hialeah|FL|Silver|Black|no| 1| personal
+KNMAT2MVXHP546921|2017|Nissan|Rogue|SV AWD|Excellent Price|$1734 off avg. list price|18899|19618|Tulsa|OK|Black|Black|no| 1| fleet
+2A4RR5D19AR230571|2010|Chrysler|Town & Country|Touring|Excellent Price||4000|194063|Rockwall|TX|White|Beige|no| 3| personal
+3N1AB7AP6KY206924|2019|Nissan|Sentra|S CVT|Excellent Price|$1024 off avg. list price|9888|44909|Fontana|CA|Silver|Black|no| 1| personal
+JTHBA30G665167512|2006|Lexus|ES|ES 330|||4199|179508|Lynnwood|WA|Gold|Beige|no| 1| personal
+2HGFA165X7H508290|2007|Honda|Civic|LX Sedan Automatic|Excellent Price|$1062 off avg. list price|4699|127350|Davis|CA|Silver|Gray|no| 4| fleet
+3N1AB7AP6KY301726|2019|Nissan|Sentra|S CVT|Excellent Price|$663 off avg. list price|11992|30343|Glendale|AZ|Black|Black|no| 1| fleet
+3N1AB7AP2KY433060|2019|Nissan|Sentra|SV CVT|Excellent Price|$908 off avg. list price|12999|7615|Fredericksburg|VA|Blue|Black|no| 1| fleet
+1FMCU9G99FUB32682|2015|Ford|Escape|SE 4WD|Excellent Price|$1324 off avg. list price|5980|190265|Salt Lake City|UT|White|Gray|no| 2| fleet
+2HGFB2F5XDH551431|2013|Honda|Civic|LX Sedan Automatic|Excellent Price|$2125 off avg. list price|9995|87700|Honolulu|HI|Gray|Gray|no| 2| personal
+JTDEPRAE9LJ044321|2020|Toyota|Corolla|LE CVT|Excellent Price|$810 off avg. list price|16897|19800|Albuquerque|NM|Silver|Unknown|no| 1| personal
+4T1B11HK3KU727688|2019|Toyota|Camry|LE Automatic|Excellent Price|$1338 off avg. list price|16618|28024|Fontana|CA|White|Unknown|no| 1| personal
+5YFEPRAE8LP049506|2020|Toyota|Corolla|LE CVT|Excellent Price||14300|15009|Boerne|TX|Silver|Black|no| 1| personal
+2C4RC1BG8CR410697|2012|Chrysler|Town & Country|Touring|||5000|137698|Hazlet|NJ|Blue|Black|no| 2| personal
+3FA6P0LU2KR110125|2019|Ford|Fusion|Hybrid SE FWD|Excellent Price||14899|30829|Amarillo|TX|Gray|Unknown|no| 1| personal
+3FA6P0LU2KR120430|2019|Ford|Fusion|Hybrid SE FWD|Excellent Price|$1024 off avg. list price|14459|42268|Bolivar|TN|White|Black|no| 1| personal
+1HGCR2F30HA246814|2017|Honda|Accord|LX Sedan CVT|Excellent Price|$1606 off avg. list price|14950|18989|Huntsville|AL|Gray|Unknown|no| 1| personal
+JN1BJ1CP8KW214533|2019|Nissan|Rogue Sport|S FWD|Excellent Price|$3271 off avg. list price|14397|32504|Stafford|VA|White|Black|no| 1| personal
+4T1B11HK0KU162719|2019|Toyota|Camry|L Automatic|Excellent Price|$1871 off avg. list price|17000|39868|East Stroudsburg|PA|Black|Gray|no| 1| personal
+3N1AB7AP8KY356971|2019|Nissan|Sentra|SV CVT|Excellent Price|$822 off avg. list price|13969|30969|Chehalis|WA|White|Black|no| 1| personal
+4T1B11HK6KU807325|2019|Toyota|Camry|SE Automatic|Excellent Price||19385|24071|San Antonio|TX|Black|Unknown|no| 1| personal
+1G11Z5SA4KU138092|2019|Chevrolet|Impala|LT with 1LT|Excellent Price|$1891 off avg. list price|15317|29133|Fontana|CA|Silver|Black|no| 1| personal
+KNDJP3A5XK7919980|2019|Kia|Soul|+ Automatic|Excellent Price|$870 off avg. list price|13697|24972|Orlando|FL|White|Black|no| 1| personal
+2C4RDGCG5KR578570|2019|Dodge|Grand Caravan|SXT|Excellent Price|$1208 off avg. list price|16698|34200|Pensacola|FL|Silver|Black|no| 1| personal
+2C4RDGCG1KR517023|2019|Dodge|Grand Caravan|SXT|Excellent Price|$1378 off avg. list price|14735|69586|Aztec|NM|Black|Black|no| 1| personal
+2C4RDGCG9KR545894|2019|Dodge|Grand Caravan|SXT|Excellent Price|$1523 off avg. list price|15945|51536|Brooksville|FL|Silver|Black|no| 1| personal
+3FA6P0LU8KR264273|2019|Ford|Fusion|Hybrid SE FWD|Excellent Price|$924 off avg. list price|15707|12779|Maitland|FL|Gray|Gray|no| 1| personal
+3FA6P0D90KR186596|2019|Ford|Fusion|Titanium AWD|Excellent Price|$1352 off avg. list price|17597|46197|Oakbrook|IL|Black|Black|no| 1| personal
+3LNHL2GC2AR638169|2010|Lincoln|MKZ|FWD|||6350|125525|Wichita|KS|Black|Black|no| 3| fleet
+1C3AN69L74X004702|2004|Chrysler|Crossfire|Coupe|Excellent Price|$1357 off avg. list price|5995|78569|Bethany|OK|White|Black|no| 4| personal
+3FA6P0CD8KR144683|2019|Ford|Fusion|SEL FWD|Excellent Price||16648|36135|Wichita Falls|TX|Blue|Black|no| 1| personal
+2C3CCAKG8KH722761|2019|Chrysler|300|Limited AWD|Excellent Price|$2917 off avg. list price|24981|11000|Tulsa|OK|White|Black|no| 1| personal
+WDBSK71F27F123349|2007|Mercedes-Benz|SL|SL 550 V8 Roadster|Excellent Price|$4281 off avg. list price|21995|31395|Costa Mesa|CA|Black|Gray|no| 4| personal
+5YFEPRAE6LP097036|2020|Toyota|Corolla|LE CVT|Great Price|$451 off avg. list price|14790|6485|Chantilly|VA|Silver|Black|1| 1| personal
+5UXWX9C57D0A14762|2013|BMW|X3|xDrive28i AWD|||10495|104615|Westport|MA|Gray|Unknown|no| 1| personal
+2C4RDGCG0KR566181|2019|Dodge|Grand Caravan|SXT|Excellent Price|$1050 off avg. list price|17014|42607|Fresno|CA|Gray|Black|no| 1| personal
+SALMF1D47BA351786|2011|Land|Rover Range Rover|HSE LUX|||15950|78623|El Cajon|CA|Black|Black|no| 2| personal
+5NPEC4AC5EH852755|2014|Hyundai|Sonata|SE 2.4L Automatic|||5911|107232|O'Fallon|IL|Gray|Gray|no| 2| fleet
+4T1B11HK0KU196305|2019|Toyota|Camry|L Automatic|Excellent Price|$1188 off avg. list price|16800|39517|Pikeville|KY|White|Gray|no| 1| fleet
+KMHD35LH8HU362245|2017|Hyundai|Elantra|GT Hatchback Automatic|Excellent Price|$1475 off avg. list price|9250|56289|Escondido|CA|Silver|Black|no| 1| personal
+3KPFK4A76HE058446|2017|Kia|Forte|LX Sedan Automatic|Excellent Price|$1282 off avg. list price|9997|49360|Bend|OR|Black|Black|no| 2| personal
+1GCRKSE72DZ304046|2013|Chevrolet|Silverado 1500|LT Extended Cab Standard Box 4WD|||12600|138529|Duncan|OK|White|Black|no| 2| fleet
+3N1AB7AP8HY205170|2017|Nissan|Sentra|SV CVT|Excellent Price|$1148 off avg. list price|10999|44909|Lawrenceburg|KY|Black|Black|no| 2| personal
+1VWCN7A31EC028652|2014|Volkswagen|Passat|TDI SEL Premium Sedan DSG|Excellent Price|$3209 off avg. list price|14535|45553|Albuquerque|NM|Red|Black|no| 1| personal
+JTDEPRAE7LJ007929|2020|Toyota|Corolla|LE CVT|Excellent Price|$688 off avg. list price|15995|10350|Mooresville|NC|White|Gray|no| 1| fleet
+5YFEPRAE3LP023248|2020|Toyota|Corolla|LE CVT|Excellent Price||14000|19677|Boerne|TX|Red|Black|no| 1| personal
+1VWBN7A39DC127746|2013|Volkswagen|Passat|TDI SE with Sunroof Sedan DSG|||8999|67233|Smyrna|GA|Gray|Gray|no| 1| personal
+2HGFC1E52HH707363|2017|Honda|Civic|Si Sedan Manual|Excellent Price|$2262 off avg. list price|16995|38724|Bergenfield|NJ|Gray|Black|no| 1| personal
+KNMAT2MT8KP512854|2019|Nissan|Rogue|SV FWD|Excellent Price|$1136 off avg. list price|14764|39566|Fontana|CA|Gray|Black|no| 1| fleet
+3FA6P0LU7KR187525|2019|Ford|Fusion|Hybrid SE FWD|Excellent Price|$1036 off avg. list price|15444|26354|Westfield|IN|Red|Black|no| 1| personal
+JTDEPRAE2LJ061350|2020|Toyota|Corolla|LE CVT|Excellent Price|$612 off avg. list price|14499|10636|Margate|FL|Black|Black|no| 1| personal
+3N1AB7AP0KY280095|2019|Nissan|Sentra|SV CVT|Excellent Price|$671 off avg. list price|11400|35694|Jacksonville|NC|Black|Black|no| 1| personal
+KNMAT2MT8KP516614|2019|Nissan|Rogue|SV FWD|Excellent Price|$1043 off avg. list price|15800|26300|Fontana|CA|Black|Black|no| 1| personal
+3N1AB7AP6KL622761|2019|Nissan|Sentra|SV CVT|Excellent Price|$915 off avg. list price|11995|25202|Lynnwood|WA|Gray|Black|no| 1| fleet
+3N1AB7APXKL624951|2019|Nissan|Sentra|SV CVT|Excellent Price|$961 off avg. list price|11676|20280|Mooresville|NC|Gray|Black|no| 1| fleet
+5XXGT4L30LG388031|2020|Kia|Optima|LX Automatic|Excellent Price|$1588 off avg. list price|17000|13832|Albuquerque|NM|White|Black|no| 1| personal
+4T1B11HK0KU755464|2019|Toyota|Camry|LE Automatic|Excellent Price|$1493 off avg. list price|15999|33714|Bourbonnais|IL|White|Black|no| 1| personal
+3FA6P0HD7KR216059|2019|Ford|Fusion|SE FWD|Excellent Price|$1620 off avg. list price|15900|10529|Jacksonville|NC|Black|Black|no| 1| personal
+5YFEPRAE6LP045955|2020|Toyota|Corolla|LE CVT|Excellent Price||15000|13653|Boerne|TX|White|Black|no| 1| personal
+3N1CN7AP1KL805629|2019|Nissan|Versa|SV Sedan CVT|Excellent Price|$1457 off avg. list price|10994|15952|Fairfield|OH|Black|Black|1| 1| fleet
+1N4BL4EV2KC208593|2019|Nissan|Altima|SL FWD|Excellent Price|$1669 off avg. list price|16984|28493|Gainesville|FL|Blue|Black|no| 1| personal
+3FA6P0CD6KR219977|2019|Ford|Fusion|SEL FWD|Excellent Price|$1315 off avg. list price|17695|17837|Westbrook|ME|White|Unknown|no| 1| personal
+KNMAT2MT5KP535458|2019|Nissan|Rogue|SV FWD|Excellent Price|$819 off avg. list price|16999|31580|North Riverside|IL|White|Black|no| 1| personal
+1N4BL4CV1KC170843|2019|Nissan|Altima|SR FWD|Excellent Price|$1472 off avg. list price|17020|34563|Madera|CA|White|Black|no| 1| personal
+3N1AB7AP3JY282065|2018|Nissan|Sentra|S CVT|Excellent Price|$1430 off avg. list price|9985|51679|Oklahoma City|OK|Silver|Black|no| 1| fleet
+19UUA5646XA050087|1999|Acura|TL|3.2L|Excellent Price|$955 off avg. list price|4495|99751|Rocklin|CA|Black|Unknown|no| 3| personal
+3FA6P0LU4KR222165|2019|Ford|Fusion|Hybrid SE FWD|Excellent Price||15491|24635|Tomball|TX|Silver|Gray|no| 1| personal
+NM0LS7AN3CT097608|2012|Ford|Transit Connect Van|XL without side or rear glass|||6995|99841|Jamaica|NY|White|Unknown|1| 1| personal
+1N4AL3AP8FN355816|2015|Nissan|Altima|2.5 S|Excellent Price|$981 off avg. list price|6988|118288|Gainesville|GA|Black|Black|1| 2| fleet
+3FADP4EJ9KM131083|2019|Ford|Fiesta|SE Hatchback|Excellent Price|$1009 off avg. list price|8958|28705|Tampa|FL|White|Black|no| 1| personal
+4T1BF1FK1GU576510|2016|Toyota|Camry|SE I4 Automatic|||9995|105969|National City|CA|Blue|Black|no| 2| personal
+JH4KB16545C000910|2005|Acura|RL|AWD|||6991|122450|Gilroy|CA|Silver|Black|no| 1| personal
+1FMCU9HX7DUA72475|2013|Ford|Escape|SEL 4WD|Excellent Price||6995|135939|Houston|TX|Black|Black|2| 2| fleet
+2T1BURHE6HC813703|2017|Toyota|Corolla|LE CVT|Excellent Price|$1407 off avg. list price|10990|88556|Greensboro|NC|Silver|Black|no| 1| personal
+3C3CFFCH2JT524033|2018|FIAT|500|Lounge Hatchback|Excellent Price|$2051 off avg. list price|11995|4769|Portland|OR|White|Black|1| 1| personal
+3FADP4BJ6KM113628|2019|Ford|Fiesta|SE Sedan|Excellent Price|$1234 off avg. list price|8598|25648|Tampa|FL|Red|Black|no| 1| personal
+1GYFK63817R207523|2007|Cadillac|Escalade|AWD|||9500|138675|Spring|TX|Blue|Brown|no| 2| personal
+5N1AT2MT2HC895203|2017|Nissan|Rogue|2017.5 SL FWD|Excellent Price|$2336 off avg. list price|17900|21498|Tulsa|OK|White|Beige|no| 1| personal
+2G11Z5S35K9135149|2019|Chevrolet|Impala|LT with 1LT|Excellent Price|$1545 off avg. list price|17999|30733|Tallahassee|FL|Gray|Black|no| 1| personal
+1FADP3F21EL140528|2014|Ford|Focus|SE Sedan|Excellent Price|$1045 off avg. list price|6499|90846|Rancho Cordova|CA|White|Beige|no| 1| personal
+3FA6P0LU7KR262207|2019|Ford|Fusion|Hybrid SE FWD|Excellent Price|$837 off avg. list price|15469|19967|Maitland|FL|Silver|Black|no| 1| personal
+5N1DL0MM7HC516576|2017|INFINITI|QX60|3.5 AWD|Excellent Price|$2682 off avg. list price|15700|99410|Buford|GA|Silver|Gray|1| 2| fleet
+3N1AB7AP5KY296406|2019|Nissan|Sentra|SV CVT|Excellent Price|$957 off avg. list price|11477|29853|Kennesaw|GA|White|Black|no| 1| personal
+2T1BURHE9HC834335|2017|Toyota|Corolla|LE CVT|Excellent Price|$1440 off avg. list price|11124|46463|Wallingford|CT|Red|Gray|no| 1| personal
+5XXGT4L38KG351176|2019|Kia|Optima|LX|Excellent Price||14800|24707|San Antonio|TX|Black|Black|no| 1| fleet
+1NXBU4EE8AZ282936|2010|Toyota|Corolla|LE Automatic|Excellent Price|$1558 off avg. list price|6995|98750|Honolulu|HI|Silver|Gray|no| 1| personal
+1HGCR2F52HA051623|2017|Honda|Accord|Sport Sedan CVT|Excellent Price|$989 off avg. list price|14750|107761|North Little Rock|AR|Black|Unknown|1| 1| personal
+3FA6P0CD0KR150669|2019|Ford|Fusion|SEL FWD|Excellent Price|$1468 off avg. list price|15997|37767|Joplin|MO|White|Unknown|no| 1| personal
+5N1ET2MV9HC788376|2017|Nissan|Rogue|Hybrid SL AWD|Excellent Price|$3100 off avg. list price|19999|16612|Farmington|NM|Black|Black|no| 2| personal
+KNDJP3A50K7025275|2019|Kia|Soul|+ Automatic|Excellent Price|$902 off avg. list price|13197|32501|Orlando|FL|Gray|Black|no| 1| personal
+3FA6P0LU3KR220486|2019|Ford|Fusion|Hybrid SE FWD|Excellent Price|$1023 off avg. list price|14997|38053|Birmingham|AL|Red|Gray|no| 1| personal
+1HGCR2F35HA140701|2017|Honda|Accord|LX Sedan CVT|Excellent Price|$735 off avg. list price|15000|21606|Pikeville|KY|White|Beige|no| 1| personal
+WDAPF4CD9KN024454|2019|Mercedes-Benz|Sprinter Chassis Cabs|"4500 170"""|||30000|10|Pasco|WA|White|Black|no| 1| personal
+1G1ZD5ST0KF138906|2019|Chevrolet|Malibu|LT with 1LT|Excellent Price|$1152 off avg. list price|15995|34045|Downey|CA|White|Black|no| 1| personal
+2C4RDGCG4KR517775|2019|Dodge|Grand Caravan|SXT|Excellent Price|$977 off avg. list price|15677|39839|Concord|CA|Silver|Black|1| 1| personal
+1G1RE6E45DU107253|2013|Chevrolet|Volt|Hatch|||6980|127556|Lynwood|CA|Black|Black|no| 2| fleet
+3FA6P0D99KR141379|2019|Ford|Fusion|Titanium AWD|Excellent Price|$2044 off avg. list price|19999|43913|Columbia|SC|Black|Black|no| 1| personal
+KNMAT2MT7KP537647|2019|Nissan|Rogue|SV FWD|Excellent Price|$1503 off avg. list price|13999|33174|Vero Beach|FL|Gray|Black|no|| personal
+3FA6P0LU4KR225521|2019|Ford|Fusion|Hybrid SE FWD|Excellent Price|$687 off avg. list price|14200|30952|La Follette|TN|Silver|Gray|no| 1| personal
+WDAPF4CD2KN034226|2019|Mercedes-Benz|Sprinter Chassis Cabs|"4500 170"""|||29991|37|Bakersfield|CA|White|Unknown|no| 1| personal
+KNDMB233696316929|2009|Kia|Sedona|LX LWB|||3200|168575|West Bend|WI|Silver|Gray|1| 2| personal
+JTHBK1EG0B2447089|2011|Lexus|ES|ES 350|Excellent Price|$1928 off avg. list price|8995|134495|Salt Lake City|UT|Gray|Black|1| 1| personal
+2CNDL63F266177799|2006|Chevrolet|Equinox|LT FWD|||2511|204609|O'Fallon|IL|Gray|Gray|no| 3| personal
+2FMDK3KC1DBE31080|2013|Ford|Edge|Limited FWD|||7195|140464|Plantation|FL|Black|Black|no| 2| personal
+1GNALBEK5EZ111817|2014|Chevrolet|Equinox|LT with 1LT FWD|Excellent Price|$2245 off avg. list price|10000|147962|Silver Spring|MD|White|Black|no| 2| personal
+1FM5K8DHXKGA10488|2019|Ford|Explorer|XLT 4WD|||24555|885|Salt Lake City|UT|White|Black|1| 1| personal
+5N1AT2MT9KC714816|2019|Nissan|Rogue|S FWD|Excellent Price|$1392 off avg. list price|13995|114161|Lake City|FL|White|Black|no| 2| personal
+3N1AB7APXKY248500|2019|Nissan|Sentra|S CVT|Excellent Price|$739 off avg. list price|12891|25731|Albuquerque|NM|Black|Black|no| 1| personal
+3N1AB7AP9KY315829|2019|Nissan|Sentra|SV CVT|Excellent Price|$1073 off avg. list price|11477|29051|Kennesaw|GA|Silver|Black|no| 1| personal
+JTDEPRAE4LJ009928|2020|Toyota|Corolla|LE CVT|Great Price|$434 off avg. list price|14990|15100|Doral|FL|White|Black|no| 1| personal
+1FDFE4FS1CDA17507|2012|Ford|Econoline Commercial Cutaway|"E-450 158"" DRW"|||19988|3540|Gainesville|GA|White|Gray|1| 3| personal
+1FTEW1EGXHFC84391|2017|Ford|F-150|XLT SuperCrew 5.5' Box 4WD|||33000|21924|Sioux Falls|SD|Gold|Black|no| 1| fleet
+2HGFC2F52HH559204|2017|Honda|Civic|LX Sedan CVT|Excellent Price|$980 off avg. list price|12441|59352|Patchogue|NY|Gray|Black|1| 1| personal
+JTDEPRAE0LJ049570|2020|Toyota|Corolla|LE CVT|Excellent Price|$932 off avg. list price|14995|16400|Marietta|GA|White|Black|no| 1| fleet
+KNMAT2MT5KP539526|2019|Nissan|Rogue|SV FWD|Great Price|$688 off avg. list price|17497|23298|Orlando|FL|White|Black|no| 1| personal
+SAJDA44B775B00695|2007|Jaguar|XK|Convertible|Excellent Price|$4027 off avg. list price|16900|53058|Pittsburgh|PA|Black|Beige|no| 1| personal
+JTJHF10UX20237007|2002|Lexus|RX|RX 300 4WD|||1875|225929|Salt Lake City|UT|Silver|Black|no| 2| personal
+1GCWGFCA6C1142400|2012|Chevrolet|Express Cargo Van|2500 SWB RWD|||7999|162845|Rosedale|MD|White|Gray|1| 1| fleet
+3FA6P0HD7ER390668|2014|Ford|Fusion|SE FWD|Excellent Price|$1366 off avg. list price|8990|85596|Greensboro|NC|Black|Black|1| 2| personal
+KNMAT2MT1KP515496|2019|Nissan|Rogue|SV FWD|Excellent Price|$1080 off avg. list price|15270|42089|Fontana|CA|Gray|Black|no| 1| personal
+3N1AB7AP6JY250016|2018|Nissan|Sentra|S CVT|Excellent Price|$1430 off avg. list price|12995|67869|Albuquerque|NM|White|Black|no| 2| personal
+1HGCP26878A152012|2008|Honda|Accord|EX-L Sedan I4 Automatic|||2911|240369|O'Fallon|IL|Black|Black|no| 1| personal
+1NXBU40E79Z138734|2009|Toyota|Corolla|LE Automatic|||5629|118900|Everett|WA|Black|Unknown|no| 2| personal
+2C4RDGCGXKR672217|2019|Dodge|Grand Caravan|SXT|Great Price|$712 off avg. list price|17600|22485|Pikeville|KY|Black|Black|no| 1| personal
+3N1CN7AP8KL815798|2019|Nissan|Versa|S Plus Sedan CVT|Excellent Price|$1438 off avg. list price|7800|61944|Middlesboro|KY|Black|Black|no| 1| personal
+5NPD84LF7HH008242|2017|Hyundai|Elantra|Limited 2.0L Sedan Automatic|Excellent Price|$2120 off avg. list price|10999|27420|Las Vegas|NV|Gray|Gray|no| 1| fleet
+2C4RDGCG1KR659582|2019|Dodge|Grand Caravan|SXT|Excellent Price|$1067 off avg. list price|16800|38540|Mobile|AL|Gray|Black|no| 2| personal
+2C4RDGCG9KR688926|2019|Dodge|Grand Caravan|SXT|Excellent Price|$1223 off avg. list price|17585|21103|Golden|CO|Gray|Black|no| 1| personal
+1MEFM66L7XK620196|1999|Mercury|Mystique|4dr Sedan LS|||5000|37641|Durham|NC|Blue|Beige|1| 1| personal
+5NPD84LF9HH034955|2017|Hyundai|Elantra|SE 2.0L Sedan Automatic (alt)|Excellent Price|$1500 off avg. list price|9700|21095|New Port Richey|FL|Blue|Gray|1| 1| personal
+1G4HD57208U150489|2008|Buick|Lucerne|CXL V6|||5421|120675|North Charleston|SC|Silver|Gray|no| 2| personal
+2C3CCAEG4KH555813|2019|Chrysler|300|Limited RWD|Excellent Price|$2587 off avg. list price|19411|31455|Fontana|CA|White|Black|no| 1| fleet
+3FA6P0LU2KR181096|2019|Ford|Fusion|Hybrid SE FWD|Excellent Price|$1606 off avg. list price|14782|29971|Livermore|CA|Gray|Black|no| 1| personal
+WMWXU1C56H2E18577|2017|MINI|Hardtop|Hardtop 4-Door|||9490|108826|King George|VA|White|Black|1| 1| personal
+4JGDF6EE3HA742739|2017|Mercedes-Benz|GLS|GLS 450 4MATIC|Excellent Price|$3774 off avg. list price|37898|50451|Denver|CO|White|Beige|no| 1| personal
+3VW2B7AJ2HM323863|2017|Volkswagen|Jetta|1.4T S Auto|Excellent Price|$1274 off avg. list price|7994|85550|New Port Richey|FL|White|Black|no| 2| personal
+KMHDN46D44U874687|2004|Hyundai|Elantra|GLS Sedan Automatic|||2490|119577|Hayward|CA|Silver|Unknown|no| 4| personal
+3FA6P0LU7KR105969|2019|Ford|Fusion|Hybrid SE FWD|Great Price|$532 off avg. list price|14795|48882|Melbourne|FL|White|Unknown|no| 1| personal
+5NPD84LF5KH422286|2019|Hyundai|Elantra|SEL 2.0L Automatic|Excellent Price|$1065 off avg. list price|11321|32729|Sarasota|FL|Silver|Black|1| 1| personal
+3N1AB7APXKY301616|2019|Nissan|Sentra|S CVT|Excellent Price|$649 off avg. list price|11990|30577|Glendale|AZ|Gray|Black|no| 1| personal
+1GAZGPFP4K1190360|2019|Chevrolet|Express Passenger|3500 LT LWB|Excellent Price|$2592 off avg. list price|17250|30670|Miami Lakes|FL|White|Gray|no| 1| personal
+1N4AL3AP5GC226932|2016|Nissan|Altima|2.5 SV|||7499|137633|Murfreesboro|TN|Silver|Unknown|no| 2| personal
+19XFB2F5XDE281059|2013|Honda|Civic|LX Sedan Automatic|Excellent Price|$1315 off avg. list price|9000|79224|Las Vegas|NV|Gray|Black|no| 1| personal
+3N1AB7AP1KY221234|2019|Nissan|Sentra|S CVT|Excellent Price|$800 off avg. list price|10882|44261|Ft Payne|AL|Black|Black|no| 1| personal
+1VWCN7A33EC034517|2014|Volkswagen|Passat|TDI SEL Premium Sedan DSG|Excellent Price|$1373 off avg. list price|9998|77812|Tracy|CA|Black|Black|no| 2| personal
+1G1ZD5ST8LF033421|2020|Chevrolet|Malibu|LT|Excellent Price||18888|10307|Mc Allen|TX|Gray|Black|no| 1| personal
+JTDEPRAE0LJ011790|2020|Toyota|Corolla|LE CVT|Great Price|$490 off avg. list price|17890|6485|Tacoma|WA|Silver|Unknown|no| 1| personal
+KNMAT2MT0KP532340|2019|Nissan|Rogue|SV FWD|Excellent Price|$886 off avg. list price|15127|35589|Fontana|CA|Black|Black|no| 1| personal
+2C4RDGCG8KR663242|2019|Dodge|Grand Caravan|SXT|Excellent Price|$952 off avg. list price|14599|45072|McDonough|GA|Gray|Black|no| 1| personal
+4NUDS13S342100414|2004|Isuzu|Ascender|4dr 2WD S|||2950|159963|Deland|FL|Silver|Unknown|no| 5| personal
+3N1AB7AP1KL612946|2019|Nissan|Sentra|SV CVT|Excellent Price|$706 off avg. list price|11545|38195|Fontana|CA|White|Black|no| 1| personal
+1VWCN7A37EC103287|2014|Volkswagen|Passat|TDI SEL Premium Sedan DSG|Excellent Price|$1959 off avg. list price|11970|57046|Albuquerque|NM|Silver|Black|no| 2| fleet
+19XFB2F57CE015934|2012|Honda|Civic|LX Sedan Automatic|Excellent Price|$1417 off avg. list price|5995|154497|Knoxville|TN|Black|Gray|no| 1| personal
+JTLZE4FE0DJ040716|2013|Scion|xB|Base Automatic|||5990|84723|Phoenix|AZ|Silver|Gray|no| 2| personal
+3FA6P0D99KR204691|2019|Ford|Fusion|Titanium AWD|Excellent Price||17449|37729|Burleson|TX|White|Black|no| 1| personal
+5YFEPRAE2LP048089|2020|Toyota|Corolla|LE CVT|Great Price|$384 off avg. list price|15494|10490|Gainesville|FL|White|Black|no| 1| personal
+19XFC2F52HE220386|2017|Honda|Civic|LX Sedan CVT|Excellent Price|$794 off avg. list price|13999|42557|San Diego|CA|Black|Black|no| 1| personal
+1FADP3F28DL223095|2013|Ford|Focus|SE Sedan|Excellent Price|$1027 off avg. list price|5499|115000|Tulsa|OK|Black|Black|no| 4| fleet
+2C4RDGCG2KR580681|2019|Dodge|Grand Caravan|SXT|Excellent Price|$2553 off avg. list price|12999|44325|Gainesville|FL|White|Black|no| 2| personal
+KNMAT2MT8KP502891|2019|Nissan|Rogue|SV FWD|Excellent Price|$818 off avg. list price|16892|37243|Holly Springs|GA|White|Black|no| 1| personal
+3GNEC12T54G133288|2004|Chevrolet|Avalanche|1500 2WD|||4998|192468|San Antonio|TX|Silver|Black|no| 3| personal
+KMHDH4AE3DU807117|2013|Hyundai|Elantra|GLS Sedan Automatic|Excellent Price|$1446 off avg. list price|6999|79672|Murfreesboro|TN|Silver|Gray|1| 2| personal
+2G2WP552681124453|2008|Pontiac|Grand Prix|4dr Sedan|||4999|45289|Tacoma|WA|Silver|Black|2| 3| personal
+5N1AT2MT1KC777179|2019|Nissan|Rogue|SL FWD|Excellent Price|$1991 off avg. list price|19752|33455|Newark|CA|Gray|Black|no| 1| personal
+5XXGT4L38KG276950|2019|Kia|Optima|LX|Excellent Price|$990 off avg. list price|13447|35768|Columbus|OH|Gray|Black|no| 2| personal
+3GCPKSE77CG141478|2012|Chevrolet|Silverado 1500|LT Crew Cab Short Box 4WD|||15995|175219|Charleston|SC|Red|Black|1| 2| personal
+WBA3A5G56FNS85000|2015|BMW|3 Series|328i Sedan|||10487|98292|Shreveport|LA|Red|Unknown|no| 1| personal
+4T1B11HK3KU758892|2019|Toyota|Camry|L Automatic|Excellent Price|$1376 off avg. list price|19777|17126|Memphis|TN|White|Gray|no| 2| personal
+1VWBN7A34EC025935|2014|Volkswagen|Passat|TDI SE with Sunroof Sedan DSG|Excellent Price|$1849 off avg. list price|8237|81280|Warrenton|VA|White|Black|no| 2| personal
+1HGCR2F57HA103473|2017|Honda|Accord|Sport Sedan CVT|Excellent Price|$779 off avg. list price|14980|67103|Manassas Park|VA|White|Black|1| 1| personal
+4T1B11HK9KU754362|2019|Toyota|Camry|LE Automatic|Excellent Price||18327|12636|Richardson|TX|Gray|Gray|1| 1| personal
+3KPFL4A78HE052547|2017|Kia|Forte|LX Sedan Automatic|||5295|107400|Naugatuck|CT|Black|Gray|no| 1| fleet
+1C3CDFBB3GD515486|2016|Dodge|Dart|SXT|||5400|102949|San Antonio|TX|Gray|Beige|1| 3| fleet
+5YFEPRAE1LP070357|2020|Toyota|Corolla|LE CVT|Great Price|$379 off avg. list price|15794|5341|Gainesville|FL|White|Black|no| 1| personal
+3N1AB7AP6KY287357|2019|Nissan|Sentra|S CVT|Excellent Price||13500|9|McKinney|TX|Gray|Black|no| 1| personal
+1G1ZE5ST0HF160832|2017|Chevrolet|Malibu|LT with 1LT|||8700|84779|Orlando|FL|Black|Black|1| 3| fleet
+1FMCU9JDXHUC24139|2017|Ford|Escape|Titanium 4WD|Excellent Price|$2554 off avg. list price|16985|67682|Chicago|IL|Black|Gray|no| 2| personal
+1FMCU0G94HUA62958|2017|Ford|Escape|SE FWD|Excellent Price|$1038 off avg. list price|10990|96503|Mooresville|NC|White|Beige|no| 2| personal
+WDAPF4CD4KN011742|2019|Mercedes-Benz|Sprinter Chassis Cabs|"4500 170"""|Excellent Price|$7161 off avg. list price|29995|8|Monroe|NC|White|Unknown|no|| personal
+3N6CM0KN9FK725007|2015|Nissan|NV200|SV|Excellent Price|$1603 off avg. list price|6880|148474|Bourbonnais|IL|White|Gray|no| 1| personal
+1FADP3F22EL345064|2014|Ford|Focus|SE Sedan|Excellent Price|$1215 off avg. list price|7490|65753|Greensboro|NC|Red|Beige|2| 1| personal
+4T1B11HK0KU768876|2019|Toyota|Camry|LE Automatic|Excellent Price|$820 off avg. list price|18700|27111|Victorville|CA|White|Unknown|no| 1| personal
+WDDNG7DB5CA439575|2012|Mercedes-Benz|S-Class|S 550 Sedan RWD|||11850|115243|Savannah|GA|Silver|Unknown|no| 2| personal
+YV4BZ982181030104|2008|Volvo|XC70|3.2L|Excellent Price|$1226 off avg. list price|5995|107790|Cumberland|RI|Black|Black|1| 2| fleet
+1FA6P0H77F5109709|2015|Ford|Fusion|SE FWD|Excellent Price|$1297 off avg. list price|6499|123318|Portsmouth|VA|Silver|Black|1| 3| fleet
+KNDJP3A50K7918207|2019|Kia|Soul|+ Automatic|Excellent Price|$918 off avg. list price|14995|22788|Middletown|PA|White|Black|no| 1| personal
+2C3CCAEG1KH609665|2019|Chrysler|300|Limited RWD|Excellent Price|$2520 off avg. list price|19737|27373|Fontana|CA|White|Black|no| 1| personal
+1HGCR2F36HA168958|2017|Honda|Accord|LX Sedan CVT|Excellent Price|$635 off avg. list price|14700|24350|Pikeville|KY|White|Beige|no| 1| personal
+3N1AB7AP7KL608240|2019|Nissan|Sentra|SV CVT|Excellent Price|$799 off avg. list price|11693|37847|Cincinnati|OH|Black|Black|no| 1| fleet
+WDDSJ4EB3EN042802|2014|Mercedes-Benz|CLA|CLA 250 FWD|Excellent Price|$2363 off avg. list price|12450|93809|San Jose|CA|White|Gray|1| 1| fleet
+4T1BE46K39U826661|2009|Toyota|Camry|LE I4 Automatic|Excellent Price|$1072 off avg. list price|5092|114348|Murray|UT|White|Black|no| 4| personal
+WBAGN63535DS59816|2005|BMW|7 Series|745Li|||7000|98337|Indianapolis|IN|White|Gray|no| 5| personal
+5N1AT2MT8HC736959|2017|Nissan|Rogue|S FWD|Excellent Price|$1913 off avg. list price|14500|35812|Fuquay Varina|NC|Gray|Black|no| 1| personal
+KNAGM4A72D5307584|2013|Kia|Optima|LX|||3800|118815|Nashville|TN|White|Beige|3| 3| fleet
+5NPD84LF8HH076887|2017|Hyundai|Elantra|SE 2.0L Sedan Automatic (alt)|Excellent Price|$1314 off avg. list price|9000|54629|New Port Richey|FL|Blue|Gray|no| 1| personal
+JTHBK1EG1B2469456|2011|Lexus|ES|ES 350|Excellent Price||7999|123111|Houston|TX|White|Unknown|2| 2| personal
+5YFEPRAE7LP011961|2020|Toyota|Corolla|LE CVT|Excellent Price||14688|14468|Boerne|TX|Silver|Gray|no| 1| personal
+KNMAT2MT0KP536114|2019|Nissan|Rogue|SV FWD|Excellent Price|$980 off avg. list price|15306|29189|Fontana|CA|Gray|Black|no| 1| personal
+4T1B11HK0KU808406|2019|Toyota|Camry|L Automatic|Excellent Price|$1327 off avg. list price|19777|18153|Memphis|TN|White|Gray|no| 1| personal
+1FM5K8B81DGC84684|2013|Ford|Explorer|Base 4WD|||4588|204215|Nashua|NH|Silver|Gray|1| 1| personal
+KNMAT2MT3KP502541|2019|Nissan|Rogue|SV FWD|Excellent Price|$878 off avg. list price|15791|33598|Ocala|FL|White|Black|no| 1| personal
+JHMFB4F39CS008084|2012|Honda|Civic|Hybrid with Leather Sedan I4 CVT|||5432|131364|Round Rock|TX|Black|Unknown|no| 2| personal
+1FADP3F2XDL165152|2013|Ford|Focus|SE Sedan|Excellent Price|$975 off avg. list price|5500|116491|Rancho Cordova|CA|White|Gray|no| 2| fleet
+3N1AB7AP2KY220478|2019|Nissan|Sentra|S CVT|Excellent Price|$816 off avg. list price|11342|33462|Fontana|CA|Black|Black|no| 1| personal
+3KPFL4A77HE125178|2017|Kia|Forte|LX Sedan Automatic|Excellent Price|$1430 off avg. list price|9775|25399|Puyallup|WA|Black|Black|1| 1| personal
+1C6RR6MT9HS670867|2017|Ram|1500|"Night Crew Cab 5'7"" Box 2WD"|||17899|113183|Houston|TX|White|Black|no| 2| personal
+1N4BL4BV1KC141781|2019|Nissan|Altima|S FWD|Excellent Price|$1102 off avg. list price|14991|19936|Sarasota|FL|Gray|Black|no| 1| personal
+1FADP3F28EL297702|2014|Ford|Focus|SE Sedan|Excellent Price|$1181 off avg. list price|4990|110750|Fredericksburg|VA|Black|Black|1| 2| personal
+2C4RDGBG9DR507148|2013|Dodge|Grand Caravan|SE|||4995|137480|Melbourne|FL|Blue|Black|1| 2| personal
+1FTEW1E51KFA66362|2019|Ford|F-150|XLT SuperCrew 5.5' Box 4WD|Excellent Price||36995|31436|San Juan|TX|White|Unknown|no| 1| personal
+KNMAT2MT2KP532579|2019|Nissan|Rogue|SV FWD|Excellent Price|$916 off avg. list price|16900|31907|Centerville|OH|Black|Black|no| 1| personal
+WDDDJ72X67A087000|2007|Mercedes-Benz|CLS|CLS 550|Excellent Price|$1911 off avg. list price|9900|84269|Phoenix|AZ|Silver|Gray|no|| personal
+3FA6P0CD9KR117203|2019|Ford|Fusion|SEL FWD|Excellent Price||17105|36471|Wichita Falls|TX|Silver|Black|no| 1| personal
+4T1B11HK5KU243828|2019|Toyota|Camry|LE Automatic|Excellent Price|$1284 off avg. list price|16995|22870|Fontana|CA|Gray|Unknown|no| 1| personal
+3FA6P0LU1KR240252|2019|Ford|Fusion|Hybrid SE FWD|Excellent Price|$797 off avg. list price|15284|23109|Live Oak|FL|White|Unknown|no| 1| personal
+19XFC2F79HE053154|2017|Honda|Civic|EX Sedan CVT|Excellent Price|$1116 off avg. list price|15499|32263|Alexandria|VA|White|Unknown|no|| personal
+2HGFC3A57HH751571|2017|Honda|Civic|Si Coupe Manual|Excellent Price|$1675 off avg. list price|17700|36679|Dover|DE|Silver|Unknown|no| 1| personal
+1FMCU0DG6CKB06112|2012|Ford|Escape|XLT FWD|Excellent Price|$681 off avg. list price|4100|177039|Florence|KY|Silver|Unknown|1| 4| personal
+1FTFW1EF5BKD35497|2011|Ford|F-150|XL SuperCrew 5.5' Box 4WD|||9988|177217|Duncan|OK|White|Gray|no| 1| personal
+2T2ZK1BA6AC035660|2010|Lexus|RX|RX 350 FWD|Excellent Price|$2279 off avg. list price|10888|124744|Smyrna|GA|Silver|Gray|1| 2| personal
+WBAVM1C52FV317004|2015|BMW|X1|sDrive28i RWD|||11650|60687|Houston|TX|Gray|Black|1| 2| personal
+WP1AB29P89LA43201|2009|Porsche|Cayenne|S AWD|||9500|90767|Smyrna|TN|Black|Black|no| 3| personal
+3FA6P0LUXKR206178|2019|Ford|Fusion|Hybrid SE FWD|Great Price|$603 off avg. list price|15375|25802|Brownsburg|IN|Black|Gray|no| 1| personal
+5NPD74LF8HH202779|2017|Hyundai|Elantra|SE 2.0L Sedan Automatic|Excellent Price|$1211 off avg. list price|10500|19988|New Port Richey|FL|Black|Gray|no| 1| personal
+JTLKE50E781051704|2008|Scion|xB|Base Automatic|Excellent Price|$1199 off avg. list price|5225|124626|San Diego|CA|White|Gray|no| 2| personal
+5NPD84LF0HH044872|2017|Hyundai|Elantra|SE 2.0L Sedan Automatic (alt)|Excellent Price|$815 off avg. list price|8995|48742|Hialeah|FL|White|Beige|1| 2| fleet
+2GNALCEK4G6318641|2016|Chevrolet|Equinox|LT FWD|Excellent Price|$3257 off avg. list price|13563|12509|Kaktovik|AK|Silver|Black|no| 2| fleet
+2G4WS52JX31152721|2003|Buick|Century|Custom|Excellent Price|$348 off avg. list price|2000|149861|Loves Park|IL|White|Gray|no| 3| personal
+1N4BL4EV6KC174366|2019|Nissan|Altima|SL FWD|Excellent Price|$1170 off avg. list price|18946|32028|Fresno|CA|Gray|Black|no| 1| personal
+5NPDH4AE1DH335286|2013|Hyundai|Elantra|GLS Sedan Automatic|Excellent Price|$724 off avg. list price|5799|95913|Virginia Beach|VA|Black|Beige|2| 3| personal
+3FA6P0HD5HR186150|2017|Ford|Fusion|SE FWD|||12760|23208|Milledgeville|GA|Gray|Black|no| 1| personal
+19XFC2F55HE079779|2017|Honda|Civic|LX Sedan CVT|Excellent Price|$605 off avg. list price|14558|19371|Hollywood|FL|Black|Black|1| 1| personal
+2T1BR32E98C861977|2008|Toyota|Corolla|CE Automatic|||3987|163691|Virginia Beach|VA|White|Gray|no| 1| personal
+5N1DL0MN1HC526500|2017|INFINITI|QX60|3.5 FWD|Excellent Price||18887|74458|Boerne|TX|Black|Brown|1| 2| personal
+1GCNKPEH6FZ419157|2015|Chevrolet|Silverado 1500|WT Regular Cab Long Box 4WD|Excellent Price|$2541 off avg. list price|11999|57179|Virginia Beach|VA|White|Gray|no| 1| personal
+KNDMB233566018772|2006|Kia|Sedona|LX|||3499|97120|Greensboro|NC|White|Gray|no| 4| fleet
+3N1AB7AP4KY300543|2019|Nissan|Sentra|SV CVT|Excellent Price|$774 off avg. list price|12998|29757|Pensacola|FL|Blue|Black|no| 1| personal
+1G1NE52M5V6112732|1997|Chevrolet|Malibu|LS|Excellent Price|$288 off avg. list price|1500|167832|Havre|MT|White|Beige|no| 5| personal
+19XFB5F52DE000552|2013|Honda|Civic|CNG Sedan Automatic|||8994|91141|Houston|TX|Gray|Gray|no| 1| personal
+1FTRF12238KD52421|2008|Ford|F-150|XL Regular Cab 6.5' Box 2WD|||4500|218791|Pensacola|FL|White|Unknown|no| 2| personal
+3N1AB7AP1JL651132|2018|Nissan|Sentra|SV CVT|Excellent Price|$1729 off avg. list price|9500|31980|Shakopee|MN|Red|Black|1| 1| fleet
+JF2GTABC3JH331520|2018|Subaru|Crosstrek|2.0i Premium CVT|Excellent Price|$3591 off avg. list price|15500|13559|Richland|WA|Gray|Black|1| 1| personal
+5YFEPRAE1LP051565|2020|Toyota|Corolla|LE CVT|Excellent Price||14200|17614|Boerne|TX|Silver|Black|no| 1| personal
+JHLRE38798C041834|2008|Honda|CR-V|EX-L with Navigation FWD|||5998|104255|Panama City|FL|Silver|Gray|1| 1| personal
+YV440MDJ3G2860854|2016|Volvo|XC60|T5 Drive-E FWD|Excellent Price|$3520 off avg. list price|14999|49412|Smyrna|GA|Black|Black|no| 1| personal
+2G11Z5S3XK9107640|2019|Chevrolet|Impala|LT with 1LT|Excellent Price|$1803 off avg. list price|16992|37082|Cincinnati|OH|Blue|Black|no| 1| personal
+3FA6P0LU4KR104763|2019|Ford|Fusion|Hybrid SE FWD|Excellent Price|$1490 off avg. list price|13900|34623|Elk Grove|CA|Black|Unknown|no| 1| personal
+KNDJP3A57K7675379|2019|Kia|Soul|+ Automatic|Excellent Price||12990|31189|Blue Mound|TX|Gray|Black|no| 1| personal
+WA1ANAFY0J2112984|2018|Audi|Q5|Premium|Excellent Price|$5101 off avg. list price|22900|23516|Lincoln|NE|Black|Black|no| 3| fleet
+KNMAT2MT9KP527928|2019|Nissan|Rogue|SV FWD|Great Price|$561 off avg. list price|18799|25481|Kingsport|TN|White|Black|no| 1| personal
+2C4RDGCG9KR517075|2019|Dodge|Grand Caravan|SXT|Excellent Price|$1225 off avg. list price|14705|70945|Aztec|NM|Silver|Black|no| 1| personal
+4T1BF3EK9BU193226|2011|Toyota|Camry|LE I4 Automatic|Excellent Price|$1258 off avg. list price|5590|128596|Doral|FL|Black|Unknown|no| 1| personal
+3FA6P0LU3KR121618|2019|Ford|Fusion|Hybrid SE FWD|Excellent Price|$924 off avg. list price|14549|42609|Bolivar|TN|Silver|Gray|no| 1| personal
+5NMSH73E08H199225|2008|Hyundai|Santa Fe|Limited AWD Automatic|||5300|158899|Tigard|OR|Black|Unknown|no| 3| personal
+3N1AB7AP0KY218695|2019|Nissan|Sentra|SV CVT|Excellent Price|$902 off avg. list price|11891|29166|Ocala|FL|Blue|Black|no| 1| personal
+1GAZGPFG2K1237076|2019|Chevrolet|Express Passenger|3500 LT LWB|Excellent Price|$2666 off avg. list price|19999|14986|Orlando|FL|White|Gray|no| 1| fleet
+2C3CDXCT8KH630125|2019|Dodge|Charger|R/T RWD|Excellent Price||21999|27102|Pasadena|TX|White|Black|no| 1| personal
+WDBSK75F46F109414|2006|Mercedes-Benz|SL|SL 500 Roadster|||9995|73731|Wilmington|NC|Gray|Gray|no| 4| fleet
+KMHFC46F47A214235|2007|Hyundai|Azera|Limited 3.8L (alt)|Excellent Price|$952 off avg. list price|3980|166890|Phoenix|AZ|White|Unknown|no| 3| personal
+1G1ZD5ST1LF043501|2020|Chevrolet|Malibu|LT|Excellent Price||18897|16001|Dallas|TX|White|Black|no| 1| personal
+4T1B11HK9KU267193|2019|Toyota|Camry|SE Automatic|Excellent Price||19671|28399|San Antonio|TX|White|Unknown|no| 1| personal
+JTHBJ46G082251858|2008|Lexus|ES|ES 350|Excellent Price||7888|130417|Frisco|TX|Black|Gray|no| 2| fleet
+1FT7W2B6XFEC88552|2015|Ford|Super Duty F-250|"XL Crew Cab 172"" 4WD"|||21000|92797|Raleigh|NC|White|Gray|no| 1| personal
+JHMCR6F55HC011299|2017|Honda|Accord|Hybrid EX-L Sedan|Excellent Price|$1318 off avg. list price|19955|18200|Irmo|SC|Black|Black|no| 1| personal
+3N1AB7AP2KY303263|2019|Nissan|Sentra|SV CVT|Excellent Price|$615 off avg. list price|14000|8053|Matteson|IL|Silver|Black|no| 1| personal
+3N1CN7AP0KL834443|2019|Nissan|Versa|SV Sedan CVT|Excellent Price|$2039 off avg. list price|9995|17400|Everett|WA|Red|Black|no| 1| personal
+1FTFW1E49KKD53080|2019|Ford|F-150|XL SuperCrew 5.5' Box 4WD|Excellent Price|$9344 off avg. list price|39113|10020|Springfield|IL|White|Unknown|1| 1| personal
+1FAHP2F84KG109536|2019|Ford|Taurus|Limited FWD|Excellent Price|$2355 off avg. list price|19495|34086|Enterprise|AL|White|Unknown|no| 1| personal
+JN8AT2MT9HW145563|2017|Nissan|Rogue|SV FWD|Excellent Price|$2790 off avg. list price|12999|35924|Phoenix|AZ|Gray|Black|no| 1| personal
+19XFC2F52HE200204|2017|Honda|Civic|LX Sedan CVT|Excellent Price|$634 off avg. list price|14455|37068|Bristol|TN|Black|Beige|no| 1| fleet
+3FA6P0LU1KR119933|2019|Ford|Fusion|Hybrid SE FWD|Excellent Price|$913 off avg. list price|15545|34034|Brooksville|FL|White|Unknown|no| 1| personal
+5XXGT4L38KG327458|2019|Kia|Optima|LX|Excellent Price|$1087 off avg. list price|13100|41776|Fontana|CA|Silver|Black|no| 1| fleet
+JTDEPRAE7LJ018493|2020|Toyota|Corolla|LE CVT|Great Price|$490 off avg. list price|14990|31129|Starke|FL|Gray|Unknown|no| 1| personal
+2C4RDGCG3KR517122|2019|Dodge|Grand Caravan|SXT|Excellent Price|$1385 off avg. list price|14995|65704|Farmington|NM|Red|Black|no| 1| personal
+2C4RDGCG5DR790906|2013|Dodge|Grand Caravan|SXT|Excellent Price|$841 off avg. list price|4996|140001|Tulsa|OK|Silver|Black|no| 2| personal
+2HGFB2F85CH553838|2012|Honda|Civic|EX Sedan Automatic|||9995|79150|Honolulu|HI|Silver|Gray|no| 2| fleet
+2C3CCAKG1KH528928|2019|Chrysler|300|Limited AWD|Excellent Price|$3422 off avg. list price|19995|21592|Roseville|MI|Black|Black|1| 1| personal
+1FTNE2EL4BDA10354|2011|Ford|Econoline Cargo Van|E-250 Commercial|||9995|71694|National City|CA|White|Gray|no| 1| personal
+19XFC2F57HE028557|2017|Honda|Civic|LX Sedan CVT|Excellent Price|$1503 off avg. list price|12172|44075|Stafford|VA|Gray|Black|3| 2| fleet
+JTDEPRAE2LJ004839|2020|Toyota|Corolla|LE CVT|Great Price|$385 off avg. list price|17929|11663|Tacoma|WA|Silver|Unknown|no| 1| personal
+2HGFC2F5XHH526631|2017|Honda|Civic|LX Sedan CVT|Excellent Price|$849 off avg. list price|14999|4020|Freehold|NJ|Black|Black|no| 1| personal
+1FT7W2BT6KEF07281|2019|Ford|Super Duty F-250|XLT 4WD Crew Cab 6.75' Box|||49800|13721|Michigan Center|MI|Black|Black|no|| fleet
+1HGCR2F3XHA157963|2017|Honda|Accord|LX Sedan CVT|Excellent Price|$933 off avg. list price|14995|38375|Escondido|CA|Gray|Black|1| 1| personal
+1N4AA6AP0HC391912|2017|Nissan|Maxima|3.5 SL|Excellent Price||17969|35778|Boerne|TX|White|Beige|1| 1| personal
+5NPD84LF4KH432873|2019|Hyundai|Elantra|SEL 2.0L Automatic|Excellent Price|$798 off avg. list price|13391|34212|Sevierville|TN|White|Beige|no| 1| personal
+KM8SMDHF8HU166618|2017|Hyundai|Santa Fe|SE 3.3L AWD|||10525|114348|Indianapolis|IN|White|Gray|no| 2| personal
+4T1BD1FK2EU124732|2014|Toyota|Camry|2014 Hybrid LE|Excellent Price|$1964 off avg. list price|9000|96999|Jacksonville|NC|White|Black|1| 2| personal
+3FA6P0LU2KR204988|2019|Ford|Fusion|Hybrid SE FWD|Excellent Price|$1285 off avg. list price|14199|32092|Victorville|CA|Silver|Black|no| 1| personal
+1G4HR52K4WH419155|1998|Buick|LeSabre|Limited|Excellent Price|$635 off avg. list price|2800|97787|Indianapolis|IN|White|Beige|no| 3| personal
+3FA6P0LU2KR187738|2019|Ford|Fusion|Hybrid SE FWD|Excellent Price|$1132 off avg. list price|14983|28409|Valdosta|GA|Red|Gray|no| 1| personal
+5NPD84LF1HH146603|2017|Hyundai|Elantra|SE 2.0L Sedan Automatic|Excellent Price|$2065 off avg. list price|12495|21268|Virginia Beach|VA|Silver|Unknown|no| 1| personal
+3N1AB7AP8KY265134|2019|Nissan|Sentra|S CVT|Excellent Price||11988|42091|Georgetown|TX|Gray|Black|no| 1| personal
+3N1AB7APXKY311871|2019|Nissan|Sentra|S CVT|Great Price|$448 off avg. list price|12452|28661|Glendale|AZ|White|Black|no| 1| personal
+3FA6P0D97KR205810|2019|Ford|Fusion|Titanium AWD|Excellent Price|$1624 off avg. list price|16969|36989|Guntersville|AL|Silver|Black|no| 1| personal
+2T1BURHE8HC830244|2017|Toyota|Corolla|LE CVT|Excellent Price|$1685 off avg. list price|11999|40811|Bourbonnais|IL|Black|Black|no| 1| personal
+5YFEPRAE8LP103872|2020|Toyota|Corolla|LE CVT|Great Price|$640 off avg. list price|16995|4506|Lynnwood|WA|Blue|Unknown|no| 1| personal
+1FMFU18L1VLC03113|1997|Ford|Expedition|Eddie Bauer 4WD|||2500|226861|Beloit|KS|Black|Beige|1| 4| personal
+5NPEB4ACXEH837624|2014|Hyundai|Sonata|GLS 2.4L Automatic|Excellent Price|$1853 off avg. list price|9151|64571|Ocala|FL|Gray|Gray|no| 1| personal
+19XFC1F36HE012049|2017|Honda|Civic|EX-T Sedan CVT|Excellent Price|$978 off avg. list price|16987|22890|Florida City|FL|White|Gray|no| 1| personal
+3FA6P0CD9KR181936|2019|Ford|Fusion|SEL FWD|Excellent Price||17058|37405|Wichita Falls|TX|Blue|Black|no| 1| personal
+KMHD74LF9HU090561|2017|Hyundai|Elantra|SE 2.0L Sedan Automatic (Ulsan) (alt)|Excellent Price|$1042 off avg. list price|7987|56800|Delray Beach|FL|Black|Gray|no| 1| personal
+WDDDJ75X66A016077|2006|Mercedes-Benz|CLS|CLS 600|||9995|69453|Richmond|TX|Black|Black|no| 3| personal
+5NPD84LF5KH465221|2019|Hyundai|Elantra|SEL 2.0L Automatic|Excellent Price|$1176 off avg. list price|13752|4856|Miami|FL|Black|Black|no| 1| personal
+3C4PDDEG8KT695057|2019|Dodge|Journey|GT AWD|Excellent Price|$1039 off avg. list price|18400|29676|Clarksville|TN|White|Black|no| 1| personal
+3FA6P0LU4KR205592|2019|Ford|Fusion|Hybrid SE FWD|Excellent Price|$1363 off avg. list price|15041|26097|Sewell|NJ|Red|Unknown|no| 1| fleet
+3N1AB7AP1KY335492|2019|Nissan|Sentra|S CVT|Excellent Price|$1587 off avg. list price|11499|11973|Phoenix|AZ|Silver|Black|no| 1| fleet
+1FMCU0GX7DUD71798|2013|Ford|Escape|SE FWD|||6495|125300|Clearwater|FL|White|Gray|no| 2| fleet
+19XFB5F58CE002871|2012|Honda|Civic|CNG Sedan Automatic|||7500|100219|Oakland|CA|Silver|Gray|no| 1| personal
+5NPD84LF0HH043169|2017|Hyundai|Elantra|SE 2.0L Sedan Automatic (alt)|Excellent Price|$775 off avg. list price|9600|80425|Griffin|GA|Blue|Gray|no| 2| personal
+JTKKU10438J016049|2008|Scion|xD|Base Automatic|||4312|130338|Colorado Springs|CO|Blue|Gray|no| 4| fleet
+KNMAT2MT1KP531441|2019|Nissan|Rogue|SV FWD|Great Price||17700|29062|Fort Worth|TX|White|Black|no| 1| personal
+1C4NJPBA7FD226507|2015|Jeep|Patriot|Sport FWD|Excellent Price|$1276 off avg. list price|6995|101754|Louisville|TN|White|Gray|no| 3| fleet
+3FA6P0LU6KR120088|2019|Ford|Fusion|Hybrid SE FWD|Excellent Price|$1066 off avg. list price|15645|31452|Brooksville|FL|Silver|Unknown|no| 1| personal
+1G1ZD5ST9KF222514|2019|Chevrolet|Malibu|LT with 1LT|Excellent Price|$2042 off avg. list price|19995|2949|Cerritos|CA|White|Black|no| 1| personal
+3N1AB7AP9KY218808|2019|Nissan|Sentra|SR CVT|Excellent Price|$912 off avg. list price|13169|34706|Memphis|TN|Black|Black|1| 1| personal
+1FADP3F24EL230496|2014|Ford|Focus|SE Sedan|Excellent Price|$1152 off avg. list price|4988|126235|Sacramento|CA|Gray|Black|no| 5| fleet
+5YFEPRAE4LP093275|2020|Toyota|Corolla|LE CVT|Excellent Price|$743 off avg. list price|15500|13233|Fredericksburg|VA|Unknown|Unknown|no| 1| personal
+58ABK1GG4HU048086|2017|Lexus|ES|ES 350|Excellent Price|$1652 off avg. list price|25688|16659|Phoenix|AZ|White|Beige|no| 1| personal
+JN8AZ18WX9W160118|2009|Nissan|Murano|LE AWD|||3911|204611|O'Fallon|IL|White|Beige|no| 1| personal
+JTDEPRAE9LJ045629|2020|Toyota|Corolla|LE CVT|Great Price|$384 off avg. list price|16763|21508|Santa Maria|CA|White|Black|no| 1| personal
+KNDJP3A5XK7017586|2019|Kia|Soul|+ Automatic|Excellent Price||12007|31933|Pasadena|TX|Black|Black|no| 1| personal
+1HGCR2F39HA246536|2017|Honda|Accord|LX Sedan CVT|Excellent Price|$2508 off avg. list price|12995|38899|Long Island City|NY|Blue|Gray|5| 1| personal
+3FA6P0LU4KR206774|2019|Ford|Fusion|Hybrid SE FWD|Excellent Price|$1125 off avg. list price|14400|33565|Omaha|NE|Silver|Gray|no| 1| personal
+4S3GTAU62J3701214|2018|Subaru|Impreza|2.0i Limited 5-door CVT|||14900|9150|Phoenix|AZ|White|Beige|1| 1| personal
+5YFEPRAE3LP098922|2020|Toyota|Corolla|LE CVT|Excellent Price||15499|8797|Boerne|TX|Black|Unknown|no| 1| personal
+WBXPC93408WJ05870|2008|BMW|X3|3.0si AWD|Excellent Price|$1329 off avg. list price|6995|124581|Roseville|CA|Silver|Unknown|no| 2| personal
+1LNHM81V26Y636411|2006|Lincoln|Town Car|Signature|||4777|103568|Grand Blanc|MI|White|Beige|1| 3| personal
+4T1B11HK0KU196420|2019|Toyota|Camry|SE Automatic|Excellent Price|$856 off avg. list price|16498|40472|Orlando|FL|White|Black|no| 1| personal
+SALFR2BN0AH174909|2010|Land|Rover LR2|HSE|Excellent Price|$1577 off avg. list price|7500|96773|Boise|ID|Silver|Gray|no| 3| personal
+5N1DR2MM8HC691977|2017|Nissan|Pathfinder|S 4WD|Excellent Price|$4729 off avg. list price|19777|45885|Rockville|MD|Black|Black|no| 1| personal
+1N4AA6AV7KC363658|2019|Nissan|Maxima|SV 3.5L|||22597|15597|Broomfield|CO|Blue|Beige|no| 2| personal
+2C3LA63H16H277764|2006|Chrysler|300|C RWD|||6850|95190|Hattiesburg|MS|Gray|Beige|no| 1| personal
+1G11C5SLXFF351867|2015|Chevrolet|Malibu|LT with 1LT|Excellent Price|$1442 off avg. list price|6995|102501|Lake City|FL|Silver|Black|no| 1| personal
+3FA6P0LU4KR204619|2019|Ford|Fusion|Hybrid SE FWD|Excellent Price|$734 off avg. list price|14995|38562|Fuquay Varina|NC|Black|Black|no| 1| personal
+1HGCR2F31HA093232|2017|Honda|Accord|LX Sedan CVT|Excellent Price|$1788 off avg. list price|10282|117049|Jamaica|NY|Brown|Black|1| 1| personal
+WDC0G4KB4KV167334|2019|Mercedes-Benz|GLC|GLC 300 4MATIC|Excellent Price|$4651 off avg. list price|34888|9060|Temecula|CA|Silver|Black|no| 1| personal
+1HGCR2F12HA266240|2017|Honda|Accord|Sport Special Edition Sedan CVT|Excellent Price|$983 off avg. list price|14471|86000|California|MD|Gray|Unknown|no| 1| personal
+5NPD84LF1KH403671|2019|Hyundai|Elantra|SEL 2.0L Automatic|Excellent Price|$930 off avg. list price|15487|41477|Fayetteville|AR|Black|Gray|1| 2| fleet
+2C3CCAKG4KH723079|2019|Chrysler|300|Limited AWD|Excellent Price|$2648 off avg. list price|24981|12003|Tulsa|OK|Gray|Black|no| 1| personal
+1GCNCPEH6FZ370958|2015|Chevrolet|Silverado 1500|WT Regular Cab Long Box 2WD|Excellent Price|$1560 off avg. list price|9995|117765|Pompano Beach|FL|White|Gray|no| 1| fleet
+5YFEPRAE5LP097769|2020|Toyota|Corolla|LE CVT|Great Price||16247|4383|Richardson|TX|Gray|Gray|no| 1| personal
+JN8AZ1MW4BW152978|2011|Nissan|Murano|SL SUV AWD|||4488|136067|Nashua|NH|Black|Black|1| 3| fleet
+1GAZGPFP4K1311419|2019|Chevrolet|Express Passenger|3500 LT LWB|Excellent Price|$2929 off avg. list price|21963|20065|Tallahassee|FL|White|Gray|no| 1| personal
+1FMCU0F70EUA86220|2014|Ford|Escape|S FWD|||7490|117350|Everett|WA|White|Black|no| 3| fleet
+WDBVF79J36A001704|2006|Maybach|57S|4dr Sedan|Excellent Price|$12343 off avg. list price|61900|33754|Middletown|RI|Silver|Black|no| 5| fleet
+1FADP3F21EL382610|2014|Ford|Focus|SE Sedan|Excellent Price|$816 off avg. list price|6987|79739|Rancho Cordova|CA|Black|Black|no| 4| personal
+3FA6P0LU2KR220382|2019|Ford|Fusion|Hybrid SE FWD|Excellent Price||14995|41905|Rockwall|TX|White|Gray|no| 1| personal
+4T1B11HK5KU683838|2019|Toyota|Camry|L Automatic|Excellent Price|$1215 off avg. list price|18043|31704|Jesup|GA|Black|Gray|no| 1| personal
+2C4RDGCG9KR596120|2019|Dodge|Grand Caravan|SXT|Great Price|$617 off avg. list price|17355|43777|Fresno|CA|Black|Black|no| 1| personal
+1G6DM577340106019|2004|Cadillac|CTS|Sedan|Excellent Price|$837 off avg. list price|3989|191246|Huntsville|AL|Silver|Black|1| 3| personal
+JTDEPRAEXLJ020108|2020|Toyota|Corolla|LE CVT|Great Price|$417 off avg. list price|16494|4350|Gainesville|FL|Silver|Gray|no| 1| personal
+3VWC57BU2KM170364|2019|Volkswagen|Jetta|S Automatic|Excellent Price|$1560 off avg. list price|13191|11390|Scappoose|OR|Black|Black|no| 1| personal
+KNAGM4A71D5385676|2013|Kia|Optima|LX|||4500|133344|Orlando|FL|Silver|Gray|no| 4| fleet
+4JGBB86E28A383672|2008|Mercedes-Benz|M-Class|ML 350 4MATIC|Excellent Price|$1670 off avg. list price|8500|96796|San Diego|CA|Gray|Unknown|no| 3| personal
+1GYEK63N34R108232|2004|Cadillac|Escalade|AWD|Excellent Price|$1350 off avg. list price|5800|169295|Richmond|VA|White|Gray|no| 4| personal
+1HGCR2F38HA157511|2017|Honda|Accord|LX Sedan CVT|Excellent Price||15231|29504|Kingwood|TX|Silver|Unknown|no| 2| fleet
+2C4RDGCG8KR722905|2019|Dodge|Grand Caravan|SXT|Excellent Price|$970 off avg. list price|19595|19622|Perryville|MO|White|Black|no| 1| personal
+1FAHP3FN1AW119764|2010|Ford|Focus|SE Sedan|Excellent Price|$555 off avg. list price|2500|105485|Old Bridge|NJ|Silver|Gray|4| 2| personal
+1N4AL3AP2GC149422|2016|Nissan|Altima|2.5 S|||7995|83625|Lexington|KY|Silver|Gray|1| 2| personal
+1FMCU9J97KUC32718|2019|Ford|Escape|Titanium AWD|Excellent Price|$2143 off avg. list price|20995|17528|Boise|ID|Black|Gray|no| 1| personal
+3FA6P0LU6KR182302|2019|Ford|Fusion|Hybrid SE FWD|Great Price|$536 off avg. list price|17303|31239|Fresno|CA|White|Black|1| 1| personal
+3C4PDDEG4KT749776|2019|Dodge|Journey|GT AWD|Excellent Price|$1811 off avg. list price|18699|26005|Victorville|CA|Silver|Black|no| 1| personal
+2FMDK3JC7DBB63900|2013|Ford|Edge|SEL FWD|Excellent Price|$1917 off avg. list price|8600|107370|Avon|IN|Black|Black|1| 1| personal
+JTEHT05J112002093|2001|Toyota|Land Cruiser|4WD|Excellent Price|$1352 off avg. list price|6995|283153|Lugoff|SC|Black|Unknown|no| 2| personal
+2C4RDGCG5KR621529|2019|Dodge|Grand Caravan|SXT|Excellent Price|$1552 off avg. list price|14999|34072|Phoenix|AZ|White|Black|no| 1| fleet
+KNMAT2MT7KP538913|2019|Nissan|Rogue|SV FWD|Excellent Price|$849 off avg. list price|17984|29025|North Charleston|SC|White|Black|no| 1| personal
+JN8AZ2NE0K9226696|2019|INFINITI|QX80|LUXE AWD|||40920|32356|Stafford|TX|Black|Gray|no| 1| personal
+5N1AT2MV6HC783165|2017|Nissan|Rogue|S AWD|Excellent Price|$1412 off avg. list price|13994|69745|North Riverside|IL|Gray|Black|no| 2| personal
+4T1B11HK6JU599722|2018|Toyota|Camry|SE I4 Automatic|Excellent Price|$2649 off avg. list price|16799|30305|Paterson|NJ|Blue|Black|no| 1| personal
+2HGFB2F59DH564882|2013|Honda|Civic|LX Sedan Automatic|Excellent Price|$1620 off avg. list price|9995|89750|Honolulu|HI|Gray|Gray|no| 1| personal
+3FA6P0D91KR206502|2019|Ford|Fusion|Titanium AWD|Excellent Price||17997|39700|Dallas|TX|White|Brown|no| 1| personal
+3N1AB7AP3HL668198|2017|Nissan|Sentra|SV CVT|Excellent Price|$1012 off avg. list price|8499|81938|Philadelphia|PA|Silver|Black|no| 1| fleet
+JN1FV7AR1HM870459|2017|INFINITI|Q50|Red Sport 400 AWD|||22795|47253|Tampa|FL|White|Gray|no| 2| personal
+2GNAXUEVXL6105160|2020|Chevrolet|Equinox|LT with 1LT AWD|Excellent Price|$1649 off avg. list price|18994|15493|Gainesville|FL|White|Black|no| 1| personal
+4T1B11HK0KU701842|2019|Toyota|Camry|SE Automatic|Great Price|$669 off avg. list price|19827|39210|Cookeville|TN|Black|Unknown|no| 2| personal
+4T1B11HK1KU720092|2019|Toyota|Camry|L Automatic|Excellent Price|$1015 off avg. list price|16600|43082|Pikeville|KY|Gray|Gray|no| 1| fleet
+JTDEPRAE5LJ029377|2020|Toyota|Corolla|LE CVT|Excellent Price|$760 off avg. list price|13798|23650|Holiday|FL|Silver|Black|no| 1| personal
+1FALP6244VH110835|1997|Ford|Thunderbird|LX Coupe|||1800|159205|Lebanon|IN|Red|Gray|no| 3| personal
+1FAHP3R43CL386508|2012|Ford|Focus|Electric Hatchback|||8590|58218|Blue Mound|TX|White|Gray|no| 3| fleet
+1J8HG48P87C699533|2007|Jeep|Commander|Sport 4WD|||3988|199097|Oklahoma City|OK|Silver|Gray|no| 2| fleet
+3MYDLBYV5HY196122|2017|Toyota|Yaris iA|Automatic|||8992|31263|Miami|FL|White|Blue|no| 2| personal
+JN8AS5MV0DW640492|2013|Nissan|Rogue|S AWD|||5800|137000|Tacoma|WA|White|Black|no| 2| personal
+JN8AS5MT7FW152867|2015|Nissan|Rogue Select|S FWD|||6025|90704|St Petersburg|FL|Gray|Black|no| 2| fleet
+2C4RDGCG2KR643049|2019|Dodge|Grand Caravan|SXT|Excellent Price|$1041 off avg. list price|17796|22253|Starke|FL|Gray|Black|no| 1| personal
+3FA6P0LU9KR106282|2019|Ford|Fusion|Hybrid SE FWD|Great Price|$386 off avg. list price|15419|51116|Des Moines|IA|White|Black|no| 1| personal
+3N1AB7AP7KY248065|2019|Nissan|Sentra|S CVT|Excellent Price|$580 off avg. list price|11995|38130|Bowling Green|KY|Black|Black|no| 1| personal
+1VWCN7A39EC037325|2014|Volkswagen|Passat|TDI SEL Premium Sedan DSG|Excellent Price|$1234 off avg. list price|8700|95312|Arlington|VA|Gray|Unknown|no| 1| personal
+19XFC2F59HE076254|2017|Honda|Civic|LX Sedan CVT|Excellent Price|$735 off avg. list price|13591|49298|Jacksonville|FL|Black|Black|no| 1| personal
+2C3CCAEG9KH563020|2019|Chrysler|300|Limited RWD|Excellent Price|$1560 off avg. list price|19995|29162|Metairie|LA|White|Black|no| 1| personal
+3N1AB7AP1KY231407|2019|Nissan|Sentra|S CVT|Excellent Price|$612 off avg. list price|10992|47544|Orlando|FL|Black|Black|no| 2| personal
+1FAFP53U76A168616|2006|Ford|Taurus|SE|||1831|134448|Vincennes|IN|Gray|Gray|3| 2| fleet
+1FADP3F28EL427025|2014|Ford|Focus|SE Sedan|Excellent Price|$1356 off avg. list price|6000|72832|Bowie|MD|Black|Black|no| 3| personal
+4S4BP61CX87320229|2008|Subaru|Outback|2.5i Auto|||3932|118962|Countryside|IL|Silver|Black|no| 3| personal
+2HGFG1B84AH512745|2010|Honda|Civic|EX Coupe Automatic|||4999|116889|Austin|TX|Silver|Black|no| 4| personal
+3N1AB7AP3KY217945|2019|Nissan|Sentra|S CVT|Excellent Price||10999|39702|Dallas|TX|White|Black|1| 1| personal
+3FA6P0RU8KR222516|2019|Ford|Fusion|Hybrid Titanium FWD|Excellent Price|$3743 off avg. list price|16569|23237|Delavan|WI|Black|Black|no| 1| personal
+3N1AB7AP5KY226002|2019|Nissan|Sentra|SV CVT|Excellent Price|$627 off avg. list price|12330|37534|North Charleston|SC|Black|Black|1| 1| personal
+1FADP3K22DL227276|2013|Ford|Focus|SE Hatchback|Excellent Price|$891 off avg. list price|5777|118093|San Jose|CA|Gray|Black|no| 1| personal
+JTDEPRAEXLJ046014|2020|Toyota|Corolla|LE CVT|Great Price||15802|30876|Austin|TX|Black|Black|no| 1| fleet
+3FAHP0JAXBR345096|2011|Ford|Fusion|SEL FWD|Excellent Price|$889 off avg. list price|4999|130990|Boise|ID|Silver|Gray|no| 4| personal
+KMHD84LF9KU730367|2019|Hyundai|Elantra|SEL 2.0L Automatic|Excellent Price|$791 off avg. list price|11589|37206|Palm Beach Gardens|FL|Black|Gray|1| 1| personal
+WD3PE7CD1JP602674|2018|Mercedes-Benz|Sprinter Cargo Van|2500 Standard Roof SWB RWD|||32500|34823|Boerne|TX|White|Unknown|no| 1| personal
+4T1B11HK9KU729414|2019|Toyota|Camry|LE Automatic|Excellent Price|$855 off avg. list price|15328|37525|Fontana|CA|Black|Unknown|no| 1| personal
+1C3CDFAA6FD252515|2015|Dodge|Dart|SE|||6995|41924|Bethany|OK|Black|Black|no| 1| fleet
+3FAHP01198R231132|2008|Ford|Fusion|SE V6 AWD|||2900|151177|Minot|ND|Gray|Unknown|no| 3| personal
+5NPD84LF4KH414079|2019|Hyundai|Elantra|SEL 2.0L Automatic|Excellent Price|$1111 off avg. list price|13777|37652|Salisbury|MD|Silver|Gray|no| 1| personal
+5FNYF4H59BB105357|2011|Honda|Pilot|EX-L 4WD|||8995|112505|Fredericksburg|VA|White|Gray|no| 1| personal
+2C4RDGCG5KR579279|2019|Dodge|Grand Caravan|SXT|Excellent Price|$743 off avg. list price|16499|34833|Metairie|LA|Red|Black|no| 1| personal
+1N4AZ0CP5FC333617|2015|Nissan|LEAF|S|Excellent Price|$1287 off avg. list price|7998|20745|Buford|GA|White|Black|no| 2| personal
+3N1AB7AP8KY216550|2019|Nissan|Sentra|S CVT|Excellent Price|$663 off avg. list price|11500|32277|Fredericksburg|VA|Blue|Black|no| 1| fleet
+JTDBVRBD1GA000706|2016|Toyota|Mirai|Sedan|Excellent Price|$2593 off avg. list price|11995|48918|San Jose|CA|White|Unknown|no| 1| fleet
+3N1AB7AP3KY229240|2019|Nissan|Sentra|SV CVT|Excellent Price|$812 off avg. list price|12700|37711|Pensacola|FL|Silver|Black|no| 1| personal
+3KPF24AD8KE051740|2019|Kia|Forte|LXS IVT|Excellent Price|$960 off avg. list price|11158|31978|Tampa|FL|Gray|Black|1| 1| personal
+3N1AB7AP8KL613589|2019|Nissan|Sentra|SV CVT|Excellent Price|$1221 off avg. list price|9988|34573|Scottsdale|AZ|Black|Black|no| 1| personal
+JTDEPRAE4LJ027832|2020|Toyota|Corolla|LE CVT|Excellent Price||14199|26037|Boerne|TX|Silver|Black|no| 1| personal
+2C4RDGCG3KR679851|2019|Dodge|Grand Caravan|SXT|Excellent Price|$805 off avg. list price|16495|44273|New Bern|NC|Silver|Black|no| 1| personal
+5NPD74LF6HH201565|2017|Hyundai|Elantra|SE 2.0L Sedan Automatic (alt)|Excellent Price|$922 off avg. list price|7990|91648|San Diego|CA|Silver|Gray|no| 2| personal
+1FADP3F29EL448529|2014|Ford|Focus|SE Sedan|Excellent Price|$1050 off avg. list price|7196|74312|Rosedale|MD|Silver|Unknown|no| 1| personal
+55SWF4JB2HU210806|2017|Mercedes-Benz|C-Class|C 300 Sedan RWD|Excellent Price|$2481 off avg. list price|21500|26917|Monterey Park|CA|White|Black|no| 1| personal
+3FA6P0LU7FR220285|2015|Ford|Fusion|Hybrid SE FWD|Excellent Price|$2365 off avg. list price|10000|31455|Woodbridge|VA|White|Black|no| 1| personal
+JTDZN3EU0C3054570|2012|Toyota|Prius v|Five|Excellent Price|$1013 off avg. list price|4991|166526|Ocala|FL|Gray|Unknown|no| 2| personal
+KMHD84LF4KU741888|2019|Hyundai|Elantra|SEL 2.0L Automatic|Excellent Price|$638 off avg. list price|12726|43492|Cookeville|TN|Silver|Gray|1| 1| personal
+JTDEPRAE7LJ034872|2020|Toyota|Corolla|LE CVT|Excellent Price||15499|15985|Boerne|TX|White|Black|no| 1| personal
+5XXGT4L33KG285040|2019|Kia|Optima|LX|Excellent Price|$794 off avg. list price|13995|30157|Miami|FL|Silver|Black|no| 1| personal
+3N1AB7AP1JL624366|2018|Nissan|Sentra|SV CVT|Excellent Price|$1670 off avg. list price|10200|34006|Birmingham|AL|White|Black|no| 1| personal
+3FA6P0LU7KR181210|2019|Ford|Fusion|Hybrid SE FWD|Great Price|$625 off avg. list price|16675|33842|Fresno|CA|Gray|Black|no| 1| personal
+19UUA86269A000423|2009|Acura|TL|FWD|||6499|150807|Wichita|KS|Gray|Black|no| 3| fleet
+3FA6P0HD0KR171322|2019|Ford|Fusion|SE FWD|Excellent Price||16499|17569|Wichita Falls|TX|Blue|Black|no| 1| personal
+1FTFW1EF0BFA61912|2011|Ford|F-150|XLT SuperCrew 5.5' Box 4WD|||15950|124682|Albuquerque|NM|Blue|Unknown|no| 2| personal
+KMHDH4AE7DU734351|2013|Hyundai|Elantra|GLS Sedan Automatic|Excellent Price|$1525 off avg. list price|7777|83521|Escondido|CA|Gray|Gray|no| 1| personal
+1C4AJWAG6DL632134|2013|Jeep|Wrangler|Sport|||13995|106516|National City|CA|Green|Black|no| 3| personal
+1HGCR2F81FA117490|2015|Honda|Accord|EX-L with Navigation Sedan I4 CVT|Excellent Price|$2590 off avg. list price|11999|59968|Jamaica|NY|Black|Beige|no| 2| fleet
+JTMF1RFV4KJ012065|2019|Toyota|RAV4|LE AWD|Excellent Price|$2127 off avg. list price|19395|34070|Sierra Vista|AZ|Gray|Black|no| 2| personal
+2G11Z5SA2K9138458|2019|Chevrolet|Impala|LT with 1LT|Excellent Price|$1441 off avg. list price|16863|18850|Post Falls|ID|White|Black|no| 1| personal
+1C3CCCAB7FN584399|2015|Chrysler|200|Limited FWD|||5800|101347|Orlando|FL|White|Black|1| 5| fleet
+1VWBN7A30EC096033|2014|Volkswagen|Passat|TDI SE with Sunroof Sedan DSG|Excellent Price|$1423 off avg. list price|8610|101345|Charlotte|NC|Silver|Beige|1| 1| personal
+2HGFC2F50HH522622|2017|Honda|Civic|LX Sedan CVT|Excellent Price|$623 off avg. list price|14500|34927|Escondido|CA|White|Beige|1| 1| personal
+5NPD84LFXHH177154|2017|Hyundai|Elantra|SE 2.0L Sedan Automatic|Excellent Price|$1003 off avg. list price|10186|39147|Glendale|AZ|White|Beige|no| 1| personal
+KMHGC4DD6EU259677|2014|Hyundai|Genesis|3.8|Excellent Price|$1703 off avg. list price|10793|88878|Bowling Green|KY|Black|Black|no| 1| personal
+2G1WX15K219367827|2001|Chevrolet|Monte Carlo|SS|Excellent Price|$849 off avg. list price|3995|96066|Smyrna|DE|Silver|Black|no| 3| personal
+3CZRM3H3XEG716915|2014|Honda|CR-V|LX FWD|Excellent Price|$1533 off avg. list price|9998|125629|Sacramento|CA|Black|Black|no| 1| personal
+JTDEPRAE3LJ039535|2020|Toyota|Corolla|LE CVT|Great Price|$524 off avg. list price|14190|25964|Commerce|CA|Black|Unknown|no| 1| personal
+3FA6P0HD9KR178933|2019|Ford|Fusion|SE FWD|Excellent Price|$1632 off avg. list price|17290|96|Ukiah|CA|Black|Black|no| 1| personal
+5N1AT2MT1KC772970|2019|Nissan|Rogue|SL FWD|Excellent Price|$1694 off avg. list price|17980|30603|North Charleston|SC|Black|Black|no| 1| personal
+JTHBJ46G772016808|2007|Lexus|ES|ES 350|Excellent Price|$759 off avg. list price|6900|151366|Phoenix|AZ|Silver|Gray|1| 3| personal
+3FA6P0LU5KR262688|2019|Ford|Fusion|Hybrid SE FWD|Excellent Price||14591|41216|Ft. Worth|TX|Gray|Black|no| 1| personal
+1B3HB48B37D510714|2007|Dodge|Caliber|SXT FWD Manual|||2575|118981|Orlando|FL|Black|Black|2| 7| fleet
+19XFB2F56DE065192|2013|Honda|Civic|LX Sedan Automatic|Excellent Price|$1326 off avg. list price|7543|89769|Tampa|FL|Gray|Gray|no| 1| personal
+5YFEPRAE4LP053696|2020|Toyota|Corolla|LE CVT|Great Price|$290 off avg. list price|15990|10376|Doral|FL|White|Black|no| 1| personal
+1FMCU0J95EUA14051|2014|Ford|Escape|Titanium FWD|Excellent Price|$1820 off avg. list price|10588|59223|Bel Air|MD|Black|Black|1| 2| personal
+1FTEW1EG8JKC86170|2018|Ford|F-150|XLT SuperCrew 5.5' Box 4WD|Excellent Price|$5084 off avg. list price|29995|25928|Wahoo|NE|Silver|Gray|1| 1| personal
+1C3AN65LX5X043243|2005|Chrysler|Crossfire|Limited Roadster|||6987|80626|Sacremento|CA|Black|Gray|no| 4| fleet
+4T1BF1FK6CU597217|2012|Toyota|Camry|LE I4 Automatic|Excellent Price|$1107 off avg. list price|7490|104198|Phoenix|AZ|White|Unknown|1| 4| personal
+3FA6P0LU6KR206274|2019|Ford|Fusion|Hybrid SE FWD|Great Price|$635 off avg. list price|17650|23175|Chehalis|WA|White|Gray|no| 1| personal
+2T3BFREV2HW621215|2017|Toyota|RAV4|LE AWD|Excellent Price|$1155 off avg. list price|13294|98084|Turnersville|NJ|Black|Black|1| 1| personal
+WBAGH83431DP31369|2001|BMW|7 Series|740iL|Excellent Price|$1147 off avg. list price|4997|286964|Raleigh|NC|Silver|Gray|1| 1| fleet
+4T1B11HK1KU796170|2019|Toyota|Camry|LE Automatic|Excellent Price||15587|19489|San Antonio|TX|Silver|Black|no| 1| personal
+3FA6P0D91KR186543|2019|Ford|Fusion|Titanium AWD|Excellent Price|$1293 off avg. list price|23900|33451|Bluefield|WV|Silver|Unknown|no| 1| fleet
+1FMCU9G92DUC52515|2013|Ford|Escape|SE 4WD|Excellent Price|$1047 off avg. list price|8200|96372|Winchester|VA|White|Unknown|no| 1| personal
+KMHGC4DD9DU253631|2013|Hyundai|Genesis|3.8|Excellent Price|$1633 off avg. list price|7000|119514|Salt Lake City|UT|White|Beige|no| 2| fleet
+1HGCR2F34HA164990|2017|Honda|Accord|LX Sedan CVT|Great Price|$500 off avg. list price|15200|21424|Pikeville|KY|White|Beige|no| 2| personal
+3FA6P0LU9KR109442|2019|Ford|Fusion|Hybrid SE FWD|Excellent Price|$733 off avg. list price|14797|34799|Roseville|MN|Black|Black|no| 1| personal
+2T1BU4EE2BC600634|2011|Toyota|Corolla|LE Automatic|Excellent Price|$865 off avg. list price|5988|108578|Doral|FL|White|Unknown|no| 3| personal
+5YFEPRAE9LP081316|2020|Toyota|Corolla|LE CVT|Great Price|$480 off avg. list price|14941|17939|New Port Richey|FL|Black|Black|no| 1| personal
+3FA6P0LU0KR119616|2019|Ford|Fusion|Hybrid SE FWD|Excellent Price|$1475 off avg. list price|13900|30993|Elk Grove|CA|Silver|Black|no| 1| personal
+1HGCR2F15HA186978|2017|Honda|Accord|Sport Special Edition Sedan CVT|Excellent Price|$987 off avg. list price|20908|33370|Ventura|CA|White|Black|no| 1| personal
+19XFC2F53HE015529|2017|Honda|Civic|LX Sedan CVT|Excellent Price|$859 off avg. list price|14591|28929|Jacksonville|FL|Silver|Unknown|no| 2| personal
+1G4HP54K91U205829|2001|Buick|LeSabre|Custom|||2788|187143|Vancouver|OR|Gray|Gray|1| 7| personal
+1FATP8UH0K5162472|2019|Ford|Mustang|EcoBoost Premium Convertible|Excellent Price|$3539 off avg. list price|24990|10902|Kaneohe|HI|Silver|Unknown|no| 1| fleet
+2C4RDGCG9KR546334|2019|Dodge|Grand Caravan|SXT|Great Price|$553 off avg. list price|17383|43156|Waynesville|MO|Black|Black|no| 1| personal
+2HKRM4H7XFH667111|2015|Honda|CR-V|EX-L AWD|||13900|29220|PORTLAND|OR|Black|Black|no| 1| personal
+1GCSCREA0AZ278156|2010|Chevrolet|Silverado 1500|LS Extended Cab Standard Box 2WD|Excellent Price|$1272 off avg. list price|6000|167323|Coolidge|AZ|White|Gray|1| 3| personal
+1GYFK63837R170913|2007|Cadillac|Escalade|AWD|||10999|112627|Tucson|AZ|Black|Unknown|1| 5| personal
+JS2YB413X85110782|2008|Suzuki|SX4|5dr HB Auto|||1995|226284|Middlesboro|KY|Black|Black|1| 2| personal
+JTHBK1GG7E2096828|2014|Lexus|ES|ES 350|Excellent Price|$1800 off avg. list price|15780|61092|Oklahoma City|OK|Black|Unknown|no| 2| fleet
+3N1AB7AP5KY228011|2019|Nissan|Sentra|S CVT|Excellent Price|$772 off avg. list price|11200|35298|Fontana|CA|Silver|Black|no| 1| personal
+3KPF24AD6KE040980|2019|Kia|Forte|LXS IVT|Excellent Price|$1136 off avg. list price|11571|40638|Fontana|CA|White|Black|no| 1| personal
+1N4BL4CV6KC184771|2019|Nissan|Altima|SR FWD|Excellent Price|$918 off avg. list price|16995|35790|Chandler|AZ|White|Black|no|| personal
+4T1B11HK8KU740470|2019|Toyota|Camry|LE Automatic|Great Price|$591 off avg. list price|17500|39793|Fallston|MD|Gray|Black|no| 1| personal
+3FA6P0LU2KR263085|2019|Ford|Fusion|Hybrid SE FWD|Great Price||14495|47359|Arlington|TX|Black|Unknown|no| 1| personal
+1FMCU0GD5HUE17219|2017|Ford|Escape|SE FWD|Excellent Price|$1351 off avg. list price|10467|84217|Little Rock|AR|Black|Black|no| 1| personal
+2C4RC1BGXER249613|2014|Chrysler|Town & Country|Touring|Excellent Price|$1037 off avg. list price|8995|90830|Ft Myers|FL|White|Beige|no| 2| personal
+1C4HJXDN5KW549322|2019|Jeep|Wrangler|Unlimited Sport S|Excellent Price|$1931 off avg. list price|34888|15083|Newark|DE|Black|Black|no| 1| personal
+1G1ZD5ST0LF077493|2020|Chevrolet|Malibu|LT|Excellent Price|$815 off avg. list price|19597|10808|Nashville|TN|White|Black|no| 1| personal
+1C3CCCBB3FN716895|2015|Chrysler|200|S FWD|||5999|151679|Murfreesboro|TN|Red|Black|no| 3| fleet
+3N1AB7AP7HY309004|2017|Nissan|Sentra|SV CVT|Excellent Price|$741 off avg. list price|9500|63462|Winchester|VA|Gray|Black|no| 2| personal
+JM3ER2BM4C0421108|2012|Mazda|CX-7|i Sport FWD|Excellent Price|$1607 off avg. list price|6950|79199|Edmonds|WA|Black|Black|no| 1| personal
+3N1CN7AP7GL870153|2016|Nissan|Versa|1.6 SV CVT|Excellent Price|$1077 off avg. list price|5880|89864|Orem|UT|Black|Black|no| 2| personal
+3N6CM0KN0JK696649|2018|Nissan|NV200 Compact Cargo|SV|||11451|86424|Ocala|FL|White|Gray|2| 1| personal
+3GYFK62818G229511|2008|Cadillac|Escalade EXT|AWD|Excellent Price||12991|125457|Rockwall|TX|Black|Brown|1| 1| personal
+KNMAT2MT2KP503566|2019|Nissan|Rogue|SV FWD|Great Price|$601 off avg. list price|15238|34263|Sarasota|FL|Black|Black|no| 1| personal
+4T1B11HK9KU197792|2019|Toyota|Camry|SE Automatic|Excellent Price|$1627 off avg. list price|16995|30470|Chantilly|VA|Black|Black|no| 1| personal
+2C4RDGCG0KR674347|2019|Dodge|Grand Caravan|SXT|Excellent Price|$737 off avg. list price|16000|34745|Southern Pines|NC|Black|Black|no| 1| personal
+5YFBURHE8HP691393|2017|Toyota|Corolla|SE CVT|Excellent Price|$1826 off avg. list price|11999|23874|Newport Beach|CA|Silver|Black|no| 2| fleet
+5N1AN08W88C523741|2008|Nissan|Xterra|S 4WD Auto|||5098|132623|Murray|UT|Gray|Black|no| 4| personal
+3N1AB7AP9KY332601|2019|Nissan|Sentra|S CVT|Great Price|$478 off avg. list price|12999|6982|Raynham|MA|Black|Black|no| 1| personal
+WDDNG7BB5BA410059|2011|Mercedes-Benz|S-Class|S 550 Sedan RWD|Excellent Price|$4545 off avg. list price|19950|77400|Inglewood|CA|Black|Gray|no| 1| fleet
+KNDJN2A28J7558656|2018|Kia|Soul|Base Automatic|Excellent Price|$1874 off avg. list price|9950|35043|Phoenix|AZ|Gray|Gray|1| 1| personal
+1FTEW1E56JFD16533|2018|Ford|F-150|XLT SuperCrew 5.5' Box 4WD|Excellent Price|$5445 off avg. list price|34500|55181|Lake City|FL|Silver|Black|no| 1| personal
+5YFEPRAEXLP089943|2020|Toyota|Corolla|LE CVT|Excellent Price|$641 off avg. list price|15999|5869|Bourbonnais|IL|Silver|Black|no| 1| personal
+1VWBN7A32DC117978|2013|Volkswagen|Passat|TDI SE with Sunroof Sedan DSG|Excellent Price|$2323 off avg. list price|9980|55889|Conway|SC|White|Beige|no| 1| personal
+5NPD84LF9KH419598|2019|Hyundai|Elantra|SEL 2.0L Automatic|Excellent Price|$698 off avg. list price|12500|38075|Fredericksburg|VA|Gray|Black|1| 2| fleet
+1N4BL4EV5KC170003|2019|Nissan|Altima|SL FWD|Excellent Price|$924 off avg. list price|17500|40649|Matteson|IL|Gray|Black|1| 1| personal
+2C3CCAKGXKH722745|2019|Chrysler|300|Limited AWD|Excellent Price|$2682 off avg. list price|24981|11652|Tulsa|OK|Blue|Black|no| 1| personal
+JTJBC1BA9B2036219|2011|Lexus|RX|RX 450h Hybrid AWD|Excellent Price|$2123 off avg. list price|9988|233426|Pleasanton|CA|Black|Beige|no| 2| personal
+KNMAT2MT5KP517929|2019|Nissan|Rogue|SV FWD|Excellent Price|$1001 off avg. list price|17164|32807|Indianapolis|IN|Silver|Black|1| 1| fleet
+3N1AB7AP8KY310802|2019|Nissan|Sentra|S CVT|Excellent Price|$577 off avg. list price|13000|24215|Grand Rapids|MI|Silver|Black|no| 1| personal
+4T1BF3EK2BU675696|2011|Toyota|Camry|LE I4 Automatic|||7499|91559|Murfreesboro|TN|White|Unknown|no| 2| fleet
+KNAFU4A27B5393312|2011|Kia|Forte|EX Sedan Automatic|Excellent Price|$1008 off avg. list price|4978|99404|Richmond|CA|White|Brown|no| 1| personal
+1HGCR2F54HA033429|2017|Honda|Accord|Sport Sedan CVT|Excellent Price||15833|34653|McKinney|TX|Blue|Black|no| 1| personal
+1B3HB28B17D258725|2007|Dodge|Caliber|FWD Manual|||2000|178051|Grand Blanc|MI|Silver|Gray|1| 3| personal
+1N4AL3APXFN876746|2015|Nissan|Altima|2.5 S|Excellent Price||10990|98474|Blue Mound|TX|Black|Gray|no| 3| fleet
+1HGCR2F3XHA223377|2017|Honda|Accord|LX Sedan CVT|Excellent Price|$1810 off avg. list price|14500|22010|Woodbridge|VA|White|Unknown|1| 1| personal
+1C4AJWBG6FL509094|2015|Jeep|Wrangler|Sahara|Excellent Price|$3618 off avg. list price|18900|89141|Key West|FL|Black|Black|no| 2| personal
+5NPD84LF1HH175356|2017|Hyundai|Elantra|SE 2.0L Sedan Automatic|Excellent Price|$1202 off avg. list price|8900|89765|Orlando|FL|Gray|Gray|no| 2| fleet
+4T1B11HK8KU774392|2019|Toyota|Camry|L Automatic|Excellent Price|$1070 off avg. list price|19777|21370|Memphis|TN|White|Gray|no| 1| fleet
+3FA6P0RU7KR264028|2019|Ford|Fusion|Hybrid Titanium FWD|Excellent Price|$1008 off avg. list price|18995|25472|Kennesaw|GA|Black|Black|no| 1| personal
+3C4PDDEG8KT694815|2019|Dodge|Journey|GT AWD|Excellent Price|$2038 off avg. list price|18991|26934|Glendale|CA|White|Black|no| 1| personal
+5XXGT4L39KG298567|2019|Kia|Optima|LX|Excellent Price|$762 off avg. list price|14387|44066|New Bern|NC|White|Black|no| 1| personal
+1FAHP2E83GG132637|2016|Ford|Taurus|SEL FWD|||7133|149435|Virginia Beach|VA|Blue|Beige|no| 3| fleet
+WVWBW7AH3CV000022|2012|Volkswagen|Eos|Komfort (SULEV)|||4995|138537|East Ridge|TN|White|Black|1| 2| personal
+1G1PG5SBXE7200784|2014|Chevrolet|Cruze|LTZ Automatic|||8490|63000|Salt Lake City|UT|Black|Black|no| 3| personal
+1GAZGPFG8K1263567|2019|Chevrolet|Express Passenger|3500 LT LWB|Excellent Price|$1272 off avg. list price|22999|20264|Columbia|MO|White|Gray|no| 1| personal
+1HGCR2F78HA087849|2017|Honda|Accord|EX Sedan CVT|Excellent Price|$1023 off avg. list price|13994|62367|Fort Pierce|FL|Black|Black|no| 2| personal
+1HGCR2F35HA174511|2017|Honda|Accord|LX Sedan CVT|Excellent Price|$628 off avg. list price|14481|49102|Raleigh|NC|White|Beige|no| 1| fleet
+2C4RDGCG0KR580663|2019|Dodge|Grand Caravan|SXT|Great Price|$534 off avg. list price|17955|34407|Price|UT|White|Black|1| 1| fleet
+5YFEPRAE9LP011864|2020|Toyota|Corolla|LE CVT|Excellent Price|$821 off avg. list price|15500|16021|Charlotte|NC|White|Gray|no| 1| personal
+JTMZD33V075051077|2007|Toyota|RAV4|I4 FWD|||5311|141531|O'Fallon|IL|Red|Beige|no| 1| personal
+KNMAT2MV8HP536436|2017|Nissan|Rogue|SV AWD|Excellent Price||13999|43164|Dallas|TX|Blue|Black|2| 1| personal
+1FTNE24L09DA75617|2009|Ford|Econoline Cargo Van|E-250 Commercial|||7995|93393|National City|CA|White|Gray|no| 2| personal
+2C4RDGCG1KR694414|2019|Dodge|Grand Caravan|SXT|Excellent Price|$1021 off avg. list price|18100|33204|Indianapolis|IN|Black|Black|no| 1| personal
+2HGFC2F56HH525993|2017|Honda|Civic|LX Sedan CVT|Excellent Price|$1390 off avg. list price|12785|32398|Elmont|NY|Black|Black|no| 1| fleet
+5GRGN23U33H133883|2003|HUMMER|H2|SUV|||14995|95800|Spokane|WA|Yellow|Beige|1| 7| fleet
+JHMFA16527S004709|2007|Honda|Civic|LX Sedan Automatic|Excellent Price|$909 off avg. list price|4576|143110|Colorado Springs|CO|Black|Gray|no| 2| personal
+5YFEPRAE7LP069133|2020|Toyota|Corolla|LE CVT|Excellent Price|$709 off avg. list price|13299|11215|Miami Gardens|FL|Red|Black|no| 1| personal
+5YFEPRAEXLP045554|2020|Toyota|Corolla|LE CVT|Great Price|$607 off avg. list price|15975|11070|Pembroke|MA|White|Black|no| 1| personal
+JTDEPRAE0LJ016617|2020|Toyota|Corolla|LE CVT|Great Price|$266 off avg. list price|15990|15279|Doral|FL|White|Unknown|no| 1| personal
+3N1AB7AP8KL609204|2019|Nissan|Sentra|SV CVT|Great Price|$482 off avg. list price|12647|38798|Baton Rouge|LA|Gray|Black|no| 1| personal
+1FM5K7D8XEGA88767|2014|Ford|Explorer|XLT FWD|Excellent Price||9350|131465|Houston|TX|White|Gray|no| 1| personal
+1HGCR2F87HA193749|2017|Honda|Accord|EX-L Sedan CVT|Excellent Price|$1285 off avg. list price|17277|34906|Arlington|VA|Black|Black|no| 1| personal
+3C4PDDEG0KT745899|2019|Dodge|Journey|GT AWD|Great Price|$665 off avg. list price|17900|30186|La Follette|TN|Silver|Black|no| 1| personal
+1FADP3F21EL343869|2014|Ford|Focus|SE Sedan|||6995|21800|Naugatuck|CT|Gray|Black|1| 2| personal
+3FA6P0CD8KR171186|2019|Ford|Fusion|SEL FWD|Excellent Price||17861|10796|Waxahachie|TX|White|Gray|no| 1| personal
+1FMCU03118KC64068|2008|Ford|Escape|XLT V6 Automatic FWD|||3500|147945|Omaha|NE|White|Gray|1| 4| personal
+3N1CN7AP9KL805474|2019|Nissan|Versa|SV Sedan CVT|Excellent Price|$1201 off avg. list price|9499|40688|La Grange|GA|Black|Black|1| 1| personal
+3FA6P0RU4KR241550|2019|Ford|Fusion|Hybrid Titanium FWD|Excellent Price|$990 off avg. list price|18995|22137|Kennesaw|GA|Black|Black|no| 1| personal
+3FA6P0LU8KR204123|2019|Ford|Fusion|Hybrid SE FWD|Excellent Price|$613 off avg. list price|15138|32712|Maitland|FL|Blue|Black|no| 1| personal
+1HGCT1B43HA000690|2017|Honda|Accord|LX-S with Honda Sensing Coupe CVT|Excellent Price|$1106 off avg. list price|13985|54961|Duluth|GA|White|Unknown|no| 1| fleet
+KNDJP3A53K7691837|2019|Kia|Soul|+ Automatic|Excellent Price|$676 off avg. list price|14495|20445|Joplin|MO|White|Black|no| 1| personal
+2T1BURHE1HC830926|2017|Toyota|Corolla|SE CVT|Excellent Price|$1438 off avg. list price|10000|109325|Jasper|AL|Silver|Gray|no| 2| personal
+1N4BL4EV9KC157061|2019|Nissan|Altima|SL FWD|Excellent Price|$1008 off avg. list price|18498|32974|Olympia|WA|Silver|Black|no| 1| personal
+3FA6P0LU2KR121772|2019|Ford|Fusion|Hybrid SE FWD|Excellent Price|$644 off avg. list price|15490|37948|Hampton|VA|Black|Black|no| 1| personal
+3FA6P0MU1KR120174|2019|Ford|Fusion|Hybrid SEL FWD|Excellent Price|$1132 off avg. list price|15992|42661|Savannah|GA|White|Black|no| 1| personal
+3N1AB7AP4KL613136|2019|Nissan|Sentra|SV CVT|Excellent Price|$952 off avg. list price|11999|32564|Victorville|CA|Gray|Black|no| 1| personal
+WP0CB29892U661811|2002|Porsche|Boxster|S Manual|Excellent Price|$3226 off avg. list price|16995|42631|Wichita|KS|Silver|Unknown|no| 2| fleet
+5GZER23D49J130388|2009|Saturn|Outlook|FWD 4dr XR|||3998|138142|Newark|CA|Black|Black|no| 4| personal
+1FTNE2EL4BDB09787|2011|Ford|Econoline Cargo Van|E-250 Commercial|||10995|57502|National City|CA|White|Gray|no| 2| personal
+1FMCU0F74HUC10297|2017|Ford|Escape|S FWD|Excellent Price||10450|108925|Abilene|TX|White|Black|no| 1| personal
+3KPC24A39KE040515|2019|Hyundai|Accent|SE Automatic|Excellent Price|$1074 off avg. list price|8991|33213|Hollywood|FL|Gray|Black|no| 1| fleet
+3N1AB7AP0JY301364|2018|Nissan|Sentra|S CVT|Excellent Price|$938 off avg. list price|10650|30832|Chantilly|VA|Black|Black|1| 1| personal
+JTEBU5JR9K5645836|2019|Toyota|4Runner|SR5 4WD|Excellent Price|$1864 off avg. list price|29700|29678|Pikeville|KY|Silver|Black|no| 1| personal
+19XFC2F57HE074910|2017|Honda|Civic|LX Sedan CVT|Excellent Price|$939 off avg. list price|13285|33687|Sanford|FL|White|Beige|no| 1| personal
+5YFEPRAE4LP068067|2020|Toyota|Corolla|LE CVT|Great Price||16757|16475|Houston|TX|White|Gray|no| 1| personal
+5FNRL38777B018105|2007|Honda|Odyssey|EX-L with Rear Entertainment System|||2987|243143|Beavercreek|OH|Silver|Gray|no| 4| personal
+1FMCU9GX6EUA05403|2014|Ford|Escape|SE 4WD|Excellent Price|$1287 off avg. list price|9000|92038|Waukee|IA|Silver|Black|no| 2| personal
+1VWCN7A30EC073694|2014|Volkswagen|Passat|TDI SEL Premium Sedan DSG|Excellent Price|$1460 off avg. list price|11075|56772|Huntersville|NC|Silver|Beige|no| 1| personal
+1VWCN7A31EC040686|2014|Volkswagen|Passat|TDI SEL Premium Sedan DSG|Excellent Price|$1967 off avg. list price|10900|67814|Lakewood|WA|Silver|Gray|no| 1| personal
+4T1BD1FK6HU211621|2017|Toyota|Camry|Hybrid XLE|Excellent Price|$2489 off avg. list price|12999|147633|Smyrna|GA|Black|Black|no| 1| fleet
+1GAZGPFG3K1170116|2019|Chevrolet|Express Passenger|3500 LT LWB|Excellent Price|$1515 off avg. list price|17980|64545|Fort Myers|FL|White|Gray|no| 1| personal
+2C4RDGCGXKR656342|2019|Dodge|Grand Caravan|SXT|Excellent Price|$799 off avg. list price|15400|47081|Hazard|KY|Silver|Black|no| 1| fleet
+2HGFC2F52HH526266|2017|Honda|Civic|LX Sedan CVT|Excellent Price|$811 off avg. list price|14990|51964|Tacoma|WA|Silver|Unknown|no| 2| fleet
+4T1B11HK9KU718171|2019|Toyota|Camry|LE Automatic|Excellent Price|$1101 off avg. list price|16998|28628|Pinellas Park|FL|White|Black|no| 1| personal
+1GKDT13S332273958|2003|GMC|Envoy|SLT 4WD|Excellent Price|$943 off avg. list price|4400|168616|Tigard|OR|Gray|Gray|no| 5| personal
+3FA6P0HD8HR372202|2017|Ford|Fusion|SE FWD|Excellent Price|$2041 off avg. list price|14995|29731|Philadelphia|PA|Black|Black|no| 1| fleet
+1HGCR2F32HA132393|2017|Honda|Accord|LX Sedan CVT|Great Price|$663 off avg. list price|16399|33876|Sea Girt|NJ|Black|Gray|no| 1| personal
+WAUF2AFC8EN144513|2014|Audi|S6|Prestige Sedan|Excellent Price|$4376 off avg. list price|27997|52300|Knoxville|TN|Silver|Black|no| 3| personal
+2HGFG3B59CH549357|2012|Honda|Civic|LX Coupe Automatic|Excellent Price||5800|127244|Houston|TX|Black|Gray|no| 2| personal
+JTHBB1BA7A2002749|2010|Lexus|HS|HS 250h|Excellent Price|$1304 off avg. list price|6500|160006|Pensacola|FL|Blue|Unknown|1| 3| fleet
+19UUA56683A093969|2003|Acura|TL|3.2L|||4929|102833|Katy|TX|Black|Beige|no| 2| personal
+3FA6P0LU6KR205321|2019|Ford|Fusion|Hybrid SE FWD|Excellent Price|$1258 off avg. list price|15382|25525|Livermore|CA|Gray|Gray|no| 1| personal
+1FA6P0HD2F5122390|2015|Ford|Fusion|SE FWD|Excellent Price|$1120 off avg. list price|7499|113971|Rosedale|MD|Black|Unknown|1| 3| personal
+4T1B11HK4KU757184|2019|Toyota|Camry|SE Automatic|Excellent Price|$796 off avg. list price|17695|34664|Miami|FL|Gray|Black|no| 1| personal
+3N1AB7AP8GY232545|2016|Nissan|Sentra|S CVT|Excellent Price|$1321 off avg. list price|6900|108630|Chicago|IL|Gray|Unknown|no| 2| personal
+1HGCR2F33HA264756|2017|Honda|Accord|LX Sedan CVT|Great Price|$587 off avg. list price|15879|35448|Columbia|MO|Black|Black|no| 1| personal
+3VWC57BU4KM206832|2019|Volkswagen|Jetta|S Automatic|Excellent Price|$2370 off avg. list price|13997|20147|Lakewood|CO|Black|Black|no| 1| fleet
+KNDJP3A5XJ7527550|2018|Kia|Soul|+ Automatic|Excellent Price|$1141 off avg. list price|9995|67708|Elk Grove|CA|Blue|Black|no| 3| personal
+1G1ZD5ST8LF026260|2020|Chevrolet|Malibu|LT|Excellent Price|$1720 off avg. list price|18731|9897|San Jose|CA|Silver|Black|no| 1| fleet
+1N6DD0ER9KN744714|2019|Nissan|Frontier|SV Crew Cab 2WD Automatic|Excellent Price||21920|7305|Mcallen|TX|White|Gray|no| 2| fleet
+1J4GS48K85C543182|2005|Jeep|Grand Cherokee|Laredo RWD|||3311|171923|O'Fallon|IL|Silver|Gray|no| 1| personal
+1HGCR2F32HA147296|2017|Honda|Accord|LX Sedan CVT|Excellent Price|$994 off avg. list price|15995|30609|Pensacola|FL|Gray|Gray|no| 1| personal
+3FA6P0D96KR117346|2019|Ford|Fusion|Titanium AWD|Excellent Price|$1157 off avg. list price|20499|30263|Hot Springs|AR|White|Black|no| 1| personal
+3VW2B7AJ4HM384244|2017|Volkswagen|Jetta|1.4T S Auto|Excellent Price|$1711 off avg. list price|9995|31987|Philadelphia|PA|Blue|Black|no| 2| fleet
+55SWF4JBXHU207782|2017|Mercedes-Benz|C-Class|C 300 Sedan RWD|Excellent Price|$2946 off avg. list price|21888|40803|Laguna Niguel|CA|Blue|Gray|no| 2| personal
+1FDWE35L07DB20203|2007|Ford|Econoline Commercial Cutaway|"E-350 138"" DRW"|||12988|32435|Houston|TX|White|Unknown|no|| personal
+55SWF4JB2HU205721|2017|Mercedes-Benz|C-Class|C 300 with Sport Package Sedan RWD|Excellent Price|$2443 off avg. list price|19500|36799|Sunnivale|CA|White|Black|no| 1| personal
+WBADW7C59DE440191|2013|BMW|3 Series|328i Convertible SULEV|Excellent Price|$2540 off avg. list price|10990|90216|Burbank|CA|Black|Beige|no| 3| personal
+5N1DR2MM1KC599178|2019|Nissan|Pathfinder|SV 4WD|||22697|36349|Little Rock|AR|Silver|Black|no| 1| personal
+1G4HD57278U103282|2008|Buick|Lucerne|CXL V6|||2699|181256|Tulsa|OK|White|Brown|no| 3| personal
+5UXFE435X8L027354|2008|BMW|X5|3.0si AWD|Excellent Price|$1302 off avg. list price|6999|89184|Hazlet|NJ|Black|Beige|no| 3| personal
+5YFEPRAE2LP110588|2020|Toyota|Corolla|LE CVT|Great Price|$435 off avg. list price|15995|2696|St Francisville|LA|Black|Black|1| 1| personal
+KNMAT2MT4KP528436|2019|Nissan|Rogue|SV FWD|Great Price|$727 off avg. list price|17984|30310|North Charleston|SC|White|Black|no| 1| personal
+KNMAT2MT6HP614081|2017|Nissan|Rogue|2017.5 S FWD|Excellent Price|$1362 off avg. list price|13995|49911|Fuquay Varina|NC|Black|Black|1| 1| personal
+1VWBN7A3XEC076632|2014|Volkswagen|Passat|TDI SE with Sunroof Sedan DSG|Excellent Price||10990|48166|Blue Mound|TX|Gray|Black|no| 3| personal
+1N4BL4CV6KC195169|2019|Nissan|Altima|SR FWD|Excellent Price|$812 off avg. list price|17495|35708|New Bern|NC|White|Black|no| 1| personal
+1G11Z5S36KU119979|2019|Chevrolet|Impala|LT with 1LT|Excellent Price|$1066 off avg. list price|18499|25724|Tinley Park|IL|Black|Black|no| 1| personal
+5N1AT2MV8KC766780|2019|Nissan|Rogue|SV AWD|Excellent Price||17970|32349|Stafford|TX|White|Black|no| 1| personal
+3N1AB7AP3KY273416|2019|Nissan|Sentra|SV CVT|Great Price|$393 off avg. list price|14407|13244|Greenville|SC|White|Black|no| 1| personal
+JTDKN3DU4D5576630|2013|Toyota|Prius|Two|Excellent Price|$1713 off avg. list price|7999|126142|Smyrna|GA|Silver|Gray|no| 2| personal
+WA1LGAFE7DD000359|2013|Audi|Q7|Premium Plus 3.0T quattro|Excellent Price|$2720 off avg. list price|12995|100789|Kennesaw|GA|Gray|Black|no| 2| personal
+3GYEK62N44G325211|2004|Cadillac|Escalade EXT|AWD|||5995|175103|Westminster|CO|Black|Gray|no| 2| personal
+1HGCR2F73HA236832|2017|Honda|Accord|EX Sedan CVT|Excellent Price|$850 off avg. list price|17377|33704|Michigan City|IN|Black|Gray|no| 1| personal
+3N1AB7AP1KY264746|2019|Nissan|Sentra|S CVT|Excellent Price||11988|43851|Georgetown|TX|Silver|Black|no| 1| personal
+5NPD84LF1KH482775|2019|Hyundai|Elantra|SEL 2.0L Automatic|Excellent Price||13444|16979|Rosenberg|TX|Silver|Black|no| 1| personal
+KM8J23A47HU553861|2017|Hyundai|Tucson|SE FWD|Excellent Price|$1681 off avg. list price|15694|35792|Louisville|KY|Black|Black|no| 1| personal
+5UXKR0C53F0P02469|2015|BMW|X5|xDrive35i AWD|Excellent Price|$4657 off avg. list price|19995|88270|Westport|MA|Gray|Black|no| 1| personal
+1J4PN2GK1AW176308|2010|Jeep|Liberty|Sport 4WD|Excellent Price|$700 off avg. list price|3488|175411|Hagerstown|MD|Red|Beige|no| 2| personal
+1N4BL4CV4KC168892|2019|Nissan|Altima|SR FWD|Excellent Price|$1085 off avg. list price|15652|33399|Fontana|CA|Silver|Black|no| 1| personal
+1FMCU0GX0GUC61566|2016|Ford|Escape|SE FWD|Excellent Price|$1353 off avg. list price|7500|154571|Smyrna|GA|White|Beige|no| 2| personal
+3FA6P0LU2KR222570|2019|Ford|Fusion|Hybrid SE FWD|Great Price|$544 off avg. list price|14200|32167|Hazard|KY|White|Gray|no| 1| personal
+58ABK1GG4GU032890|2016|Lexus|ES|ES 350|Excellent Price|$2464 off avg. list price|15991|38295|Hollywood|FL|White|Brown|1| 2| personal
+YV4960BZ0A1079180|2010|Volvo|XC70|3.2L|||7995|144000|Westport|MA|Blue|Black|1| 3| personal
+1FMCU0D74CKA42071|2012|Ford|Escape|XLT FWD|||4995|145834|Virginia Beach|VA|Gray|Unknown|1| 2| personal
+1N6AD0ERXKN733479|2019|Nissan|Frontier|SV Crew Cab 2WD Automatic|Excellent Price||19500|26429|Cleburne|TX|White|Gray|no| 1| personal
+KNMAT2MV7KP517772|2019|Nissan|Rogue|SV AWD|Excellent Price|$912 off avg. list price|16999|45050|Concord|NC|White|Black|no| 1| personal
+1G1ZD5ST0KF134273|2019|Chevrolet|Malibu|LT with 1LT|Excellent Price|$857 off avg. list price|15593|30875|Metairie|LA|Silver|Black|no| 1| personal
+1HGCP2F68CA180442|2012|Honda|Accord|SE Sedan I4 Automatic|||7999|78629|Irvine|CA|Black|Black|1| 4| personal
+JTMBD32V565023678|2006|Toyota|RAV4|Sport I4 4WD|||4900|144741|Johnson City|TN|Gray|Gray|no| 3| personal
+WDDDJ72X08A125724|2008|Mercedes-Benz|CLS|CLS 550|Excellent Price|$2126 off avg. list price|11995|68691|Tampa|FL|White|Black|no| 3| personal
+1HGCR2F31HA247910|2017|Honda|Accord|LX Sedan CVT|Excellent Price|$734 off avg. list price|15477|36222|Michigan City|IN|Blue|Black|1| 2| personal
+1N6AD0ER0KN720644|2019|Nissan|Frontier|SV Crew Cab 2WD Automatic|Excellent Price|$2401 off avg. list price|19197|19965|Moreno Valley|CA|White|Gray|no| 1| personal
+3FA6P0LU5KR204144|2019|Ford|Fusion|Hybrid SE FWD|Excellent Price|$930 off avg. list price|15990|27962|Taylorville|IL|White|Unknown|no| 1| personal
+1FTFW1EF2DFB92116|2013|Ford|F-150|XL SuperCrew 5.5' Box 4WD|Excellent Price|$3908 off avg. list price|16499|88659|Dundalk|MD|White|Unknown|no| 1| personal
+4T1B11HK2KU256570|2019|Toyota|Camry|LE Automatic|Excellent Price||16850|33864|Live Oak|TX|White|Black|no| 1| personal
+JTHBK1EG2B2447255|2011|Lexus|ES|ES 350|Excellent Price|$1451 off avg. list price|10998|102329|Mission Viejo|CA|Black|Black|no| 2| personal
+4T1B11HK5KU788038|2019|Toyota|Camry|SE Automatic|Great Price|$755 off avg. list price|19898|18999|Pensacola|FL|White|Gray|no| 1| personal
+3N1AB7AP9KY277776|2019|Nissan|Sentra|SV CVT|Excellent Price|$609 off avg. list price|12307|30461|Chandler|AZ|Blue|Black|no| 1| fleet
+1N4AL3APXFC191948|2015|Nissan|Altima|2.5 S|Excellent Price|$726 off avg. list price|7487|117009|Raleigh|NC|Black|Beige|no| 1| personal
+5YFEPRAE1LP011437|2020|Toyota|Corolla|LE CVT|Great Price|$237 off avg. list price|16988|20430|North Dartmouth|MA|White|Black|no| 1| personal
+1G11Z5SA4KU125133|2019|Chevrolet|Impala|LT with 1LT|Excellent Price|$712 off avg. list price|16663|36064|Metairie|LA|White|Black|no| 1| personal
+JTDEPRAE2LJ078083|2020|Toyota|Corolla|LE CVT|Great Price|$175 off avg. list price|18588|6124|Honolulu|HI|White|Gray|no| 1| personal
+KNMAT2MT8KP556823|2019|Nissan|Rogue|SV FWD|Great Price|$563 off avg. list price|18440|24398|Albuquerque|NM|Gray|Black|no| 1| personal
+JA3215H17CU021617|2012|Mitsubishi|i-MiEV|ES|||4995|57606|Mahopac|NY|White|Gray|1| 1| personal
+1N4AL3AP6HC238301|2017|Nissan|Altima|2.5 SV|Excellent Price|$1843 off avg. list price|12994|29562|Virginia Beach|VA|Black|Beige|1| 1| personal
+5NPD84LF6HH013304|2017|Hyundai|Elantra|SE 2.0L Sedan Automatic (alt)|Excellent Price|$704 off avg. list price|11280|56861|Highland|IN|Red|Beige|no| 1| personal
+1FM5K8GT8EGC58078|2014|Ford|Explorer|Sport 4WD|Excellent Price|$2943 off avg. list price|15500|75410|Rapid City|SD|White|Black|no| 2| personal
+4T1B11HK9KU786454|2019|Toyota|Camry|LE Automatic|Excellent Price|$1676 off avg. list price|17999|19473|Evansville|IN|Silver|Gray|no| 1| personal
+5N1AT2MV7KC749713|2019|Nissan|Rogue|SV AWD|Excellent Price|$1717 off avg. list price|20000|17496|Orlando|FL|Silver|Unknown|no| 1| personal
+1G11Z5S33KU113640|2019|Chevrolet|Impala|LT with 1LT|Excellent Price|$926 off avg. list price|15850|48660|Jacksonville|NC|Black|Black|1| 1| personal
+3N1AB7AP5KY244676|2019|Nissan|Sentra|SR CVT|Excellent Price|$996 off avg. list price|14977|33326|Albuquerque|NM|Gray|Black|no| 1| personal
+5YFEPRAE3LP038901|2020|Toyota|Corolla|LE CVT|Great Price|$152 off avg. list price|17495|7729|Trevose|PA|Black|Black|no| 1| personal
+3N1AB7AP5KY311616|2019|Nissan|Sentra|S CVT|Great Price|$339 off avg. list price|12953|28924|Glendale|AZ|White|Black|no| 1| personal
+1N4AL2AP5CC207463|2012|Nissan|Altima|2.5 S Sedan CVT|Excellent Price|$1445 off avg. list price|7351|97633|Ocala|FL|Red|Black|no| 4| fleet
+2C3CCAEG5KH722924|2019|Chrysler|300|Limited RWD|Excellent Price|$3734 off avg. list price|23477|9208|Scottsdale|AZ|Blue|Black|no| 1| personal
+1FTEW1E43KFC10789|2019|Ford|F-150|XL SuperCrew 5.5' Box 4WD|||35999|17642|Columbia|SC|Silver|Gray|no| 1| personal
+KNDJP3A57K7013768|2019|Kia|Soul|+ Automatic|Excellent Price|$668 off avg. list price|14500|29808|Virginia Beach|VA|White|Black|no| 1| personal
+2C4RDGCG3KR601540|2019|Dodge|Grand Caravan|SXT|Excellent Price|$1349 off avg. list price|16995|58829|Cedar Rapids|IA|Gray|Black|no| 1| fleet
+3FA6P0D95KR141007|2019|Ford|Fusion|Titanium AWD|Excellent Price||17990|34078|Blue Mound|TX|Gold|Black|no| 1| fleet
+1FTEW1CP3HFA99571|2017|Ford|F-150|XLT SuperCrew 5.5' Box RWD|Excellent Price|$3921 off avg. list price|19995|70702|Harrison|AR|White|Gray|no| 1| fleet
+3N1AB7APXKY332154|2019|Nissan|Sentra|SV CVT|Great Price|$480 off avg. list price|12538|32020|Jacksonville|AR|White|Black|no| 1| personal
+3FA6P0LU8KR272647|2019|Ford|Fusion|Hybrid SE FWD|Excellent Price|$821 off avg. list price|15388|23667|Live Oak|FL|Blue|Unknown|no| 1| personal
+KNMAT2MT6KP543357|2019|Nissan|Rogue|SV FWD|Great Price|$418 off avg. list price|18245|32464|Memphis|TN|White|Black|no| 1| personal
+3FA6P0LU6KR180954|2019|Ford|Fusion|Hybrid SE FWD|Excellent Price|$765 off avg. list price|14999|50911|Pine Bluff|AR|Black|Black|no| 1| personal
+4T1B11HK5KU771529|2019|Toyota|Camry|LE Automatic|Excellent Price||17985|21966|Dallas|TX|White|Black|no| 1| personal
+SALPM16452A465589|2002|Land|Rover Range Rover|HSE|||6995|142597|Santa Monica|CA|Gray|Gray|3| 4| personal
+4T4BE46K59R116294|2009|Toyota|Camry|LE I4 Automatic|||2999|213002|American Fork|UT|White|Unknown|no| 2| fleet
+3C4PDDEG9KT701903|2019|Dodge|Journey|GT AWD|Excellent Price|$916 off avg. list price|20395|32209|Cincinnati|OH|White|Black|no| 1| personal
+5TDZA22C26S411610|2006|Toyota|Sienna|XLE 7-Passenger FWD|Excellent Price|$518 off avg. list price|2495|210678|Antioch|IL|White|Beige|1| 3| fleet
+1C3CCCAB1FN671117|2015|Chrysler|200|Limited FWD|Excellent Price|$2007 off avg. list price|8555|55342|Fairbanks|AK|Gray|Black|no| 3| personal
+KNMAT2MV7HP560095|2017|Nissan|Rogue|SV AWD|Excellent Price|$1391 off avg. list price|15395|36028|Peabody|MA|White|Black|no| 1| personal
+1HGCR2F13HA231402|2017|Honda|Accord|Sport Special Edition Sedan CVT|Excellent Price||15999|44013|Dallas|TX|Red|Black|no| 1| personal
+3FA6P0LU6KR225472|2019|Ford|Fusion|Hybrid SE FWD|Excellent Price|$1180 off avg. list price|14000|33404|Mattoon|IL|Red|Gray|no| 1| personal
+3FA6P0LU8KR207524|2019|Ford|Fusion|Hybrid SE FWD|Excellent Price|$752 off avg. list price|14500|33793|Sarasota|FL|Silver|Gray|no| 1| personal
+1FM5K8D84HGC77652|2017|Ford|Explorer|XLT 4WD|Excellent Price|$2962 off avg. list price|19500|47241|Chicago|IL|Silver|Unknown|no| 1| personal
+1GAZGPFGXK1267331|2019|Chevrolet|Express Passenger|3500 LT LWB|Excellent Price|$1150 off avg. list price|22693|35912|Columbia|MO|White|Gray|no| 1| personal
+3FA6P0LU4KR225745|2019|Ford|Fusion|Hybrid SE FWD|Great Price||14000|31311|Whitesboro|TX|Silver|Black|no| 1| personal
+YV4902BZXB1099550|2011|Volvo|XC70|3.0L Turbo with Moonroof AWD|Excellent Price|$1943 off avg. list price|8994|127236|Morristown|NJ|Red|Black|no| 4| personal
+4T1B11HKXKU169712|2019|Toyota|Camry|SE Automatic|Excellent Price|$790 off avg. list price|19324|14350|Gainesville|FL|Black|Black|no| 2| personal
+1FMCU0GD7HUC27888|2017|Ford|Escape|SE FWD|Excellent Price|$1431 off avg. list price|9999|112148|Smyrna|GA|Gold|Black|no| 2| personal
+2C3CCAKG5KH687287|2019|Chrysler|300|Limited AWD|Excellent Price|$1870 off avg. list price|23587|16054|North Nampa|ID|Black|Black|no| 1| personal
+4T1B11HKXKU769761|2019|Toyota|Camry|L Automatic|Excellent Price|$1377 off avg. list price|17815|28955|Douglas|GA|White|Unknown|no| 1| personal
+1FTVX14V49KC27545|2009|Ford|F-150|XL SuperCab 8.0' Box 4WD|||5900|151196|West Bend|WI|Black|Unknown|no| 1| personal
+4T1BF32K13U051202|2003|Toyota|Camry|SE V6 VVTi Automatic|||3950|145787|Addison|IL|Black|Gray|no| 4| personal
+3VWLL7AJ4DM439206|2013|Volkswagen|Jetta|TDI Sedan DSG|Excellent Price|$1617 off avg. list price|8888|80045|Smyrna|GA|White|Gray|no| 2| personal
+2C4RDGCG7KR512778|2019|Dodge|Grand Caravan|SXT|Great Price|$366 off avg. list price|16200|38079|Pikeville|KY|Black|Black|no| 1| personal
+1FMCU0GX1FUB42701|2015|Ford|Escape|SE FWD|Excellent Price|$1678 off avg. list price|9888|102428|Lakewood|WA|White|Black|no| 2| fleet
+1ZVBP8AM0E5282409|2014|Ford|Mustang|V6 Coupe|Excellent Price||11990|61262|Blue Mound|TX|White|Gray|no| 2| personal
+3N1AB7AP5KY263695|2019|Nissan|Sentra|S CVT|Great Price|$458 off avg. list price|12188|37432|Hayward|CA|Silver|Black|no| 1| personal
+1C6RR6LG7HS856010|2017|Ram|1500|"Lone Star Silver Crew Cab 5'7"" Box 2WD"|Excellent Price||20995|29068|Haltom City|TX|Black|Gray|2| 1| personal
+JTEBU5JR9K5681042|2019|Toyota|4Runner|SR5 4WD|Excellent Price|$2780 off avg. list price|32995|11481|Anchorage|AK|Silver|Unknown|no| 1| personal
+1HGCR2F33HA190867|2017|Honda|Accord|LX Sedan CVT|Excellent Price|$1011 off avg. list price|12495|82916|Riverside|CA|Black|Black|no| 1| personal
+1VWCN7A3XEC037902|2014|Volkswagen|Passat|TDI SEL Premium Sedan DSG|Excellent Price|$1129 off avg. list price|9999|61844|Waite Park|MN|Black|Black|no| 4| fleet
+1N6AD0ER6KN883573|2019|Nissan|Frontier|SV Crew Cab 2WD Automatic|Excellent Price|$1845 off avg. list price|19800|7194|Union City|GA|Blue|Gray|no| 1| fleet
+1N4BL4BV7KN312974|2019|Nissan|Altima|S FWD|Great Price|$614 off avg. list price|17595|11377|O'Fallon|IL|White|Black|no| 1| personal
+1FMCU9GXXEUE19235|2014|Ford|Escape|SE 4WD|Excellent Price|$1058 off avg. list price|9500|89681|Winchester|VA|White|Unknown|1| 2| fleet
+1HGCR2F38HA200728|2017|Honda|Accord|LX Sedan CVT|Excellent Price|$606 off avg. list price|14400|29110|Pikeville|KY|Blue|Beige|1| 1| personal
+JTDEPRAE8LJ008670|2020|Toyota|Corolla|LE CVT|Great Price|$226 off avg. list price|15999|12287|Naples|FL|Gray|Gray|no| 1| personal
+2HGFC1E51HH706639|2017|Honda|Civic|Si Sedan Manual|Excellent Price|$1521 off avg. list price|18998|48286|Renton|WA|White|Unknown|no| 1| personal
+4T1B11HK6KU739804|2019|Toyota|Camry|SE Automatic|Excellent Price|$956 off avg. list price|18197|30334|Lugoff|SC|Silver|Unknown|no| 1| personal
+2FMDK3KC9DBA72352|2013|Ford|Edge|Limited FWD|Excellent Price|$2232 off avg. list price|10500|91249|Rosedale|MD|Black|Unknown|no| 3| fleet
+1HGCR2F85HA171569|2017|Honda|Accord|EX-L Sedan CVT|Excellent Price|$1284 off avg. list price|15454|52305|Northridge|CA|Red|Gray|no| 1| personal
+1FMCU0GX4EUE41260|2014|Ford|Escape|SE FWD|Excellent Price|$1532 off avg. list price|7999|90600|Goodyear|AZ|Silver|Gray|no| 3| personal
+1G1ZD5ST8LF002217|2020|Chevrolet|Malibu|LT|Excellent Price|$688 off avg. list price|16999|26523|Chandler|AZ|White|Black|no| 1| personal
+1VWCN7A3XEC073170|2014|Volkswagen|Passat|TDI SEL Premium Sedan DSG|Excellent Price|$971 off avg. list price|9847|82144|Sevierville|TN|Gray|Black|no| 2| personal
+2GNALBEK9H1586190|2017|Chevrolet|Equinox|LS FWD|Excellent Price||9585|137036|Pearland|TX|Silver|Gray|no| 1| personal
+3N1AB7AP8KY330693|2019|Nissan|Sentra|S CVT|Excellent Price|$979 off avg. list price|10990|15044|Miami Gardens|FL|Gray|Black|no| 1| fleet
+4JGCB6FB0AA101890|2010|Mercedes-Benz|R-Class|R 350 4MATIC|Excellent Price|$1833 off avg. list price|9980|92628|Conway|SC|White|Gray|1| 5| personal
+5NPD84LF3HH186892|2017|Hyundai|Elantra|SE 2.0L Sedan Automatic|Excellent Price|$891 off avg. list price|10996|34472|Crestwood|IL|Silver|Gray|no| 1| personal
+4T1B11HK3KU773540|2019|Toyota|Camry|LE Automatic|Excellent Price||16998|30572|Houston|TX|Black|Gray|no| 1| fleet
+3VW2K7AJ3BM335639|2011|Volkswagen|Jetta|Sedan Auto|||3699|149858|Fort Wayne|IN|White|Unknown|no| 4| personal
+1HGCR2F36HA286380|2017|Honda|Accord|LX Sedan CVT|Excellent Price|$986 off avg. list price|14497|54545|Statesville|NC|Silver|Gray|no| 1| personal
+JTDBL40E399065419|2009|Toyota|Corolla|LE Automatic|Excellent Price|$887 off avg. list price|3977|201225|West Allis|WI|Gray|Gray|no| 5| personal
+1G1ZD5ST3KF146367|2019|Chevrolet|Malibu|LT with 1LT|Excellent Price|$928 off avg. list price|15476|30971|Northridge|CA|White|Black|no| 1| personal
+KNMAT2MT9KP513902|2019|Nissan|Rogue|SV FWD|Great Price|$692 off avg. list price|19848|28017|Hobbs|NM|Black|Black|no| 1| personal
+3N1AB7AP3JY222853|2018|Nissan|Sentra|S CVT|Excellent Price|$936 off avg. list price|10485|38079|Hackensack|NJ|Black|Black|no| 1| personal
+WMWSU3C53DT372620|2013|MINI|Hardtop|Hardtop 2-Door|Excellent Price|$1182 off avg. list price|6968|71540|Fredericksburg|VA|White|Black|no| 2| personal
+3FA6P0LU3KR204207|2019|Ford|Fusion|Hybrid SE FWD|Excellent Price|$941 off avg. list price|14800|31043|Omaha|NE|Silver|Gray|no| 1| personal
+2C4RDGCG4KR632134|2019|Dodge|Grand Caravan|SXT|Great Price|$512 off avg. list price|17950|31892|Albuquerque|NM|White|Black|no| 1| personal
+3FA6P0CD0KR182392|2019|Ford|Fusion|SEL FWD|Excellent Price|$1114 off avg. list price|15912|48512|Florence|SC|White|Unknown|no| 1| personal
+2C4RDGCG0KR643048|2019|Dodge|Grand Caravan|SXT|Great Price|$630 off avg. list price|18624|17890|Nevada|MO|Gray|Black|no| 1| personal
+3FA6P0D96KR107108|2019|Ford|Fusion|Titanium AWD|Excellent Price|$1091 off avg. list price|17495|37624|Annapolis|MD|White|Unknown|no| 2| personal
+2HGFA1F59BH309272|2011|Honda|Civic|LX Sedan Automatic|Excellent Price|$991 off avg. list price|5995|105525|Abingdon|MD|Silver|Unknown|1| 2| fleet
+3GKALVEV8LL104972|2020|GMC|Terrain|SLT AWD|Excellent Price|$1217 off avg. list price|23998|14021|Henderson|NV|Black|Black|no| 1| personal
+KMHD74LF3HU115129|2017|Hyundai|Elantra|SE 2.0L Sedan Automatic (Ulsan) (alt)|Excellent Price|$652 off avg. list price|8962|93677|Highland|IN|Black|Gray|no| 1| personal
+KNMAT2MT6KP524274|2019|Nissan|Rogue|SV FWD|Excellent Price|$829 off avg. list price|17980|28694|North Charleston|SC|Silver|Black|no| 1| personal
+1FDAF56F51EA41980|2001|Ford|Super Duty F-550|"XL Regular Cab 141"" 2WD"|||14995|34000|Santa Clara|CA|White|Gray|no| 1| personal
+3N1CN7AP5HL829182|2017|Nissan|Versa|1.6 SV CVT|||5450|116117|Dallas|TX|Black|Black|no| 2| fleet
+1FMCU0G92KUB13395|2019|Ford|Escape|SE FWD|Excellent Price|$2000 off avg. list price|16183|26071|Post Falls|ID|White|Gray|no| 1| personal
+JF2GTALCXJH218288|2018|Subaru|Crosstrek|2.0i Limited CVT|||17491|22300|Portland|OR|White|Black|1| 1| personal
+3FA6P0CD3KR139858|2019|Ford|Fusion|SEL FWD|Excellent Price|$1289 off avg. list price|16008|38774|Tucson|AZ|Silver|Black|no| 1| fleet
+KNMAT2MT8KP529489|2019|Nissan|Rogue|SV FWD|Excellent Price|$724 off avg. list price|16955|33339|West Covina|CA|Blue|Black|no| 1| fleet
+2C4RC1BG4ER324838|2014|Chrysler|Town & Country|Touring|Excellent Price|$1277 off avg. list price|6900|138472|Tracy|CA|White|Black|no| 2| fleet
+JTMZD33V975043415|2007|Toyota|RAV4|I4 FWD|Excellent Price|$1019 off avg. list price|4800|190423|Wichita|KS|White|Gray|1| 2| personal
+KNDJP3A57G7260117|2016|Kia|Soul|+ Automatic|Excellent Price||8495|80064|Dallas|TX|Black|Black|2| 1| personal
+3N1AB7AP3DL670155|2013|Nissan|Sentra|SV CVT|||6900|72414|Bronx|NY|Gray|Black|2| 4| fleet
+1FM5K7DH5HGA73355|2017|Ford|Explorer|XLT FWD|Excellent Price|$3096 off avg. list price|12995|134482|Raleigh|NC|Red|Black|3| 1| personal
+KNMAT2MT6KP527045|2019|Nissan|Rogue|SV FWD|Excellent Price||15923|30995|Grapevine|TX|White|Black|no| 1| personal
+3N1AB7AP4KY313759|2019|Nissan|Sentra|S CVT|Excellent Price|$580 off avg. list price|12995|14620|Anchorage|AK|Gray|Black|no| 1| personal
+WMWZG3C57BTY35524|2011|MINI|Clubman|S FWD|||4995|120850|San Diego|CA|Black|Black|1| 3| fleet
+3N1AB7AP0KY213545|2019|Nissan|Sentra|S CVT|Excellent Price|$899 off avg. list price|11324|32499|Hemet|CA|Black|Black|no| 1| personal
+5YFEPRAE3LP067959|2020|Toyota|Corolla|LE CVT|Great Price|$415 off avg. list price|19993|897|Victorville|CA|Black|Black|no| 1| personal
+KNMAT2MV1KP524359|2019|Nissan|Rogue|SV AWD|Excellent Price|$1219 off avg. list price|14992|37773|Sarasota|FL|Silver|Black|no| 1| personal
+4T1B11HK4KU706526|2019|Toyota|Camry|L Automatic|Excellent Price|$1338 off avg. list price|18596|13433|Orlando|FL|Black|Gray|no| 1| personal
+KNMAT2MT0KP517174|2019|Nissan|Rogue|SV FWD|Great Price|$438 off avg. list price|18490|27948|Henderson|NV|White|Black|no| 1| personal
+1MEFM55S65A624844|2005|Mercury|Sable|4dr Sedan LS|Excellent Price|$534 off avg. list price|2999|136969|Casa Grande|AZ|White|Gray|no| 3| personal
+5NPD74LF1HH066673|2017|Hyundai|Elantra|SE 2.0L Sedan Automatic (alt)|Excellent Price|$465 off avg. list price|6900|79781|Belford|NJ|Silver|Gray|1| 2| fleet
+WBA3A9C54EF478137|2014|BMW|3 Series|335i Sedan|||12577|91564|Naperville|IL|Black|Black|1| 2| personal
+3N1AB7AP1KL611392|2019|Nissan|Sentra|SV CVT|Excellent Price||12920|35337|Harlingen|TX|Silver|Black|no| 1| personal
+3FA6P0H78DR260987|2013|Ford|Fusion|SE FWD|Excellent Price|$1481 off avg. list price|8495|93298|Auburn|WA|White|Unknown|no| 3| fleet
+KNDMB5C17G6085990|2016|Kia|Sedona|LX|Excellent Price|$1641 off avg. list price|8950|107450|Brooklyn|NY|Black|Beige|4| 2| fleet
+3N1AB7AP7JY325726|2018|Nissan|Sentra|S CVT|Excellent Price|$1458 off avg. list price|9985|29725|Oakland|CA|White|Black|no| 1| personal
+KNMAT2MT1KP533576|2019|Nissan|Rogue|SV FWD|Great Price|$408 off avg. list price|16998|31085|Clearwater|FL|Silver|Black|no| 1| personal
+1FAHP3M20CL184909|2012|Ford|Focus|SEL Hatchback|||5995|91835|Mesa|AZ|Gray|Unknown|no| 2| personal
+ZAM45VLA3F0136583|2015|Maserati|GranTurismo|MC Coupe|||43995|38250|National City|CA|Black|Black|no| 3| personal
+KNMAT2MT3KP523356|2019|Nissan|Rogue|SV FWD|Great Price|$307 off avg. list price|15498|34726|Palmetto Bay|FL|Black|Black|1| 1| personal
+2HGFG21538H702561|2008|Honda|Civic|Si with Navigation Coupe Manual|||7990|89988|Kaneohe|HI|Blue|Unknown|no| 4| personal
+5N1AT2MT9KC733012|2019|Nissan|Rogue|SV FWD|Excellent Price|$1081 off avg. list price|17998|11519|Delray Beach|FL|Gray|Black|no|| personal
+2C4RDGCG9KR584145|2019|Dodge|Grand Caravan|SXT|Excellent Price|$718 off avg. list price|17000|37595|Show Low|AZ|White|Black|no| 1| personal
+4S4BSANC9K3267940|2019|Subaru|Outback|2.5i Limited|Excellent Price|$2119 off avg. list price|27999|14799|Modesto|CA|White|Gray|no| 1| personal
+5UXWX9C58E0D27224|2014|BMW|X3|xDrive28i AWD|Excellent Price|$1737 off avg. list price|9799|89726|Pompano Beach|FL|Black|Black|2| 2| personal
+1N4AL3AP3FC443183|2015|Nissan|Altima|2.5 S|Excellent Price|$1314 off avg. list price|8499|86712|Murfreesboro|TN|Blue|Black|1| 2| fleet
+5YFEPRAE5LP052069|2020|Toyota|Corolla|LE CVT|Great Price|$366 off avg. list price|17991|15122|Carlsbad|CA|Silver|Unknown|no| 1| fleet
+2HGFC2F54HH532960|2017|Honda|Civic|LX Sedan CVT|Great Price|$462 off avg. list price|14999|31121|Temecula|CA|White|Beige|no| 1| personal
+3FADP4BJ1KM113326|2019|Ford|Fiesta|SE Sedan|Excellent Price|$1082 off avg. list price|9950|14022|Phoenix|AZ|White|Black|no| 1| fleet
+2T3BFREV7HW567278|2017|Toyota|RAV4|LE AWD|Excellent Price|$2603 off avg. list price|15300|24000|Woodbridge|VA|Gray|Black|no| 1| personal
+2T1BU40E99C145332|2009|Toyota|Corolla|LE Automatic|Excellent Price|$612 off avg. list price|3995|175345|St. Augustine|FL|Blue|Unknown|no| 5| personal
+4JGBF71E28A407569|2008|Mercedes-Benz|GL|GL 450 4MATIC|||8995|126586|Woodinville|WA|Silver|Gray|3| 3| fleet
+2HGFG3B83CH530670|2012|Honda|Civic|EX Coupe Automatic|Excellent Price|$1521 off avg. list price|8499|69652|Davis|CA|Red|Gray|no| 2| fleet
+2T1BURHE7HC845575|2017|Toyota|Corolla|LE CVT|Excellent Price|$1430 off avg. list price|12995|36729|Westport|MA|White|Gray|no| 1| fleet
+2HGFB2F51CH569623|2012|Honda|Civic|LX Sedan Automatic|Excellent Price|$791 off avg. list price|5999|150283|Newark|CA|Black|Black|no| 2| personal
+5YFEPRAEXLP120060|2020|Toyota|Corolla|LE CVT|Great Price|$230 off avg. list price|14995|1750|Chantilly|VA|Blue|Gray|1|| personal
+3N1AB7APXKY283800|2019|Nissan|Sentra|SV CVT|Great Price|$320 off avg. list price|12575|37342|Amherst|VA|Silver|Black|no| 1| personal
+5YFEPRAE6LP090488|2020|Toyota|Corolla|LE CVT|Great Price|$357 off avg. list price|15977|6302|Madison|TN|Gray|Gray|no| 1| personal
+1FTFW1E81AFA28806|2010|Ford|F-150|XLT SuperCrew 5.5' Box 4WD|Excellent Price|$1602 off avg. list price|6951|203099|Rapid City|SD|Black|Unknown|no| 2| personal
+3N1AB7APXKY317749|2019|Nissan|Sentra|SV CVT|Excellent Price|$576 off avg. list price|11977|30432|Roswell|GA|White|Black|no| 1| personal
+3N1AB7AP3KY295531|2019|Nissan|Sentra|SV CVT|Great Price|$511 off avg. list price|12995|27866|Chandler|AZ|Silver|Black|no| 1| personal
+2C3CDXBG3FH810056|2015|Dodge|Charger|SE RWD|Excellent Price|$1666 off avg. list price|9900|125716|Chicago|IL|Black|Black|1| 3| personal
+5YFEPRAE9LP046033|2020|Toyota|Corolla|LE CVT|Excellent Price||15000|13822|Boerne|TX|Silver|Black|no| 1| personal
