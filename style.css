@@ -1,0 +1,97 @@
+body  { background:#336699;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:small;
+    margin:8px 0 16px;
+    text-align:center;}
+* {box-sizing: border-box;}
+
+
+h1 {
+	clear:left;
+	font-size:200%;
+	font-weight:700;
+	margin:0 0 3px;
+    text-align:center;
+}
+
+label{
+    display: inline-block;
+    width: 250px;
+    text-align: left;
+}
+
+
+input[type=text], select, textarea {
+  width: 20%;
+  padding: 3px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  font-size:100%;
+  box-sizing: border-box;
+  margin-top: 6px;
+  margin-bottom: 10px;
+  resize: vertical;
+}
+
+input[type=submit] {
+  background-color: #4CAF50;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+input[type=submit]:hover {
+  background-color: #45a049;
+}
+
+.container_selector {
+  background:#a8d1f7;
+  font-family:"Lucida Grande", Tahoma, Arial, Verdana, sans-serif;
+  font-size:small;
+}
+
+
+.container_manual {
+  border-radius: 5px;
+  background-color: #f2f2f2;
+  padding: 20px;
+  background:#a8d1f7;
+  font-family:"Lucida Grande", Tahoma, Arial, Verdana, sans-serif;
+  font-size:small;
+  font-weight:700;
+  margin:8px 0 16px;
+}
+
+.container_response {
+  background:#a8d1f7;
+  font-family:"Lucida Grande", Tahoma, Arial, Verdana, sans-serif;
+  font-size:small;
+  font-weight:100;
+  text-align: center;
+}
+
+.container_upload {
+  border-radius: 5px;
+  background-color: #f2f2f2;
+  padding: 20px;
+  background:#a8d1f7;
+  font-family:"Lucida Grande", Tahoma, Arial, Verdana, sans-serif;
+  font-size:medium;
+  font-weight:700;
+  margin:8px 0 16px;
+}
+
+
+table.dataframe, .dataframe th, .dataframe td {
+  border: none;
+  border-bottom: 1px solid #C8C8C8;
+  border-collapse: collapse;
+  text-align:center;
+  padding: 10px;
+  margin-bottom: 40px;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 0.9em;
+}
