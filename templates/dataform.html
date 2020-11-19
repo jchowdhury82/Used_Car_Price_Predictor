@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>CarPricePredictor</title>
+    <link rel=stylesheet type=text/css href="{{ url_for('static', filename='style.css') }}">
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+</head>
+
+<body>
+    <br/>
+
+    <h1 style="text-align:center;">Used Car Price Predictor - Form Inputs</h1>
+
+    <div class="container_manual" id="dvmanual">
+      <form method="POST" id = "form">
+        <label for="year">Year</label>
+        <input type="text" id="year" name="year">
+        <br/>
+        <label for="make">Make</label>
+        <input type="text" id="make" name="make">
+        <br/>
+        <label for="model">Model</label>
+        <input type="text" id="model" name="model">
+        <br/>
+        <label for="trim">Trim</label>
+        <input type="text" id="trim" name="trim">
+        <br/>
+        <label for="odometer">Odometer</label>
+        <input type="text" id="odometer" name="odometer">
+        <br/>
+        <label for="state">State (Abbreviation)</label>
+        <input type="text" id="state" name="state">
+        <br/>
+        <label for="colorexterior">Exterior Color</label>
+        <select id="colorexterior" name="colorexterior">
+          <option value="BLACK" selected="selected">BLACK</option>
+          <option value="BLUE">BLUE</option>
+          <option value="GRAY">GRAY</option>
+          <option value="RED">RED</option>
+          <option value="SILVER">SILVER</option>
+          <option value="WHITE">WHITE</option>
+          <option value="OTHER">OTHER</option>
+        </select>
+        <br/>
+        <label for="colorinterior">Interior Color</label>
+        <select id="colorinterior" name="colorinterior">
+          <option value="BEIGE" selected="selected">BEIGE</option>
+          <option value="BLACK">BLACK</option>
+          <option value="GRAY">GRAY</option>
+          <option value="OTHER">OTHER</option>
+        </select>
+        <br/>
+
+        <label for="accidenthist">Accident History</label>
+        <select id="accidenthist" name="accidenthist">
+          <option value="N" selected="selected">No</option>
+           <option value="Y">Yes</option>
+        </select>
+        <br/>
+
+        <label for="usage">Usage History</label>
+        <select id="usage" name="usage">
+          <option value="PERSONAL" selected="selected">Personal</option>
+          <option value="FLEET">Fleet</option>
+        </select>
+        <br/>
+
+        <label for="owner">Number of owners</label>
+        <select id="owner" name="owner">
+          <option value="0">0</option>
+          <option value="1" selected="selected">1</option>
+          <option value="2">2+</option>
+        </select>
+        <br/>
+        <br/>
+        <input type="submit" value="Get Predicted Price">
+        <br/>
+        <br/>
+        <div>
+            <span  id="response"></span>
+        </div>
+
+        <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+        <script type="text/javascript">
+            $(document).ready(function() {
+                $('form').on('submit', function(event) {
+                  $.ajax({
+                        data : {
+                            year : $('#year').val(),
+                            make : $('#make').val(),
+                            model : $('#model').val(),
+                            trim : $('#trim').val(),
+                            odometer : $('#odometer').val(),
+                            state : $('#state').val(),
+                            colorexterior : $('#colorexterior').val(),
+                            colorinterior : $('#colorinterior').val(),
+                            accidenthist : $('#accidenthist').val(),
+                            owner : $('#owner').val(),
+                            usage : $('#accidenthist').val()
+                            },
+                        type : 'POST',
+                        url : '/getPrice'
+                       })
+                   .done(function(data) {
+                    $('#response').text(data['response']).show();
+                 });
+                 event.preventDefault();
+                 });
+            });
+        </script>
+      </form>
+    </div>
+
+</body>
+
+</html>
