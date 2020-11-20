@@ -3,14 +3,14 @@
 curl --header "Content-Type: application/json" \
 --request POST \
 --data '{"year" : 2014, "make" : "toyota", "model" : "corolla", "trim" : "le plus", "odometer" : 20700, "state" : "AZ",  "colorexterior" : "blue", "colorinterior" : "black", "accidenthist" : "n", "owner" : 5, "usage" : "personal"}' \
-http://127.0.0.1:5001/getPrice
+http://0.0.0.0:5000/getPrice
 
 
 -- Sample HealthCheck API call
 
 curl --request GET http://127.0.0.1:5001/healthcheck
 
-curl --request GET http://0.0.0.0:5001/healthcheck
+curl --request GET http://0.0.0.0:5000/healthcheck
 
 gunicorn  --timeout INT 30  -b localhost:5001 -w 2 app_cardata:app
 
@@ -33,10 +33,6 @@ docker ps -a
 
 sudo docker build -t carpricepredictor .
 
-
-REPOSITORY          TAG                 IMAGE ID            CREATED             SIZE
-carpricepredictor   latest              a49718b13c33        22 seconds ago      1.77GB
-
-sudo docker run -dit -p 5001:5001 --rm --name carpricepredictor carpricepredictor bash
+sudo docker run -d -p 5000:5000 --rm --name carpricepredictor carpricepredictor
 
 docker exec -it carpricepredictor bash

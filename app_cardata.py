@@ -5,8 +5,6 @@ import json
 
 app = Flask(__name__)
 
-# docker compose
-# nginx
 
 # route for health check
 @app.route("/healthcheck", methods = ['GET'])
@@ -38,12 +36,12 @@ def generatePrices():
         try:
             df_final = cardata_transform_pipeline.transform(df)
             Y = stack_model.predict(df_final)
-            df_final['predicted_price'] = Y
+            df['predicted_price'] = Y
         except Exception as e:
             response_message = 'ERROR in prediction. Please contact the administrator. ' + e
 
     finally:
-        return Response(df_final.to_csv(),
+        return Response(df.to_csv(),
                         mimetype="text/csv",
                         headers={"Content-disposition": "attachment; filename=carprice_predictions.csv"})
 
@@ -90,4 +88,5 @@ def getPrice():
 
 # wsgy load balancing
 if __name__ == "__main__":
-    app.run(host="127.0.0.1", port=5001,threaded=False,debug=False)
+    app.run(host="0.0.0.0", port=5000,debug=False)
+
