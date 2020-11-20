@@ -67,23 +67,23 @@ class CarDataAugmentor():
         # prepare augment data from files
         print("Initialized CarDataAugmentor")
 
-        self.df_category = pd.read_csv('car_category.csv', index_col=False)
+        self.df_category = pd.read_csv('Data/car_category.csv', index_col=False)
 
-        self.df_reliability = pd.read_csv('car_reliability_rankings.csv', index_col=False)
+        self.df_reliability = pd.read_csv('Data/car_reliability_rankings.csv', index_col=False)
         self.df_reliability = self.df_reliability[['Make', 'ReliabilityRank']]
 
-        self.df_cost = pd.read_csv('statewise_economic_indicators.csv', index_col=False)
+        self.df_cost = pd.read_csv('Data/statewise_economic_indicators.csv', index_col=False)
         self.df_cost = self.df_cost[['State', 'CostOfLivingRank']]
 
-        self.df_sales = pd.read_csv('car_sales.csv', index_col=False)
+        self.df_sales = pd.read_csv('Data/car_sales.csv', index_col=False)
         self.df_sales = self.df_sales.drop(columns=['TotalSales'])
 
-        self.df_turn = pd.read_csv("used_car_time_to_turn.csv")
+        self.df_turn = pd.read_csv("Data/used_car_time_to_turn.csv")
         self.df_turn['AvgDaysToTurn'] = self.df_turn.mean(axis=1)
         self.df_turn['Make'] = self.df_turn['Make'].str.upper()
         self.df_turn = self.df_turn[['Make', 'AvgDaysToTurn']]
 
-        self.df_ratings = pd.read_csv('car_ratings.csv', index_col=False)
+        self.df_ratings = pd.read_csv('Data/car_ratings.csv', index_col=False)
         self.df_ratings.drop_duplicates(subset=['MakeModel'], inplace=True)
         self.df_ratings['AvgMPG'] = (self.df_ratings['MpgCity'] + self.df_ratings['MpgHwy']) / 2
         self.df_ratings.loc[
@@ -203,7 +203,7 @@ cardata_transform_pipeline = Pipeline(steps=[('standardize', CarDataStandardizer
                                              ])
 
 
-model_pkl_file = "carprice_stack_model_v1.pkl"
+model_pkl_file = "model/carprice_stack_model_v1.pkl"
 
 with open(model_pkl_file, 'rb') as file:
     stack_model = pickle.load(file)

@@ -1,0 +1,42 @@
+-- Sample Predict API Call
+
+curl --header "Content-Type: application/json" \
+--request POST \
+--data '{"year" : 2014, "make" : "toyota", "model" : "corolla", "trim" : "le plus", "odometer" : 20700, "state" : "AZ",  "colorexterior" : "blue", "colorinterior" : "black", "accidenthist" : "n", "owner" : 5, "usage" : "personal"}' \
+http://127.0.0.1:5001/getPrice
+
+
+-- Sample HealthCheck API call
+
+curl --request GET http://127.0.0.1:5001/healthcheck
+
+curl --request GET http://0.0.0.0:5001/healthcheck
+
+gunicorn  --timeout INT 30  -b localhost:5001 -w 2 app_cardata:app
+
+
+
+
+
+
+
+http://127.0.0.1:5001/upload
+http://127.0.0.1:5001/dataform
+
+docker stop $(docker ps -a -q)
+docker container prune
+docker rmi $(docker images -a -q)
+
+docker ps -a
+
+
+
+sudo docker build -t carpricepredictor .
+
+
+REPOSITORY          TAG                 IMAGE ID            CREATED             SIZE
+carpricepredictor   latest              a49718b13c33        22 seconds ago      1.77GB
+
+sudo docker run -dit -p 5001:5001 --rm --name carpricepredictor carpricepredictor bash
+
+docker exec -it carpricepredictor bash

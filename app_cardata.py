@@ -1,4 +1,4 @@
-from flask import Flask, render_template, request, redirect, url_for,make_response,jsonify, Response
+from flask import Flask, render_template, request, jsonify, Response
 from config_cardata import *
 import json
 
