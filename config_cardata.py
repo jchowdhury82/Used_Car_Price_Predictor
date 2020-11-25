@@ -1,3 +1,8 @@
+## File: config_cardata.py
+## Author : Joyjit Chowdhury - Springboard MLE Jan2020
+## Purpose: Configuration elements required for prediction of car prices
+##          Includes variables, classes required for data transformation and prediction
+
 import pandas as pd
 from fuzzywuzzy import fuzz
 from datetime import datetime
@@ -8,6 +13,7 @@ from sklearn.pipeline import Pipeline
 numeric_features = ['ReliabilityRank', 'CostOfLivingRank', 'PercentSales', 'AvgDaysToTurn',
                     'ReviewScore', 'AvgMPG', 'age', 'odo']
 
+# restricted values of categorical features
 cat_features = {
             'owner' : ['0', '1','2'],
             'usage' : ['FLEET','PERSONAL'],
@@ -19,17 +25,22 @@ cat_features = {
             'bodytype' :['CONVERTIBLE','COUPE', 'HATCHBACK', 'PICKUP','SEDAN', 'SUV', 'TRUCK','VAN/MINIVAN', 'WAGON']
             }
 
+# determining one-hot feature names from the categorical features
 onehot_features = []
 for x in cat_features.keys():
     onehot_features.extend([(x + '_' + v) for v in cat_features[x]])
 
+
+# the final feature set - required to ensure model inputs are consistent for predictions
 final_column_set = numeric_features + onehot_features
 
+# mandatory inputs
 mandatory_input_features = ['year', 'make', 'model', 'trim', 'odometer', 'state', 'colorexterior', 'colorinterior']
 
 
 
-
+## Class : CarDataStandardizer
+## Purpose: Cleanup input data and change values to standard forms
 
 class CarDataStandardizer():
 
@@ -58,6 +69,19 @@ class CarDataStandardizer():
         df_input['owner'] = pd.cut(x=df_input['owner'], bins=[-1, 0, 1, 20], labels=[0, 1, 2])
 
         return df_input
+
+
+## Classes for data transformation and validation
+## Will be used in a pipeline
+## Hence all classes implement a fit and transform method
+
+
+
+## CLass: CarDataAugmentor
+## Purpose : Append additional data elements to the user provided data
+## Additional data elements are obtained by Web Scraping and stored in csv files.
+# These include:
+## car category, car reliability rankings,cost of living for state of sale,turnaround time in stock,car ratings
 
 
 class CarDataAugmentor():
@@ -149,6 +173,13 @@ class CarDataAugmentor():
         return df_final
 
 
+
+## CLass: OneHotTransformer
+## Purpose : A customized one-hot transformer based on pandas get_dummies
+## The onehot transformer will be used on categorical features to ensure the model does not infer ordinal values
+## for the categorical features
+
+
 class OneHotTransformer():
 
     def __init__(self):
@@ -170,6 +201,9 @@ class OneHotTransformer():
         return df_final
 
 
+## CLass: PreModel validator
+## Purpose : Class to ensure all features are model-input ready.
+## Features should be non-null, numeric and should be in same order as the inputs of the trained model
 
 class PreModelValidator():
 
@@ -195,12 +229,16 @@ class PreModelValidator():
         return df_final
 
 
+## Pipeline for data transformation and validation
 
 cardata_transform_pipeline = Pipeline(steps=[('standardize', CarDataStandardizer()),
                                              ('augment',CarDataAugmentor()),
                                              ('onehot', OneHotTransformer()),
                                              ('validate',PreModelValidator())
                                              ])
+
+
+## Unpickle the trained model and load it
 
 
 model_pkl_file = "model/carprice_stack_model_v1.pkl"

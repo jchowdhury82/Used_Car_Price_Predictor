@@ -1,3 +1,15 @@
+## File: app_cardata.py
+## Author : Joyjit Chowdhury - Springboard MLE Jan2020
+## Purpose: Flask application file to include endpoints / routes required for predictions
+
+## Endpoints / routes include the following:
+## healthcheck -  a heartbeat endpoint to verify if the app is UP or DOWN
+## dataform - route for a webform where user will type in input feature values and get prediction
+## upload - route for a webform where user can upload a csv file and get a response file with predictions
+## generatePrices - route to serve predictions on input csv files from upload form
+## getPrice - route for serving predictions for single requests from forms or from curl/postman (API)
+
+
 from flask import Flask, render_template, request, jsonify, Response
 from config_cardata import *
 import json
@@ -86,7 +98,7 @@ def getPrice():
     finally:
         return jsonify(response = response_message)
 
-# wsgy load balancing
+# app run command with host and port
 if __name__ == "__main__":
     app.run(host="0.0.0.0", port=5000,debug=False)
 
