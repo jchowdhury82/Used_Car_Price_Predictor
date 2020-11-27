@@ -135,6 +135,6 @@ http://0.0.0.0:5000/getPrice
 
 - **UI based checks**
 
- -Open http://0.0.0.0:5000/dataform to open the webform and enter the details of the car. Hit the "Get Predicted Price" button to see the predicted price
- -Open http://0.0.0.0:5000/upload to open the webform and upload a csv file in the format as shown in the same file [datasample.csv](https://github.com/jchowdhury82/Springboard_Capstone_UsedCar/blob/master/datasample.csv).  The response will be a downloaded csv file with the predicted price appended to the columns of the original csv.
+ - Open http://0.0.0.0:5000/dataform to open the webform and enter the details of the car. Hit the "Get Predicted Price" button to see the predicted price
+ - Open http://0.0.0.0:5000/upload to open the webform and upload a csv file in the format as shown in the same file [datasample.csv](https://github.com/jchowdhury82/Springboard_Capstone_UsedCar/blob/master/datasample.csv).  The response will be a downloaded csv file with the predicted price appended to the columns of the original csv.
 
