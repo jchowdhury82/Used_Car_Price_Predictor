@@ -115,7 +115,12 @@
 
 
 
-## Sample predictions using API's
+## Code Execution (happy path)
+
+- **Pull Docker Image from Docker Repository**
+
+curl --request GET http://0.0.0.0:5000/healthcheck
+
 
 - **Health Check API Call**
 
