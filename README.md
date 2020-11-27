@@ -116,3 +116,19 @@
 
 
 ## Sample predictions using API's
+
+- **Health Check API Call**
+
+curl --request GET http://0.0.0.0:5000/healthcheck
+
+- **Sample Prediction API call with json**
+
+curl --header "Content-Type: application/json" \
+\--request POST \
+\--data '{"year" : 2014, "make" : "toyota", "model" : "corolla", "trim" : "le plus", "odometer" : 20700, "state" : "AZ",  "colorexterior" : "blue", "colorinterior" : "black", "accidenthist" : "n", "owner" : 5, "usage" : "personal"}' \
+http://0.0.0.0:5000/getPrice
+
+- **UI based checks**
+
+http://127.0.0.1:5001/upload
+http://127.0.0.1:5001/dataform
