@@ -2,11 +2,14 @@
 ### Author - Joyjit Chowdhury,  Student - Springboard MLE Course - Jan 2020 Cohort
 ### Mentor - Jeremy Cunningham
 ### Project Details - 
-####                 Name                              :  Used Car Price Prediction
-####                 Data Source                       :  Web Scraped car sales posting data from a used car seller website
-####                 Prediction Algorithm Class        :  Regression
-####                 Data Sources :  Web Scraped car sales posting data from a used car seller website, additional car data sources from other websites
-####                 Data Sources :  Web Scraped car sales posting data from a used car seller website, additional car data sources from other websites
+**Name**                              :  Used Car Price Prediction
+**Data Source**                       :  Web Scraped car sales posting data from a used car seller website
+**Prediction Algorithm Class**        :  Regression
+**Data Sources** :  Web Scraped car sales posting data from a used car seller website, additional car data sources from other websites
+**Deployment Type** :  Flask Application on gunicorn WSGI server
+
+
+## Major activities
 
 curl --header "Content-Type: application/json" \
   --request GET \
