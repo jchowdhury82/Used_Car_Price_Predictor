@@ -54,7 +54,7 @@
 
 
 
-## Project Overview and major activities
+## Project overview and major activities
 
 **Web Scrape used car listings**
 - Use selenium webdriver plugin on chrome with requests / BeautifulSoup library to scrape used car listings
@@ -108,4 +108,7 @@
 - Create CSS style configuration for the web pages.  Refer to folder [static](https://github.com/jchowdhury82/Springboard_Capstone_UsedCar/tree/master/static)
 
 
+**Application deployment**
+- Encapsulate the flask app to a gunicorn WSGI application server. Refer to [gunicorn_config.py] (https://github.com/jchowdhury82/Springboard_Capstone_UsedCar/blob/master/gunicorn_config.py) for the gunicorn configuration and [wsgi.py](https://github.com/jchowdhury82/Springboard_Capstone_UsedCar/blob/master/wsgi.py) for the wsgi wrapper.
+- Deploy the app into a Docker container and publish to Docker repository. Refer to Docker definition file [Dockerfile](https://github.com/jchowdhury82/Springboard_Capstone_UsedCar/blob/master/Dockerfile) and requirements file [requirements.txt] (https://github.com/jchowdhury82/Springboard_Capstone_UsedCar/blob/master/requirements.txt)
 
