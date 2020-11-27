@@ -1,6 +1,8 @@
 # Capstone Project - Used Car Price prediction
+
 ### Author - Joyjit Chowdhury,  Student - Springboard MLE Course - Jan 2020 Cohort
 ### Mentor - Jeremy Cunningham
+
 ### Project Details - 
 **Name**                              :  Used Car Price Prediction  
 **Data Source**                       :  Web Scraped car sales posting data from a used car seller website  
@@ -52,8 +54,13 @@
 
 
 
+## Project Overview and major activities
 
+**Web Scrape used car listings**
+- Use selenium webdriver plugin on chrome with requests / BeautifulSoup library to scrape used car listings
 
+**Web Scrape used car listings**
+- Use selenium webdriver plugin on chrome with requests / BeautifulSoup library to scrape used car listings
 
 
 HealthCheck URL:
