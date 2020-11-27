@@ -112,3 +112,7 @@
 - Encapsulate the flask app to a gunicorn WSGI application server. Refer to [gunicorn_config.py](https://github.com/jchowdhury82/Springboard_Capstone_UsedCar/blob/master/gunicorn_config.py) for the gunicorn configuration and [wsgi.py](https://github.com/jchowdhury82/Springboard_Capstone_UsedCar/blob/master/wsgi.py) for the wsgi wrapper.
 - Deploy the app into a Docker container and publish to Docker repository. Refer to Docker definition file [Dockerfile](https://github.com/jchowdhury82/Springboard_Capstone_UsedCar/blob/master/Dockerfile) and requirements file [requirements.txt](https://github.com/jchowdhury82/Springboard_Capstone_UsedCar/blob/master/requirements.txt)
 
+
+
+
+## Sample predictions using API's
