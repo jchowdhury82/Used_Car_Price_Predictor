@@ -103,18 +103,9 @@
     - **URL** : http://0.0.0.0:5000/upload
     - **Description** : Web form for users to input data as CSV file with multiple input examples. Output is returned as a downloaded csv file with predicted values.
 
-- Create HTML (Jinja2) templates with AJAX for request processing without page rendering. 
-- Create CSS style configuration for the web pages.
 - Refer to file [app_cardata.py](https://github.com/jchowdhury82/Springboard_Capstone_UsedCar/blob/master/app_cardata.py) and [config_cardata.py](https://github.com/jchowdhury82/Springboard_Capstone_UsedCar/blob/master/config_cardata.py)
+- Create HTML (Jinja2) templates with AJAX for request processing without page rendering.  Refer to folder [templates](https://github.com/jchowdhury82/Springboard_Capstone_UsedCar/tree/master/templates)
+- Create CSS style configuration for the web pages.  Refer to folder [static](https://github.com/jchowdhury82/Springboard_Capstone_UsedCar/tree/master/static)
 
 
 
-
-HealthCheck URL:
-
-curl --request GET http://127.0.0.1:5001/healthcheck
-
-
-GetPrice URL:
-
-curl -d @input.json -H "Content-Type: application/json" -X POST http://127.0.0.1:5001/getPrice
