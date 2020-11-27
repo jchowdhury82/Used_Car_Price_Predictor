@@ -59,15 +59,44 @@
 **Web Scrape used car listings**
 - Use selenium webdriver plugin on chrome with requests / BeautifulSoup library to scrape used car listings
 - Scrape additional demographic/sales data related to cars
-- Refer to files in folder **WebScraper**
+- Refer to files in folder [WebScraper](https://github.com/jchowdhury82/Springboard_Capstone_UsedCar/tree/master/WebScraper)
 
 **Prepare dataset with consolidated features**
 - Append additional demographic/sales data for cars to the web scraped raw used car listings
 - Generate new features, impute with appropriate values as needed.
 - Refer to file [UsedCarDataPreparation.ipynb](https://github.com/jchowdhury82/Springboard_Capstone_UsedCar/blob/master/EDA/UsedCarDataPreparation.ipynb) in folder **EDA**
 
-**EDA (Exploratory Data Analysis)**
--
+**Exploratory Data Analysis(EDA)**
+- Perform exploratory data analysis on the data 
+  -frequency
+  -missing data
+  -correlations
+  -outliers
+- Impute data as applicable
+- Clip outliers as applicable
+- Ensure all data can be converted to non-null and numeric
+- Refer to file [UsedCarEDA-v1.ipynb](https://github.com/jchowdhury82/Springboard_Capstone_UsedCar/blob/master/EDA/UsedCarEDA-v1.ipynb) in folder **EDA**
+
+**Modelling with ensemble (tree based) algorithms - Stacking, Hyperparameter Tuning and Feature Importances**
+- Encode cleaned data into model ready features - prepare transformation encoders for data preparation, cleanup and onehot encoding as applicable
+- Prepare train/test data ready to be fed to model
+- Do initial modeling with RandomForest and XGBoost to determine initial feature importance
+- Select appropriate features
+- Do a **GridSearch** with **StackingRegressor** to determine the optimal model with hyperparameters.
+- Save the most optimal model into a picke file for further use
+- Refer to file [UsedCarEDA-v1.ipynb](https://github.com/jchowdhury82/Springboard_Capstone_UsedCar/blob/master/EDA/UsedCarEDA-v1.ipynb) in folder **EDA**
+
+
+**Application development**
+- Create Flask application to provide endpoints for prediction for the following input types from user
+  - Endpoint for user 
+- Do initial modeling with RandomForest and XGBoost to determine initial feature importance
+- Select appropriate features
+- Do a **GridSearch** with **StackingRegressor** to determine the optimal model with hyperparameters.
+- Save the most optimal model into a picke file for further use
+- Refer to file [UsedCarEDA-v1.ipynb](https://github.com/jchowdhury82/Springboard_Capstone_UsedCar/blob/master/EDA/UsedCarEDA-v1.ipynb) in folder **EDA**
+
+
 
 
 HealthCheck URL:
