@@ -119,7 +119,7 @@
 
 - **Pull Docker Image from Docker Repository**
 
-curl --request GET http://0.0.0.0:5000/healthcheck
+docker pull 
 
 
 - **Health Check API Call**
