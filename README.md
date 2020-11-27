@@ -88,14 +88,24 @@
 
 
 **Application development**
-- Create Flask application to provide endpoints for prediction for the following input types from users
-  - **Endpoint Name** : healthcheck
-    - **API 
-- Do initial modeling with RandomForest and XGBoost to determine initial feature importance
-- Select appropriate features
-- Do a **GridSearch** with **StackingRegressor** to determine the optimal model with hyperparameters.
-- Save the most optimal model into a picke file for further use
-- Refer to file [UsedCarEDA-v1.ipynb](https://github.com/jchowdhury82/Springboard_Capstone_UsedCar/blob/master/EDA/UsedCarEDA-v1.ipynb) in folder **EDA**
+- Create configuration module for defining classes and global variables required for prediction.  
+- Create **Flask application** to provide the following endpoints for prediction for serving multiple input types for predictions
+  - **Endpoint** : healthcheck
+    - **URL** : http://0.0.0.0:5000/healthcheck
+    - **Description** : Healthcheck API to check if the app is up or down. Returns a 200-Success if the application is alive
+  - **Endpoint** : getPrice
+    - **URL** : http://0.0.0.0:5000/getPrice
+    - **Description** : Prediction API to receive mandatory feature values for used car and respond with the predicted used car price using the model 
+  - **Endpoint** : dataform
+    - **URL** : http://0.0.0.0:5000/dataform
+    - **Description** : Web form for users to enter input data for used car prediction for a single example. Output is shown as the predicted price.
+  - **Endpoint** : upload
+    - **URL** : http://0.0.0.0:5000/upload
+    - **Description** : Web form for users to input data as CSV file with multiple input examples. Output is returned as a downloaded csv file with predicted values.
+
+- Create HTML (Jinja2) templates with AJAX for request processing without page rendering. 
+- Create CSS style configuration for the web pages.
+- Refer to file [app_cardata.py](https://github.com/jchowdhury82/Springboard_Capstone_UsedCar/blob/master/app_cardata.py) and [config_cardata.py](https://github.com/jchowdhury82/Springboard_Capstone_UsedCar/blob/master/config_cardata.py)
 
 
 
