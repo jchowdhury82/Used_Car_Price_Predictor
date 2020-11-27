@@ -58,9 +58,16 @@
 
 **Web Scrape used car listings**
 - Use selenium webdriver plugin on chrome with requests / BeautifulSoup library to scrape used car listings
+- Scrape additional demographic/sales data related to cars
+- Refer to files in folder **WebScraper**
 
-**Web Scrape used car listings**
-- Use selenium webdriver plugin on chrome with requests / BeautifulSoup library to scrape used car listings
+**Prepare dataset with consolidated features**
+- Append additional demographic/sales data for cars to the web scraped raw used car listings
+- Generate new features, impute with appropriate values as needed.
+- Refer to file [UsedCarDataPreparation.ipynb](https://github.com/jchowdhury82/Springboard_Capstone_UsedCar/blob/master/EDA/UsedCarDataPreparation.ipynb) in folder **EDA**
+
+**EDA (Exploratory Data Analysis)**
+-
 
 
 HealthCheck URL:
