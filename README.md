@@ -88,8 +88,9 @@
 
 
 **Application development**
-- Create Flask application to provide endpoints for prediction for the following input types from user
-  - Endpoint for user 
+- Create Flask application to provide endpoints for prediction for the following input types from users
+  - **Endpoint Name** : healthcheck
+    - **API 
 - Do initial modeling with RandomForest and XGBoost to determine initial feature importance
 - Select appropriate features
 - Do a **GridSearch** with **StackingRegressor** to determine the optimal model with hyperparameters.
