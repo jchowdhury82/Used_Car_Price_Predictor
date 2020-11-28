@@ -141,8 +141,19 @@
 --data '{"year" : 2014, "make" : "toyota", "model" : "corolla", "trim" : "le plus", "odometer" : 20700, "state" : "AZ",  "colorexterior" : "blue", "colorinterior" : "black", "accidenthist" : "n", "owner" : 5, "usage" : "personal"}' \
 http://0.0.0.0:5000/getPrice`
 
+
+![docker_curls](https://github.com/jchowdhury82/Springboard_Capstone_UsedCar/blob/master/images/sample_curls.png)
+
+
 - **UI based checks**
 
   - Open http://0.0.0.0:5000/dataform to open the webform and enter the details of the car. Hit the "Get Predicted Price" button to see the predicted price
+  ![prediction_form](https://github.com/jchowdhury82/Springboard_Capstone_UsedCar/blob/master/images/form_input.png)
+  
   - Open http://0.0.0.0:5000/upload to open the webform and upload a csv file in the format as shown in the same file [datasample.csv](https://github.com/jchowdhury82/Springboard_Capstone_UsedCar/blob/master/datasample.csv).  The response will be a downloaded csv file with the predicted price appended to the columns of the original csv.
+  
+![prediction_upload](https://github.com/jchowdhury82/Springboard_Capstone_UsedCar/blob/master/images/file_input.png)
+![original_csv](https://github.com/jchowdhury82/Springboard_Capstone_UsedCar/blob/master/images/csv_input.png)
+![predicted_csv](https://github.com/jchowdhury82/Springboard_Capstone_UsedCar/blob/master/images/csv_predicted.png)
+
 
