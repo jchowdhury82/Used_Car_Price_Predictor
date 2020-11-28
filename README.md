@@ -113,7 +113,8 @@
 - Deploy the app into a Docker container and publish to Docker repository. Refer to Docker definition file [Dockerfile](https://github.com/jchowdhury82/Springboard_Capstone_UsedCar/blob/master/Dockerfile) and requirements file [requirements.txt](https://github.com/jchowdhury82/Springboard_Capstone_UsedCar/blob/master/requirements.txt)
 - Docker image created with command: 
         `docker build -t jchowdhury/carpricepredictor` 
-
+- Docker image pushed to docker repository with command: 
+        `docker image push jchowdhury/carpricepredictor:latest` 
 
 
 ## Code Execution 
