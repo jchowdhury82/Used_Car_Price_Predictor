@@ -154,10 +154,10 @@ http://0.0.0.0:5000/getPrice`
   
 ![prediction_upload](https://github.com/jchowdhury82/Springboard_Capstone_UsedCar/blob/master/images/file_input.png)
 
-Original file\
+####Original file\
 ![original_csv](https://github.com/jchowdhury82/Springboard_Capstone_UsedCar/blob/master/images/csv_input.png)
 
-Predicted data response file \
+####Predicted data response file \
 ![predicted_csv](https://github.com/jchowdhury82/Springboard_Capstone_UsedCar/blob/master/images/csv_predicted.png)
 
 
