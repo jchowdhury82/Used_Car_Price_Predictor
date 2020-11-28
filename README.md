@@ -127,6 +127,9 @@
 
 `docker run -d -p 5000:5000 --rm --name carpricepredictor jchowdhury/carpricepredictor`
 
+
+![docker_pull](https://github.com/jchowdhury82/Springboard_Capstone_UsedCar/blob/master/images/docker_pull.png)
+
 - **Health Check API Call**
 
 `curl --request GET http://0.0.0.0:5000/healthcheck`
