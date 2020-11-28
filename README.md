@@ -111,27 +111,31 @@
 **Application deployment**
 - Encapsulate the flask app to a gunicorn WSGI application server. Refer to [gunicorn_config.py](https://github.com/jchowdhury82/Springboard_Capstone_UsedCar/blob/master/gunicorn_config.py) for the gunicorn configuration and [wsgi.py](https://github.com/jchowdhury82/Springboard_Capstone_UsedCar/blob/master/wsgi.py) for the wsgi wrapper.
 - Deploy the app into a Docker container and publish to Docker repository. Refer to Docker definition file [Dockerfile](https://github.com/jchowdhury82/Springboard_Capstone_UsedCar/blob/master/Dockerfile) and requirements file [requirements.txt](https://github.com/jchowdhury82/Springboard_Capstone_UsedCar/blob/master/requirements.txt)
+- Docker image created with command: 
+        `docker build -t jchowdhury/carpricepredictor` 
 
 
 
-
-## Code Execution (happy path)
+## Code Execution 
 
 - **Pull Docker Image from Docker Repository**
 
-docker pull 
+`docker pull jchowdhury/carpricepredictor:latest`
 
+- **Start Docker Container**
+
+`docker run -d -p 5000:5000 --rm --name carpricepredictor jchowdhury/carpricepredictor`
 
 - **Health Check API Call**
 
-curl --request GET http://0.0.0.0:5000/healthcheck
+`curl --request GET http://0.0.0.0:5000/healthcheck`
 
 - **Sample Prediction API call with json**
 
-curl --header "Content-Type: application/json" \
-\--request POST \
-\--data '{"year" : 2014, "make" : "toyota", "model" : "corolla", "trim" : "le plus", "odometer" : 20700, "state" : "AZ",  "colorexterior" : "blue", "colorinterior" : "black", "accidenthist" : "n", "owner" : 5, "usage" : "personal"}' \
-http://0.0.0.0:5000/getPrice
+`curl --header "Content-Type: application/json" \
+--request POST \
+--data '{"year" : 2014, "make" : "toyota", "model" : "corolla", "trim" : "le plus", "odometer" : 20700, "state" : "AZ",  "colorexterior" : "blue", "colorinterior" : "black", "accidenthist" : "n", "owner" : 5, "usage" : "personal"}' \
+http://0.0.0.0:5000/getPrice`
 
 - **UI based checks**
 
