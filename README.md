@@ -161,3 +161,10 @@ http://0.0.0.0:5000/getPrice`
 ![predicted_csv](https://github.com/jchowdhury82/Springboard_Capstone_UsedCar/blob/master/images/csv_predicted.png)
 
 
+
+## Scope of Improvement
+
+- Better data collection and augmentation - more research on accuracy of data sources to avoid missing data
+- Training examples are time-sensitive data, car prices may fluctuate with time, so model may be retrained on fresh data to achieve greater accuracy
+- Lack of comuting power does not allow execution of extensive grid search - use of GPU's can allow wider grid search space and better tuning
+- Use of nginx webserver would have made the deployed application more robust
