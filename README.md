@@ -171,3 +171,7 @@ http://0.0.0.0:5000/getPrice`
 - Better error handling to make the application robust to edge cases or invalid inputs
 - Use of cloud container registry like AWS ECR to add the cloud flavor
 
+
+## Thank You Note
+
+Big thanks to mentor and guide Mr. Jeremy Cunningham for his continuous support and patience throughout my learning journey.
