@@ -167,4 +167,7 @@ http://0.0.0.0:5000/getPrice`
 - Better data collection and augmentation - more research on accuracy of data sources to avoid missing data
 - Training examples are time-sensitive data, car prices may fluctuate with time, so model may be retrained on fresh data to achieve greater accuracy
 - Lack of comuting power does not allow execution of extensive grid search - use of GPU's can allow wider grid search space and better tuning
-- Use of nginx webserver would have made the deployed application more robust
+- Use of nginx webserver to make the application complete as a web application
+- Better error handling to make the application robust to edge cases or invalid inputs
+- Use of cloud container registry like AWS ECR to add the cloud flavor
+
