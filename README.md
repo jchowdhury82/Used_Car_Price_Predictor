@@ -174,4 +174,4 @@ http://0.0.0.0:5000/getPrice`
 
 ## Thank You Note
 
-Big thanks to mentor and guide Mr. Jeremy Cunningham for his continuous support and patience throughout my learning journey.
+Big thanks to mentor and guide **Mr. Jeremy Cunningham** for his continuous support and patience throughout my learning journey.
