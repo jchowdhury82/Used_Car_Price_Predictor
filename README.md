@@ -222,4 +222,4 @@ Details of the model implementation is in the notebook :
 
 ## Thank You Note
 
-Big thanks to mentor and guide **Mr. Jeremy Cunningham** for his continuous support and patience throughout my learning journey.
+<span style=“color:green;”> Big thanks to mentor and guide **Mr. Jeremy Cunningham** for his continuous support and patience throughout my learning journey.</span>
