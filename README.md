@@ -1,13 +1,14 @@
-# Capstone Project - Used Car Price prediction
+# Capstone Project - Used Car Price prediction with Regression using Ensemble Tree based algorithms
 
 ### Author - Joyjit Chowdhury,  Student - Springboard MLE Course - Jan 2020 Cohort
 ### Mentor - Jeremy Cunningham
 
 ### Project Details - 
 **Name**                              :  Used Car Price Prediction  
-**Data Source**                       :  Web Scraped car sales posting data from a used car seller website  
-**Prediction Algorithm Class**        :  Regression  
 **Data Sources** :  Web Scraped car sales posting data from a used car seller website, additional car data sources from other websites  
+**Prediction Algorithm Class**        :  Regression  
+**Algorithms**        :  RandomForest and XGBoost    
+**Model Tuning**  : GridSearch with Stacking Regressor
 **Deployment Type** :  Flask Application on gunicorn WSGI server with 2 threads  
 
 
@@ -175,3 +176,12 @@ http://0.0.0.0:5000/getPrice`
 ## Thank You Note
 
 Big thanks to mentor and guide **Mr. Jeremy Cunningham** for his continuous support and patience throughout my learning journey.
+
+
+
+# A Deep Learning Approach for this problem
+
+Below is a Deep Learning approach to this problem - 
+ [Deep_Learning_Regression_Used_Car_Pricing](https://github.com/jchowdhury82/Springboard_Capstone_UsedCar/blob/master/Deep_Learning_Approach/Used_Car_Price_Predictor_DL_Approach.ipynb)
+ 
+ 
