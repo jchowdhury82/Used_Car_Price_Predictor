@@ -181,7 +181,10 @@ Big thanks to mentor and guide **Mr. Jeremy Cunningham** for his continuous supp
 
 # A Deep Learning Approach for this problem
 
-Below is a Deep Learning approach to this problem - 
+Below is a Deep Learning approach to this problem -  This is a simple network with 4 layers and uses dropout regularization.
+ 
+![Neural Network with Regression](https://github.com/jchowdhury82/Springboard_Capstone_UsedCar/blob/master/images/Used_Car_Price_NN.png)
+
+Details of the model is in the notebook : 
+
  [Deep_Learning_Regression_Used_Car_Pricing](https://github.com/jchowdhury82/Springboard_Capstone_UsedCar/blob/master/Deep_Learning_Approach/Used_Car_Price_Predictor_DL_Approach.ipynb)
- 
- 
