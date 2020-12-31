@@ -173,11 +173,10 @@ http://0.0.0.0:5000/getPrice`
 - Use of cloud container registry like AWS ECR to add the cloud flavor
 
 
-## Thank You Note
-
-Big thanks to mentor and guide **Mr. Jeremy Cunningham** for his continuous support and patience throughout my learning journey.
 
 
+
+<br/>
 
 # A Deep Learning Approach to this problem
 
@@ -216,3 +215,11 @@ Below is a Deep Learning approach to this problem.
 Details of the model implementation is in the notebook :   
 
  [Deep_Learning_Regression_Used_Car_Pricing](https://github.com/jchowdhury82/Springboard_Capstone_UsedCar/blob/master/Deep_Learning_Approach/Used_Car_Price_Predictor_DL_Approach.ipynb)
+
+
+
+<br/>
+
+## Thank You Note
+
+Big thanks to mentor and guide **Mr. Jeremy Cunningham** for his continuous support and patience throughout my learning journey.
