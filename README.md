@@ -8,7 +8,7 @@
 **Data Sources** :  Web Scraped car sales posting data from a used car seller website, additional car data sources from other websites  
 **Prediction Algorithm Class**        :  Regression  
 **Algorithms**        :  RandomForest and XGBoost    
-**Model Tuning**  : GridSearch with Stacking Regressor
+**Model Tuning**  : GridSearch with Stacking Regressor  
 **Deployment Type** :  Flask Application on gunicorn WSGI server with 2 threads  
 
 
@@ -179,12 +179,41 @@ Big thanks to mentor and guide **Mr. Jeremy Cunningham** for his continuous supp
 
 
 
-# A Deep Learning Approach for this problem
+# A Deep Learning Approach to this problem
 
-Below is a Deep Learning approach to this problem -  This is a simple network with 4 layers and uses dropout regularization.
+Below is a Deep Learning approach to this problem.
+
+
+## High Level Design
+
+- **Implementation**   :  _Sequential model with Keras (Tensorflow Backend)_
+
+- **Model architecture**       :  _Artificial Neural Network with 4 layers_ 
+  - 1 input layer   10 units  
+  - 1 hidden layer  20 units    
+  - 1 hidden layer   5 units     
+  - 1 output layer   1 unit       
+    
+- **Activation functions** :  _ReLu_
+
+- **Initializer** : _Xavier (glorot uniform)_
+
+- **Cost Optmizer** : SGD (Stochastic Gradient Descent)
+
+- **Loss Function** : MSE (Mean Squared Error)
+- **Epochs and Callback** : 1000 epochs with Early Stopping Callback for 5 iterations
+- **Input Feature Augmentation**: 
+  - Mandatory_input_features = year, make, model,trim, odometer,state,colorexterior,colorinterior
+  - Features augmented - ReliabilityRank,CostOfLivingRank,PercentSales, AvgDaysToTurn,ReviewScore,AvgMPG, LuxurySportsOrHybrid, drivetrain,bodytype
+- **Feature Encoding**: 
+  - Numeric features - ReliabilityRank,CostOfLivingRank,PercentSales,AvgDaysToTurn,ReviewScore,AvgMPG,age,odo
+  - Categorical features to be OneHot encoded - owner,usage,LuxurySportsOrHybrid,drivetrain,accidenthist,colorexterior, colorinterior, bodytype  
+  
  
 ![Neural Network with Regression](https://github.com/jchowdhury82/Springboard_Capstone_UsedCar/blob/master/images/Used_Car_Price_NN.png)
 
-Details of the model is in the notebook : 
+
+
+Details of the model implementation is in the notebook :   
 
  [Deep_Learning_Regression_Used_Car_Pricing](https://github.com/jchowdhury82/Springboard_Capstone_UsedCar/blob/master/Deep_Learning_Approach/Used_Car_Price_Predictor_DL_Approach.ipynb)
