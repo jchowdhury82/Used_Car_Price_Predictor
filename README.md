@@ -189,16 +189,15 @@ Below is a Deep Learning approach to this problem.
 - **Implementation**   :  _Sequential model with Keras (Tensorflow Backend)_
 
 - **Model architecture**       :  _Artificial Neural Network with 4 layers_ 
-  - 1 input layer   10 units  
+  - 1 input layer   40 units  
   - 1 hidden layer  20 units    
-  - 1 hidden layer   5 units     
   - 1 output layer   1 unit       
     
 - **Activation functions** :  _ReLu_
 
 - **Initializer** : _Xavier (glorot uniform)_
 
-- **Cost Optmizer** : SGD (Stochastic Gradient Descent)
+- **Cost Optmizer** : Adam 
 
 - **Loss Function** : MSE (Mean Squared Error)
 - **Epochs and Callback** : 1000 epochs with Early Stopping Callback for 5 iterations
