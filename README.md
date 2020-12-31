@@ -3,8 +3,9 @@
 ### Author - Joyjit Chowdhury,  Student - Springboard MLE Course - Jan 2020 Cohort
 ### Mentor - Jeremy Cunningham
 
-### Project Details - 
-**Name**                              :  Used Car Price Prediction  
+## Project Overview   
+
+**Name**  :  Used Car Price Prediction  
 **Data Sources** :  Web Scraped car sales posting data from a used car seller website, additional car data sources from other websites  
 **Prediction Algorithm Class**        :  Regression  
 **Algorithms**        :  RandomForest and XGBoost    
@@ -55,7 +56,7 @@
 
 
 
-## Project overview and major activities
+## Major activities and implementation summary
 
 **Web Scrape used car listings**
 - Use selenium webdriver plugin on chrome with requests / BeautifulSoup library to scrape used car listings
@@ -178,6 +179,8 @@ http://0.0.0.0:5000/getPrice`
 
 <br/>
 
+
+
 # A Deep Learning Approach to this problem
 
 Below is a Deep Learning approach to this problem.
@@ -220,6 +223,6 @@ Details of the model implementation is in the notebook :
 
 <br/>
 
-## Thank You Note
+# Thank You Note
 
-<span style=“color:green;”> Big thanks to mentor and guide **Mr. Jeremy Cunningham** for his continuous support and patience throughout my learning journey.</span>
+### <span style=“color:green;”> Big thanks to mentor and guide **Mr. Jeremy Cunningham** for his continuous support and patience throughout my learning journey.</span>
