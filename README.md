@@ -188,7 +188,7 @@ Below is a Deep Learning approach to this problem.
 
 - **Implementation**   :  _Sequential model with Keras (Tensorflow Backend)_
 
-- **Model architecture**       :  _Artificial Neural Network with 4 layers_ 
+- **Model architecture**       :  _Artificial Neural Network with 3 layers_ 
   - 1 input layer   40 units  
   - 1 hidden layer  20 units    
   - 1 output layer   1 unit       
