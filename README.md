@@ -8,7 +8,11 @@
 **Name**  :  Used Car Price Prediction  
 **Data Sources** :  Web Scraped car sales posting data from a used car seller website, additional car data sources from other websites  
 **Prediction Algorithm Class**        :  Regression  
-**Algorithms**        :  RandomForest and XGBoost  (scikitlearn approach) , Neural Network with 3 layers (DL approach),  GBT classifier (
+**Algorithms**        :  
+- Traditional scikitlearn approach - RandomForest and XGBoost 
+- Deep Learning approach -  Neural Network with 3 layers (DL approach) and ReLu activations
+- Spark ML apprach - GBT classifier from spak ml  
+
 **Model Tuning**  : GridSearch with Stacking Regressor  
 **Deployment Type** :  Flask Application on gunicorn WSGI server with 2 threads  
 
