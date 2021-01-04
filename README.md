@@ -8,13 +8,13 @@
 **Name**  :  Used Car Price Prediction  
 **Data Sources** :  Web Scraped car sales posting data from a used car seller website, additional car data sources from other websites  
 **Prediction Algorithm Class**        :  Regression  
-**Algorithms**        :  RandomForest and XGBoost    
+**Algorithms**        :  RandomForest and XGBoost  (scikitlearn approach) , Neural Network with 3 layers (DL approach),  GBT classifier (
 **Model Tuning**  : GridSearch with Stacking Regressor  
 **Deployment Type** :  Flask Application on gunicorn WSGI server with 2 threads  
 
 **Data Input Type**
 
-| Field |	Description	| Data Type | 	Example |
+| **Field** |	Description	| Data Type | 	Example |
 | ----- |	-----------	| --------- | 	------- |
 |year |	Year of manufacture |	Numeric |	2014 |
 |make |	Make of car	|String	| "toyota" |
@@ -28,6 +28,10 @@
 |owner | 	Number of owners |	Numeric |	5 |
 |usage |	Purpose of use by previous owners |	String | "personal" |
 
+
+**Data Output**
+
+Predicted price of the used car
 
 
 ## Project Structure
