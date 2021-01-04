@@ -12,6 +12,23 @@
 **Model Tuning**  : GridSearch with Stacking Regressor  
 **Deployment Type** :  Flask Application on gunicorn WSGI server with 2 threads  
 
+**Data Input Type**
+
+| Field |	Description	| Data Type | 	Example |
+| ----- |	-----------	| --------- | 	------- |
+|year |	Year of manufacture |	Numeric |	2014 |
+|make |	Make of car	|String	| "toyota" |
+|model |	Model of car	|String	| "corolla" |
+|trim |	Trim of car | String	| "le plus" |
+|odometer |	Current odometer reading |	Numeric	|20700|
+|state |	State where used car is on sale |	String	|  "AZ"|
+|colorexterior |	Exterior color|	String	| "blue"|
+|colorinterior |	Interior color|	String|	 "black"|
+|accidenthist |	Any history of accidents	| Numeric	| "n" |
+|owner | 	Number of owners |	Numeric |	5 |
+|usage |	Purpose of use by previous owners |	String | "personal" |
+
+
 
 ## Project Structure
 
