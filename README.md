@@ -1,4 +1,4 @@
-# Capstone Project - Used Car Price prediction with Regression using Ensemble Tree based algorithms
+# Capstone Project - Used Car Price prediction 
 
 ### Author - Joyjit Chowdhury,  Student - Springboard MLE Course - Jan 2020 Cohort
 ### Mentor - Jeremy Cunningham
@@ -8,7 +8,7 @@
 **Name**  :  Used Car Price Prediction  
 **Data Sources** :  Web Scraped car sales posting data from a used car seller website, additional car data sources from other websites  
 **Prediction Algorithm Class**        :  Regression  
-**Algorithms**        :  
+**Algorithms**        :   For this capstone, 3 different approaches are used for the regression problem
 - Traditional scikitlearn approach - RandomForest and XGBoost 
 - Deep Learning approach -  Neural Network with 3 layers (DL approach) and ReLu activations
 - Spark ML apprach - GBT classifier from spak ml  
@@ -36,6 +36,36 @@
 **Data Output**
 
 Predicted price of the used car
+
+
+## Design Considerations
+
+### Major Components :
+
+- **Data Transformer classes** – module for the transformer classes on input data
+-	**Flask Application Module** – main flask application module with functions serving endpoints
+-	**Gunicorn Configuration File** – configuration  / property file for gunicorn WSGI app server
+-	**Wrapper shell script for gunicorn** – wrapper script for invoking gunicorn app server with required configuration – entry point to the application
+-	**Additional Data Files** – CSV files to be used to append additional features to raw inputs
+  -	car_category.csv
+  -	car_reliability_rankings.csv
+  -	statewise_economic_indicators.csv
+  -	car_sales.csv
+  -	used_car_time_to_turn.csv
+  -	car_ratings.csv
+-	**Model file** – Pickle dump of the trained model
+-	**Docker (configuration) files** – 
+  - requirements.txt : text file with necessary package names and versions for building docker image 
+  -	dockerfile : text file with docker image creation specifications
+
+### Input data schema :
+![Input Data Schema](https://github.com/jchowdhury82/Springboard_Capstone_UsedCar/blob/master/images/input_schema.PNG)
+
+### Feature encoding :
+![Data Transformation](https://github.com/jchowdhury82/Springboard_Capstone_UsedCar/blob/master/images/feature_encoding.PNG)
+
+### Application access specifications :
+![Application Access](https://github.com/jchowdhury82/Springboard_Capstone_UsedCar/blob/master/images/app_access.PNG)
 
 
 ## Project Structure
@@ -192,6 +222,35 @@ http://0.0.0.0:5000/getPrice`
 ![predicted_csv](https://github.com/jchowdhury82/Springboard_Capstone_UsedCar/blob/master/images/csv_predicted.png)
 
 
+## Model Lifecycle and Housekeeping proposals
+
+#### Model Changes
+
+With time, the model will be prone to data changes or conceptual changes and would need retraining or maintenance. Along with these, regular maintenance may be required to ensure model performance is within allowed thresholds.
+- **Data changes** – New data trends may show up which can significantly contribute to drop in model prediction performance. External data used for data enrichment / augmentation may become stale and need refresh. 
+- **Conceptual changes** – Data semantics may change over time based on business requirements and enhancements may be  required with retraining. Data semantics may also change due to changes in demographic and economic indicators which are used for data preparation. 
+ 
+Due to this, the model may become stale or out-of-date which may need retraining or recompiling with better dataset and features.
+
+#### Model Monitoring
+
+The following approach may be considered for model monitoring:
+- Create specialized functions to cross validate model on bulk data with metrics like rmse, r2 and mae. 
+- Generate random test dataset and run cross validations. Store the metrics in some database with time signature.
+- Publish an API within the application to show a trend plot of model metrics with time. 
+- Establish a consensus on a model metric threshold for retraining. Whenever the metrics drop below the threshold, send notification for manual retraining or execute retrain module as part of housekeeping. 
+- For model tuning, we can use GridSearch or HyperOpt as tuning tools. Various other tools are also available
+
+#### Model retraining and republish:
+
+Model retraining may follow the following approach:
+- Stop the application in production (take the API offline) 
+- On notification of low threshold, generate train and test data 
+- Train and test model with Cross Validation in the dev / test sandbox and record metrics. 
+- Once required threshold is achieved with the metrics, pickle the new version of the model file with versioning tool. 
+- Build new docker file with docker compose and ensure only the required components are updated.
+- Start the application again. Ensure all memory and temporary files are cleared.
+
 
 ## Scope of Improvement
 
@@ -251,6 +310,14 @@ Details of the model implementation is in the notebook :
 
 
 <br/>
+
+
+# Scaling up with Spark ML
+
+Spark ML can be used to upscale the model's data handling capabilities. 
+
+
+
 
 # Thank You Note
 
