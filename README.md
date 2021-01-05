@@ -144,6 +144,10 @@ Predicted price of the used car
         `docker image push jchowdhury/carpricepredictor:latest` 
 
 
+![Deployment Architecture](https://github.com/jchowdhury82/Springboard_Capstone_UsedCar/blob/master/images/Deployment_Solution.PNG)
+
+
+
 ## Code Execution 
 
 - **Pull Docker Image from Docker Repository**
