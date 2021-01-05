@@ -315,6 +315,18 @@ Details of the model implementation is in the notebook :
 # Scaling up with Spark ML
 
 Spark ML can be used to upscale the model's data handling capabilities. 
+The following steps are executed with Spark ML libraries on databricks to create a scaled up model:
+- Get required data files using spark dataframes
+- Transform data with the dataframe API's
+- Use VectorAssembler with string indexers to encode categorical data
+- Use Regression Evaluator and Cross Validator to get best parameters. 
+
+The Spark ML based approach is depicted in the notebook below:
+
+[Spark ML based Regression approach](https://github.com/jchowdhury82/Springboard_Capstone_UsedCar/blob/master/Spark_ML_Approach/Capstone_Used_Car_Pricing_At_Scale_PySpark_ML.ipynb)   
+
+
+
 
 
 
